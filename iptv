@@ -1139,6 +1139,10 @@ http://tv.minhalista.me/live/gil148/gil148/41515.m3u
 http://tv.minhalista.me/live/gil148/gil148/68058.m3u
 #EXTINF:-1,Globo Minas HD
 http://tv.minhalista.me/live/gil148/gil148/40251.m3u
+#EXTINF:-1,GLOBO MINAS 2
+http://168.205.87.198:8555/live/antony/1234/70.ts?checkedby:iptvcat.com
+#EXTINF:-1,Globo Minas FHD
+http://cdn99.one:80/356195/FgHq4u/131200.ts?checkedby:iptvcat.com
 #EXTINF:-1,Globo NSC Florianópolis FHD - H265
 http://tv.minhalista.me/live/gil148/gil148/68060.m3u
 #EXTINF:-1,Globo NSC TV Blumenau FHD - H265
