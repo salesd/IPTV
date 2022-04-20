@@ -1,301 +1,3963 @@
 #EXTM3U
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Telecine Cult HD
-http://new-pro.tv:8080/Fernando/123321/32988?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Telecine Action HD
-http://new-pro.tv:8080/Fernando/123321/32987?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Viva HD
-http://new-pro.tv:8080/Fernando/123321/33001?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Warner Channel HD
-http://new-pro.tv:8080/Fernando/123321/33002?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Zoomoo HD
-http://new-pro.tv:8080/Fernando/123321/33004?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VH1 HD
-http://new-pro.tv:8080/Fernando/123321/32999?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Tru TV SD
-http://new-pro.tv:8080/Fernando/123321/33055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sony HD
-http://new-pro.tv:8080/Fernando/123321/32979?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Space HD
-http://new-pro.tv:8080/Fernando/123321/32980?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 HD
-http://new-pro.tv:8080/Fernando/123321/33324?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 3 HD
-http://new-pro.tv:8080/Fernando/123321/33326?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV HD
-http://new-pro.tv:8080/Fernando/123321/33328?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM
-http://new-pro.tv:8080/Fernando/123321/122299?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT HD
-http://new-pro.tv:8080/Fernando/123321/32993?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT Series HD
-http://new-pro.tv:8080/Fernando/123321/32994?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE MINAS
-http://168.205.87.198:8555/live/leila/123456/101.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record News HD
-http://new-pro.tv:8080/Fernando/123321/32969?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record SP HD
-http://new-pro.tv:8080/Fernando/123321/32972?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="Education",Rede Minas (1080p) [Not 24/7]
-https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Rede TV HD
-http://new-pro.tv:8080/Fernando/123321/32974?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT RJ HD
-http://new-pro.tv:8080/Fernando/123321/33011?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
-http://168.205.87.198:8555/live/1221/123456/104.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT SP
-http://new-pro.tv:8080/Fernando/123321/33009?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Paramount Channel FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/72218.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Paramount Channel 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90634.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 1 SD
-http://new-pro.tv:8080/Fernando/123321/32956?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103482.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/72238.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 HD
-http://new-pro.tv:8080/Fernando/123321/32957?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 HD
-http://cdn99.one:80/356195/FgHq4u/72239.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103481.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 FHD
-http://cdn99.one:80/356195/FgHq4u/72241.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 HD
-http://new-pro.tv:8080/Fernando/123321/32958?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103480.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/72246.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103479.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 HD
-http://cdn99.one:80/356195/FgHq4u/72247.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/72250.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 HD
-http://cdn99.one:80/356195/FgHq4u/72251.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103478.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD
-http://new-pro.tv:8080/Fernando/123321/32961?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103477.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 FHD
-http://cdn99.one:80/356195/FgHq4u/72257.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/72258.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 HD
-http://cdn99.one:80/356195/FgHq4u/72259.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/72264.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes FHD
-http://cdn99.one:80/356195/FgHq4u/72262.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes HD
-http://cdn99.one:80/356195/FgHq4u/72265.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD MINAS
-http://168.205.87.198:8555/live/1221/123456/96.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV LIVE 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103489.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Megapix 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/131104.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Megapix FHD
-http://cdn99.one:80/356195/FgHq4u/72166.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Multishow FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/131107.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nat Geo HD
-http://new-pro.tv:8080/Fernando/123321/32949?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nat Geo Kids HD
-http://new-pro.tv:8080/Fernando/123321/32947?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",National Geographic 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/72198.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nick Jr FHD
-http://cdn99.one:80/356195/FgHq4u/72201.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nickelodeon FHD
-http://cdn99.one:80/356195/FgHq4u/72205.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Pop FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/72130.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90636.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90244.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History FHD
-http://cdn99.one:80/356195/FgHq4u/72146.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RJ FHD
-http://cdn99.one:80/356195/FgHq4u/72025.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo SP FHD
-http://cdn99.one:80/356195/FgHq4u/72040.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloob 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103498.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloob FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/72099.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloobinho 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103497.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloobinho FHD
-http://cdn99.one:80/356195/FgHq4u/90631.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90245.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 FHD
-http://cdn99.one:80/356195/FgHq4u/72106.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90246.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD
-http://cdn99.one:80/356195/FgHq4u/72110.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90247.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Extreme HD
-http://new-pro.tv:8080/Fernando/123321/32939?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90635.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus FHD
-http://cdn99.one:80/356195/FgHq4u/72125.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox HD
-http://new-pro.tv:8080/Fernando/123321/32893?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/71954.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 FHD
-http://cdn99.one:80/356195/FgHq4u/71952.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports HD
-http://new-pro.tv:8080/Fernando/123321/33277?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90638.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
-http://168.205.87.198:8555/live/antony/1234/70.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Minas FHD
-http://cdn99.one:80/356195/FgHq4u/131200.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Globo News FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/71998.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Science 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103511.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Science FHD
-http://cdn99.one:80/356195/FgHq4u/71875.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery World 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103509.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery World FHD
-http://cdn99.one:80/356195/FgHq4u/71887.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Turbo FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/71884.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Turbo HD
-http://cdn99.one:80/356195/FgHq4u/71885.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Disney Channel FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/71892.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Disney Channel HD
-http://new-pro.tv:8080/Fernando/123321/32883?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Disney Junior HD
-http://new-pro.tv:8080/Fernando/123321/32884?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Disney XD HD
-http://new-pro.tv:8080/Fernando/123321/32885?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/71921.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD
-http://cdn99.one:80/356195/FgHq4u/71919.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 3 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103504.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 3 FHD
-http://cdn99.one:80/356195/FgHq4u/71907.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/71912.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD
-http://cdn99.one:80/356195/FgHq4u/71911.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90639.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FHD
-http://cdn99.one:80/356195/FgHq4u/71966.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cartoonito 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90644.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cartoonito FHD
-http://cdn99.one:80/356195/FgHq4u/71812.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cartoon Network FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/71829.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Conmebol TV 1 FHD
-http://cdn99.one:80/356195/FgHq4u/72977.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Conmebol TV 1 HD
-http://cdn99.one:80/356195/FgHq4u/72979.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cultura 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103513.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cultura FHD
-http://cdn99.one:80/356195/FgHq4u/71851.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cultura FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/71852.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Channel 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/71864.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Channel FHD
-http://cdn99.one:80/356195/FgHq4u/71862.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Channel FHD [H265]
-http://cdn99.one:80/356195/FgHq4u/71863.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",Discovery Kids FHD
-http://cdn99.one:80/356195/FgHq4u/71871.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",Discovery Kids 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/90250.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 4 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103521.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 2 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103523.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB 1 FHD
-http://cdn99.one:80/356195/FgHq4u/146839.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB 2 FHD
-http://cdn99.one:80/356195/FgHq4u/147204.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 1 FHD
-http://cdn99.one:80/356195/FgHq4u/128349.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 10 FHD
-http://cdn99.one:80/356195/FgHq4u/147430.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 11 FHD
-http://cdn99.one:80/356195/FgHq4u/147433.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 2 FHD
-http://cdn99.one:80/356195/FgHq4u/128603.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 3 FHD
-http://cdn99.one:80/356195/FgHq4u/128606.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 4 FHD
-http://cdn99.one:80/356195/FgHq4u/147413.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 5 FHD
-http://cdn99.one:80/356195/FgHq4u/147416.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 6 FHD
-http://cdn99.one:80/356195/FgHq4u/147419.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 7 FHD
-http://cdn99.one:80/356195/FgHq4u/147422.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 8 FHD
-http://cdn99.one:80/356195/FgHq4u/147424.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Mosaico FHD
-http://cdn99.one:80/356195/FgHq4u/147207.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Baby TV SD
-http://cdn99.one:80/356195/FgHq4u/130198.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Band News 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103526.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Band News FHD
-http://cdn99.one:80/356195/FgHq4u/71789.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports 4K FHDR
-http://cdn99.one:80/356195/FgHq4u/103525.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports FHD
-http://cdn99.one:80/356195/FgHq4u/71801.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
-http://168.205.87.198:8555/live/michele/123456/19.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Brazil",ALL Sports Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazil",COM Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Brazil",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-name="Futura" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/futura.jpg" group-title="Brazil",Futura
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Brazil",Record
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1 tvg-name="RBC" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Brazil",RBC
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" group-title="Brazil",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Record News Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Brazil",Record News Ⓢ
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logo-istv.png" group-title="Brazil",ISTV
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
-#EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Brazil",Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Brazil",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Brazil",TVE RS
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,A&E
+http://tv.minhalista.me/live/gil148/gil148/37130.m3u
+#EXTINF:-1,A&E FHD
+http://tv.minhalista.me/live/gil148/gil148/40263.m3u
+#EXTINF:-1,A&E H265
+http://tv.minhalista.me/live/gil148/gil148/62889.m3u
+#EXTINF:-1,A&E HD
+http://tv.minhalista.me/live/gil148/gil148/36929.m3u
+#EXTINF:-1,A&E HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50614.m3u
+#EXTINF:-1,A&E [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50628.m3u
+#EXTINF:-1,A&E | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63257.m3u
+#EXTINF:-1,AMC
+http://tv.minhalista.me/live/gil148/gil148/41087.m3u
+#EXTINF:-1,AMC FHD
+http://tv.minhalista.me/live/gil148/gil148/40262.m3u
+#EXTINF:-1,AMC FHD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50636.m3u
+#EXTINF:-1,AMC H265
+http://tv.minhalista.me/live/gil148/gil148/62888.m3u
+#EXTINF:-1,AMC HD
+http://tv.minhalista.me/live/gil148/gil148/36928.m3u
+#EXTINF:-1,AMC HD  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50639.m3u
+#EXTINF:-1,AMC [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50640.m3u
+#EXTINF:-1,ANIMAL PLANET H265
+http://tv.minhalista.me/live/gil148/gil148/62794.m3u
+#EXTINF:-1,ANIMAL PLANET [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50641.m3u
+#EXTINF:-1,ANIMAL PLANET | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63256.m3u
+#EXTINF:-1,ANTENA 1 FM
+http://tv.minhalista.me/live/gil148/gil148/87428.m3u
+#EXTINF:-1,ARTE 1 | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63255.m3u
+#EXTINF:-1,AXN
+http://tv.minhalista.me/live/gil148/gil148/37132.m3u
+#EXTINF:-1,AXN   | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63225.m3u
+#EXTINF:-1,AXN FHD
+http://tv.minhalista.me/live/gil148/gil148/41468.m3u
+#EXTINF:-1,AXN FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81803.m3u
+#EXTINF:-1,AXN FHD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50644.m3u
+#EXTINF:-1,AXN H265
+http://tv.minhalista.me/live/gil148/gil148/62796.m3u
+#EXTINF:-1,AXN HD
+http://tv.minhalista.me/live/gil148/gil148/36991.m3u
+#EXTINF:-1,AXN HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81804.m3u
+#EXTINF:-1,AXN HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50646.m3u
+#EXTINF:-1,AXN [4K]
+http://tv.minhalista.me/live/gil148/gil148/74799.m3u
+#EXTINF:-1,AXN [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50647.m3u
+#EXTINF:-1,AXÉ
+http://tv.minhalista.me/live/gil148/gil148/54286.m3u
+#EXTINF:-1,Agro Canal HD
+http://tv.minhalista.me/live/gil148/gil148/71074.m3u
+#EXTINF:-1,Animal Planet
+http://tv.minhalista.me/live/gil148/gil148/37128.m3u
+#EXTINF:-1,Animal Planet FHD
+http://tv.minhalista.me/live/gil148/gil148/38392.m3u
+#EXTINF:-1,Animal Planet HD
+http://tv.minhalista.me/live/gil148/gil148/36992.m3u
+#EXTINF:-1,Animal Planet [4K]
+http://tv.minhalista.me/live/gil148/gil148/61841.m3u
+#EXTINF:-1,Anos 2000 A
+http://tv.minhalista.me/live/gil148/gil148/54284.m3u
+#EXTINF:-1,Anos 2000 B
+http://tv.minhalista.me/live/gil148/gil148/54285.m3u
+#EXTINF:-1,Anos 70
+http://tv.minhalista.me/live/gil148/gil148/54279.m3u
+#EXTINF:-1,Anos 80 A
+http://tv.minhalista.me/live/gil148/gil148/54280.m3u
+#EXTINF:-1,Anos 80 B
+http://tv.minhalista.me/live/gil148/gil148/54281.m3u
+#EXTINF:-1,Anos 90 A
+http://tv.minhalista.me/live/gil148/gil148/54282.m3u
+#EXTINF:-1,Anos 90 B
+http://tv.minhalista.me/live/gil148/gil148/54283.m3u
+#EXTINF:-1,Arte 1
+http://tv.minhalista.me/live/gil148/gil148/37133.m3u
+#EXTINF:-1,Arte 1 FHD
+http://tv.minhalista.me/live/gil148/gil148/41467.m3u
+#EXTINF:-1,Arte 1 HD
+http://tv.minhalista.me/live/gil148/gil148/63637.m3u
+#EXTINF:-1,Arte 1 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50643.m3u
+#EXTINF:-1,Avila Beach Hotel
+http://tv.minhalista.me/live/gil148/gil148/71488.m3u
+#EXTINF:-1,BABY TV HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50648.m3u
+#EXTINF:-1,BABY TV [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50649.m3u
+#EXTINF:-1,BAND CAMPINAS FHD
+http://tv.minhalista.me/live/gil148/gil148/77850.m3u
+#EXTINF:-1,BAND CAMPINAS HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50650.m3u
+#EXTINF:-1,BAND H265
+http://tv.minhalista.me/live/gil148/gil148/62887.m3u
+#EXTINF:-1,BAND SPORTS H265
+http://tv.minhalista.me/live/gil148/gil148/62798.m3u
+#EXTINF:-1,BAND SPORTS HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50656.m3u
+#EXTINF:-1,BAND SPORTS [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50657.m3u
+#EXTINF:-1,BAND | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63232.m3u
+#EXTINF:-1,BBB Academia (P)
+http://tv.minhalista.me/live/gil148/gil148/84929.m3u
+#EXTINF:-1,BBB CAM 1 (S)
+http://tv.minhalista.me/live/gil148/gil148/84933.m3u
+#EXTINF:-1,BBB CAM 10 (S)
+http://tv.minhalista.me/live/gil148/gil148/84942.m3u
+#EXTINF:-1,BBB CAM 2 (S)
+http://tv.minhalista.me/live/gil148/gil148/84934.m3u
+#EXTINF:-1,BBB CAM 3 (S)
+http://tv.minhalista.me/live/gil148/gil148/84935.m3u
+#EXTINF:-1,BBB CAM 4 (S)
+http://tv.minhalista.me/live/gil148/gil148/84936.m3u
+#EXTINF:-1,BBB CAM 5 (S)
+http://tv.minhalista.me/live/gil148/gil148/84937.m3u
+#EXTINF:-1,BBB CAM 6 (S)
+http://tv.minhalista.me/live/gil148/gil148/84938.m3u
+#EXTINF:-1,BBB CAM 7 (S)
+http://tv.minhalista.me/live/gil148/gil148/84939.m3u
+#EXTINF:-1,BBB CAM 8 (S)
+http://tv.minhalista.me/live/gil148/gil148/84940.m3u
+#EXTINF:-1,BBB CAM 9 (S)
+http://tv.minhalista.me/live/gil148/gil148/84941.m3u
+#EXTINF:-1,BBB CASA 1 (P)
+http://tv.minhalista.me/live/gil148/gil148/84921.m3u
+#EXTINF:-1,BBB CASA 2 (P)
+http://tv.minhalista.me/live/gil148/gil148/84922.m3u
+#EXTINF:-1,BBB Chuveiro (P)
+http://tv.minhalista.me/live/gil148/gil148/84930.m3u
+#EXTINF:-1,BBB Confessionário (P)
+http://tv.minhalista.me/live/gil148/gil148/84931.m3u
+#EXTINF:-1,BBB Cozinha (P)
+http://tv.minhalista.me/live/gil148/gil148/84926.m3u
+#EXTINF:-1,BBB Câmera 01 (J)
+http://tv.minhalista.me/live/gil148/gil148/84962.m3u
+#EXTINF:-1,BBB Câmera 02 (J)
+http://tv.minhalista.me/live/gil148/gil148/84963.m3u
+#EXTINF:-1,BBB Câmera 03 (J)
+http://tv.minhalista.me/live/gil148/gil148/84964.m3u
+#EXTINF:-1,BBB Câmera 04 (J)
+http://tv.minhalista.me/live/gil148/gil148/84965.m3u
+#EXTINF:-1,BBB Câmera 05 (J)
+http://tv.minhalista.me/live/gil148/gil148/84966.m3u
+#EXTINF:-1,BBB Câmera 06 (J)
+http://tv.minhalista.me/live/gil148/gil148/84967.m3u
+#EXTINF:-1,BBB Câmera 07 (J)
+http://tv.minhalista.me/live/gil148/gil148/84968.m3u
+#EXTINF:-1,BBB Câmera 08 (J)
+http://tv.minhalista.me/live/gil148/gil148/84969.m3u
+#EXTINF:-1,BBB Câmera 09 (J)
+http://tv.minhalista.me/live/gil148/gil148/84970.m3u
+#EXTINF:-1,BBB Câmera 10 (J)
+http://tv.minhalista.me/live/gil148/gil148/84971.m3u
+#EXTINF:-1,BBB Câmera 11 (J)
+http://tv.minhalista.me/live/gil148/gil148/84972.m3u
+#EXTINF:-1,BBB FHD 1 (P)
+http://tv.minhalista.me/live/gil148/gil148/84895.m3u
+#EXTINF:-1,BBB FHD 2 (P)
+http://tv.minhalista.me/live/gil148/gil148/84896.m3u
+#EXTINF:-1,BBB HD 1 (P)
+http://tv.minhalista.me/live/gil148/gil148/84474.m3u
+#EXTINF:-1,BBB HD 2 (P)
+http://tv.minhalista.me/live/gil148/gil148/84473.m3u
+#EXTINF:-1,BBB Jardim (P)
+http://tv.minhalista.me/live/gil148/gil148/84928.m3u
+#EXTINF:-1,BBB MOSAICO HD (J)
+http://tv.minhalista.me/live/gil148/gil148/84961.m3u
+#EXTINF:-1,BBB Mosaico (P)
+http://tv.minhalista.me/live/gil148/gil148/84472.m3u
+#EXTINF:-1,BBB Mosaico 2 (P)
+http://tv.minhalista.me/live/gil148/gil148/84932.m3u
+#EXTINF:-1,BBB Mosaico FHD (P)
+http://tv.minhalista.me/live/gil148/gil148/84897.m3u
+#EXTINF:-1,BBB Piscina (P)
+http://tv.minhalista.me/live/gil148/gil148/84927.m3u
+#EXTINF:-1,BBB Quarto 1 (P)
+http://tv.minhalista.me/live/gil148/gil148/84923.m3u
+#EXTINF:-1,BBB Quarto 2 (P)
+http://tv.minhalista.me/live/gil148/gil148/84924.m3u
+#EXTINF:-1,BBB Sala (P)
+http://tv.minhalista.me/live/gil148/gil148/84925.m3u
+#EXTINF:-1,BH FM
+http://tv.minhalista.me/live/gil148/gil148/87443.m3u
+#EXTINF:-1,BIS
+http://tv.minhalista.me/live/gil148/gil148/37131.m3u
+#EXTINF:-1,BIS FHD
+http://tv.minhalista.me/live/gil148/gil148/38403.m3u
+#EXTINF:-1,BIS FHD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50660.m3u
+#EXTINF:-1,BIS H265
+http://tv.minhalista.me/live/gil148/gil148/62799.m3u
+#EXTINF:-1,BIS HD
+http://tv.minhalista.me/live/gil148/gil148/36988.m3u
+#EXTINF:-1,BIS | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63262.m3u
+#EXTINF:-1,BOSSA NOVA
+http://tv.minhalista.me/live/gil148/gil148/54287.m3u
+#EXTINF:-1,BabyTV
+http://tv.minhalista.me/live/gil148/gil148/36993.m3u
+#EXTINF:-1,BabyTV FHD
+http://tv.minhalista.me/live/gil148/gil148/63635.m3u
+#EXTINF:-1,BabyTV HD
+http://tv.minhalista.me/live/gil148/gil148/63634.m3u
+#EXTINF:-1,Band
+http://tv.minhalista.me/live/gil148/gil148/37127.m3u
+#EXTINF:-1,Band Bahia
+http://tv.minhalista.me/live/gil148/gil148/65266.m3u
+#EXTINF:-1,Band Brasília HD
+http://tv.minhalista.me/live/gil148/gil148/63000.m3u
+#EXTINF:-1,Band FHD
+http://tv.minhalista.me/live/gil148/gil148/38429.m3u
+#EXTINF:-1,Band Goiânia HD
+http://tv.minhalista.me/live/gil148/gil148/63697.m3u
+#EXTINF:-1,Band HD
+http://tv.minhalista.me/live/gil148/gil148/36990.m3u
+#EXTINF:-1,Band Interior RJ HD
+http://tv.minhalista.me/live/gil148/gil148/64658.m3u
+#EXTINF:-1,Band Manaira FHD
+http://tv.minhalista.me/live/gil148/gil148/80917.m3u
+#EXTINF:-1,Band RS HD
+http://tv.minhalista.me/live/gil148/gil148/63681.m3u
+#EXTINF:-1,Band Recife FHD
+http://tv.minhalista.me/live/gil148/gil148/63384.m3u
+#EXTINF:-1,Band Rio HD
+http://tv.minhalista.me/live/gil148/gil148/62088.m3u
+#EXTINF:-1,Band SP
+http://tv.minhalista.me/live/gil148/gil148/68522.m3u
+#EXTINF:-1,Band SP FHD
+http://tv.minhalista.me/live/gil148/gil148/41514.m3u
+#EXTINF:-1,Band SP HD
+http://tv.minhalista.me/live/gil148/gil148/41530.m3u
+#EXTINF:-1,Band Sergipe HD
+http://tv.minhalista.me/live/gil148/gil148/62992.m3u
+#EXTINF:-1,Band [4K]
+http://tv.minhalista.me/live/gil148/gil148/64379.m3u
+#EXTINF:-1,BandNews
+http://tv.minhalista.me/live/gil148/gil148/37126.m3u
+#EXTINF:-1,BandNews FHD
+http://tv.minhalista.me/live/gil148/gil148/38391.m3u
+#EXTINF:-1,BandNews H265
+http://tv.minhalista.me/live/gil148/gil148/62797.m3u
+#EXTINF:-1,BandNews HD
+http://tv.minhalista.me/live/gil148/gil148/42411.m3u
+#EXTINF:-1,BandNews HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50654.m3u
+#EXTINF:-1,BandNews [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50655.m3u
+#EXTINF:-1,BandSports
+http://tv.minhalista.me/live/gil148/gil148/37125.m3u
+#EXTINF:-1,BandSports
+http://tv.minhalista.me/live/gil148/gil148/50613.m3u
+#EXTINF:-1,BandSports FHD
+http://tv.minhalista.me/live/gil148/gil148/42900.m3u
+#EXTINF:-1,BandSports HD
+http://tv.minhalista.me/live/gil148/gil148/36989.m3u
+#EXTINF:-1,Brasileirão Série C (J)
+http://tv.minhalista.me/live/gil148/gil148/87226.m3u
+#EXTINF:-1,Brasileirão Série C (S)
+http://tv.minhalista.me/live/gil148/gil148/87227.m3u
+#EXTINF:-1,Brega
+http://tv.minhalista.me/live/gil148/gil148/54288.m3u
+#EXTINF:-1,CAMERA AO VIO - GOIANIA GO
+http://tv.minhalista.me/live/gil148/gil148/87422.m3u
+#EXTINF:-1,CAMERA AO VIVO - BARRA DA LAGOA
+http://tv.minhalista.me/live/gil148/gil148/87418.m3u
+#EXTINF:-1,CAMERA AO VIVO - RIO DE JANEIRO
+http://tv.minhalista.me/live/gil148/gil148/87416.m3u
+#EXTINF:-1,CAMERA AO VIVO - SAO PAULO - UBATUBA
+http://tv.minhalista.me/live/gil148/gil148/87417.m3u
+#EXTINF:-1,CAMERAS AO VIVO - FLORIDA
+http://tv.minhalista.me/live/gil148/gil148/87421.m3u
+#EXTINF:-1,CAMERAS AO VIVO - Guaruja
+http://tv.minhalista.me/live/gil148/gil148/87420.m3u
+#EXTINF:-1,CAMERAS AO VIVO -BARRA DA TIJUCA
+http://tv.minhalista.me/live/gil148/gil148/87419.m3u
+#EXTINF:-1,CANAL SONY H265
+http://tv.minhalista.me/live/gil148/gil148/62802.m3u
+#EXTINF:-1,CANAL SONY | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63250.m3u
+#EXTINF:-1,CANCAO NOVA [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50665.m3u
+#EXTINF:-1,CARTOON H265
+http://tv.minhalista.me/live/gil148/gil148/62804.m3u
+#EXTINF:-1,CARTOON NETWORK H265
+http://tv.minhalista.me/live/gil148/gil148/50534.m3u
+#EXTINF:-1,CARTOON NETWORK HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50667.m3u
+#EXTINF:-1,CIDADE FM
+http://tv.minhalista.me/live/gil148/gil148/87441.m3u
+#EXTINF:-1,CINE MP MARVEL 01
+http://tv.minhalista.me/live/gil148/gil148/69924.m3u
+#EXTINF:-1,CINE MP MARVEL 02
+http://tv.minhalista.me/live/gil148/gil148/71075.m3u
+#EXTINF:-1,CINE MP MARVEL 03
+http://tv.minhalista.me/live/gil148/gil148/71077.m3u
+#EXTINF:-1,CINE MP MARVEL 04
+http://tv.minhalista.me/live/gil148/gil148/71079.m3u
+#EXTINF:-1,CINE MP MARVEL 05
+http://tv.minhalista.me/live/gil148/gil148/71076.m3u
+#EXTINF:-1,CINEMAX - H265
+http://tv.minhalista.me/live/gil148/gil148/50535.m3u
+#EXTINF:-1,CINEMAX FHD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50668.m3u
+#EXTINF:-1,CINEMAX H265
+http://tv.minhalista.me/live/gil148/gil148/62808.m3u
+#EXTINF:-1,CINEMAX HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50669.m3u
+#EXTINF:-1,CLUBE FM
+http://tv.minhalista.me/live/gil148/gil148/87446.m3u
+#EXTINF:-1,CNN BRASIL
+http://tv.minhalista.me/live/gil148/gil148/65040.m3u
+#EXTINF:-1,CNN BRASIL FHD
+http://tv.minhalista.me/live/gil148/gil148/65041.m3u
+#EXTINF:-1,CNN BRASIL H265
+http://tv.minhalista.me/live/gil148/gil148/65042.m3u
+#EXTINF:-1,CNN BRASIL HD
+http://tv.minhalista.me/live/gil148/gil148/65039.m3u
+#EXTINF:-1,CNN Brasil [4K]
+http://tv.minhalista.me/live/gil148/gil148/74790.m3u
+#EXTINF:-1,CNN Espanhol
+http://tv.minhalista.me/live/gil148/gil148/81018.m3u
+#EXTINF:-1,CNN Internacional
+http://tv.minhalista.me/live/gil148/gil148/81017.m3u
+#EXTINF:-1,COMBATE FHD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50671.m3u
+#EXTINF:-1,COMBATE H265
+http://tv.minhalista.me/live/gil148/gil148/50536.m3u
+#EXTINF:-1,COMBATE HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50672.m3u
+#EXTINF:-1,COMBATE [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50673.m3u
+#EXTINF:-1,COMEDY - CENTRAL H265
+http://tv.minhalista.me/live/gil148/gil148/50537.m3u
+#EXTINF:-1,COMEDY CENTRAL H265
+http://tv.minhalista.me/live/gil148/gil148/62813.m3u
+#EXTINF:-1,COMEDY CENTRAL HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50674.m3u
+#EXTINF:-1,COMEDY CENTRAL [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50675.m3u
+#EXTINF:-1,COMEDY | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63258.m3u
+#EXTINF:-1,CONMEBOL 01 (J)
+http://tv.minhalista.me/live/gil148/gil148/75600.m3u
+#EXTINF:-1,CONMEBOL 01 (P)
+http://tv.minhalista.me/live/gil148/gil148/74044.m3u
+#EXTINF:-1,CONMEBOL 01 (S)
+http://tv.minhalista.me/live/gil148/gil148/74105.m3u
+#EXTINF:-1,CONMEBOL 02 (J)
+http://tv.minhalista.me/live/gil148/gil148/75601.m3u
+#EXTINF:-1,CONMEBOL 02 (P)
+http://tv.minhalista.me/live/gil148/gil148/74076.m3u
+#EXTINF:-1,CONMEBOL 02 (S)
+http://tv.minhalista.me/live/gil148/gil148/74106.m3u
+#EXTINF:-1,CONMEBOL 03 (J)
+http://tv.minhalista.me/live/gil148/gil148/75602.m3u
+#EXTINF:-1,CONMEBOL 03 (P)
+http://tv.minhalista.me/live/gil148/gil148/74077.m3u
+#EXTINF:-1,CONMEBOL 03 (S)
+http://tv.minhalista.me/live/gil148/gil148/81687.m3u
+#EXTINF:-1,CONMEBOL 03 FHD (S)
+http://tv.minhalista.me/live/gil148/gil148/81686.m3u
+#EXTINF:-1,CONMEBOL 03 HD (S)
+http://tv.minhalista.me/live/gil148/gil148/81685.m3u
+#EXTINF:-1,CONMEBOL 04 (J)
+http://tv.minhalista.me/live/gil148/gil148/75603.m3u
+#EXTINF:-1,CONMEBOL 04 (P)
+http://tv.minhalista.me/live/gil148/gil148/74078.m3u
+#EXTINF:-1,CONMEBOL 04 (S)
+http://tv.minhalista.me/live/gil148/gil148/81690.m3u
+#EXTINF:-1,CONMEBOL 04 FHD (S)
+http://tv.minhalista.me/live/gil148/gil148/81689.m3u
+#EXTINF:-1,CONMEBOL 04 HD (S)
+http://tv.minhalista.me/live/gil148/gil148/81688.m3u
+#EXTINF:-1,CONMEBOL [4K]
+http://tv.minhalista.me/live/gil148/gil148/74800.m3u
+#EXTINF:-1,CURTA [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50676.m3u
+#EXTINF:-1,Campeonato Alagoano (J)
+http://tv.minhalista.me/live/gil148/gil148/87197.m3u
+#EXTINF:-1,Campeonato Brasiliense (J)
+http://tv.minhalista.me/live/gil148/gil148/87223.m3u
+#EXTINF:-1,Campeonato Paraibano (S)
+http://tv.minhalista.me/live/gil148/gil148/87198.m3u
+#EXTINF:-1,Campeonato Paulista A2 01 (J)
+http://tv.minhalista.me/live/gil148/gil148/87224.m3u
+#EXTINF:-1,Campeonato Paulista A2 02 (J)
+http://tv.minhalista.me/live/gil148/gil148/87225.m3u
+#EXTINF:-1,Campeonato Piauiense (J)
+http://tv.minhalista.me/live/gil148/gil148/87199.m3u
+#EXTINF:-1,Campeonato Sergipano (P)
+http://tv.minhalista.me/live/gil148/gil148/87196.m3u
+#EXTINF:-1,Campeonato Sergipano 1 (S)
+http://tv.minhalista.me/live/gil148/gil148/87194.m3u
+#EXTINF:-1,Campeonato Sergipano 2 (S)
+http://tv.minhalista.me/live/gil148/gil148/87195.m3u
+#EXTINF:-1,Canal Brasil
+http://tv.minhalista.me/live/gil148/gil148/37122.m3u
+#EXTINF:-1,Canal Brasil FHD
+http://tv.minhalista.me/live/gil148/gil148/41517.m3u
+#EXTINF:-1,Canal Brasil HD
+http://tv.minhalista.me/live/gil148/gil148/63636.m3u
+#EXTINF:-1,Canal Rural
+http://tv.minhalista.me/live/gil148/gil148/63217.m3u
+#EXTINF:-1,Canal do Boi
+http://tv.minhalista.me/live/gil148/gil148/50645.m3u
+#EXTINF:-1,Canal do Boi HD
+http://tv.minhalista.me/live/gil148/gil148/68528.m3u
+#EXTINF:-1,Canção Nova
+http://tv.minhalista.me/live/gil148/gil148/63630.m3u
+#EXTINF:-1,Canção Nova FHD
+http://tv.minhalista.me/live/gil148/gil148/74663.m3u
+#EXTINF:-1,Canção Nova HD
+http://tv.minhalista.me/live/gil148/gil148/37023.m3u
+#EXTINF:-1,Cartoon Network
+http://tv.minhalista.me/live/gil148/gil148/37121.m3u
+#EXTINF:-1,Cartoon Network  | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63224.m3u
+#EXTINF:-1,Cartoon Network FHD
+http://tv.minhalista.me/live/gil148/gil148/41471.m3u
+#EXTINF:-1,Cartoon Network HD
+http://tv.minhalista.me/live/gil148/gil148/36927.m3u
+#EXTINF:-1,Cartoon Network [4K]
+http://tv.minhalista.me/live/gil148/gil148/61843.m3u
+#EXTINF:-1,Cartoonito
+http://tv.minhalista.me/live/gil148/gil148/37123.m3u
+#EXTINF:-1,Cartoonito FHD
+http://tv.minhalista.me/live/gil148/gil148/38390.m3u
+#EXTINF:-1,Cartoonito FHD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50663.m3u
+#EXTINF:-1,Cartoonito H265
+http://tv.minhalista.me/live/gil148/gil148/62800.m3u
+#EXTINF:-1,Cartoonito HD
+http://tv.minhalista.me/live/gil148/gil148/63627.m3u
+#EXTINF:-1,Cartoonito | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63233.m3u
+#EXTINF:-1,Chef TV FHD
+http://tv.minhalista.me/live/gil148/gil148/63401.m3u
+#EXTINF:-1,Cine MP Ação 01
+http://tv.minhalista.me/live/gil148/gil148/68468.m3u
+#EXTINF:-1,Cine MP Ação 02
+http://tv.minhalista.me/live/gil148/gil148/68469.m3u
+#EXTINF:-1,Cine MP Ação 03
+http://tv.minhalista.me/live/gil148/gil148/68470.m3u
+#EXTINF:-1,Cine MP Ação 04
+http://tv.minhalista.me/live/gil148/gil148/68471.m3u
+#EXTINF:-1,Cine MP Ação 05
+http://tv.minhalista.me/live/gil148/gil148/68472.m3u
+#EXTINF:-1,Cine MP Comédia 01
+http://tv.minhalista.me/live/gil148/gil148/69164.m3u
+#EXTINF:-1,Cine MP Comédia 02
+http://tv.minhalista.me/live/gil148/gil148/69165.m3u
+#EXTINF:-1,Cine MP Comédia 03
+http://tv.minhalista.me/live/gil148/gil148/69166.m3u
+#EXTINF:-1,Cine MP Comédia 04
+http://tv.minhalista.me/live/gil148/gil148/69167.m3u
+#EXTINF:-1,Cine MP Comédia 05
+http://tv.minhalista.me/live/gil148/gil148/69169.m3u
+#EXTINF:-1,Cine MP DRAMA 01
+http://tv.minhalista.me/live/gil148/gil148/69589.m3u
+#EXTINF:-1,Cine MP DRAMA 02
+http://tv.minhalista.me/live/gil148/gil148/69587.m3u
+#EXTINF:-1,Cine MP DRAMA 03
+http://tv.minhalista.me/live/gil148/gil148/69588.m3u
+#EXTINF:-1,Cine MP DRAMA 04
+http://tv.minhalista.me/live/gil148/gil148/69590.m3u
+#EXTINF:-1,Cine MP DRAMA 05
+http://tv.minhalista.me/live/gil148/gil148/69923.m3u
+#EXTINF:-1,Cine MP INFANTIL 01
+http://tv.minhalista.me/live/gil148/gil148/69582.m3u
+#EXTINF:-1,Cine MP INFANTIL 02
+http://tv.minhalista.me/live/gil148/gil148/69583.m3u
+#EXTINF:-1,Cine MP INFANTIL 03
+http://tv.minhalista.me/live/gil148/gil148/69584.m3u
+#EXTINF:-1,Cine MP INFANTIL 04
+http://tv.minhalista.me/live/gil148/gil148/69585.m3u
+#EXTINF:-1,Cine MP INFANTIL 05
+http://tv.minhalista.me/live/gil148/gil148/69586.m3u
+#EXTINF:-1,Cine MP Terror 01
+http://tv.minhalista.me/live/gil148/gil148/69168.m3u
+#EXTINF:-1,Cine MP Terror 02
+http://tv.minhalista.me/live/gil148/gil148/69170.m3u
+#EXTINF:-1,Cine MP Terror 03
+http://tv.minhalista.me/live/gil148/gil148/69172.m3u
+#EXTINF:-1,Cine MP Terror 04
+http://tv.minhalista.me/live/gil148/gil148/69173.m3u
+#EXTINF:-1,Cine MP Terror 05
+http://tv.minhalista.me/live/gil148/gil148/69171.m3u
+#EXTINF:-1,Cine Marvel vs DC
+http://tv.minhalista.me/live/gil148/gil148/71889.m3u
+#EXTINF:-1,Cine Pipoca 01
+http://tv.minhalista.me/live/gil148/gil148/80933.m3u
+#EXTINF:-1,Cine Pipoca 02
+http://tv.minhalista.me/live/gil148/gil148/80934.m3u
+#EXTINF:-1,Cine Pipoca 03
+http://tv.minhalista.me/live/gil148/gil148/80935.m3u
+#EXTINF:-1,Cine Pipoca 04
+http://tv.minhalista.me/live/gil148/gil148/80936.m3u
+#EXTINF:-1,Cine Pipoca 05
+http://tv.minhalista.me/live/gil148/gil148/80937.m3u
+#EXTINF:-1,Cine Pipoca 06
+http://tv.minhalista.me/live/gil148/gil148/80938.m3u
+#EXTINF:-1,Cine Pipoca 07
+http://tv.minhalista.me/live/gil148/gil148/80939.m3u
+#EXTINF:-1,Cine Pipoca 08
+http://tv.minhalista.me/live/gil148/gil148/80940.m3u
+#EXTINF:-1,Cine Pipoca 09
+http://tv.minhalista.me/live/gil148/gil148/80941.m3u
+#EXTINF:-1,Cine Sky 01
+http://tv.minhalista.me/live/gil148/gil148/80943.m3u
+#EXTINF:-1,Cine Sky 02
+http://tv.minhalista.me/live/gil148/gil148/80944.m3u
+#EXTINF:-1,Cine Sky 03
+http://tv.minhalista.me/live/gil148/gil148/80945.m3u
+#EXTINF:-1,Cine Sky 04
+http://tv.minhalista.me/live/gil148/gil148/80946.m3u
+#EXTINF:-1,Cine Sky 05
+http://tv.minhalista.me/live/gil148/gil148/80947.m3u
+#EXTINF:-1,Cine Sky 06
+http://tv.minhalista.me/live/gil148/gil148/80948.m3u
+#EXTINF:-1,Cine Sky 07
+http://tv.minhalista.me/live/gil148/gil148/80949.m3u
+#EXTINF:-1,Cine Sky 08
+http://tv.minhalista.me/live/gil148/gil148/80950.m3u
+#EXTINF:-1,Cine Sky 09
+http://tv.minhalista.me/live/gil148/gil148/80951.m3u
+#EXTINF:-1,Cine Sky 10
+http://tv.minhalista.me/live/gil148/gil148/80952.m3u
+#EXTINF:-1,Cinemax
+http://tv.minhalista.me/live/gil148/gil148/37120.m3u
+#EXTINF:-1,Cinemax FHD
+http://tv.minhalista.me/live/gil148/gil148/40261.m3u
+#EXTINF:-1,Cinemax HD
+http://tv.minhalista.me/live/gil148/gil148/36926.m3u
+#EXTINF:-1,Combate
+http://tv.minhalista.me/live/gil148/gil148/37119.m3u
+#EXTINF:-1,Combate FHD
+http://tv.minhalista.me/live/gil148/gil148/38428.m3u
+#EXTINF:-1,Combate HD
+http://tv.minhalista.me/live/gil148/gil148/36986.m3u
+#EXTINF:-1,Combate [4K]
+http://tv.minhalista.me/live/gil148/gil148/42635.m3u
+#EXTINF:-1,Comedy Central
+http://tv.minhalista.me/live/gil148/gil148/37118.m3u
+#EXTINF:-1,Comedy Central FHD
+http://tv.minhalista.me/live/gil148/gil148/40260.m3u
+#EXTINF:-1,Comedy Central HD
+http://tv.minhalista.me/live/gil148/gil148/36925.m3u
+#EXTINF:-1,Comedy Central [4K]
+http://tv.minhalista.me/live/gil148/gil148/74793.m3u
+#EXTINF:-1,Copa do Brasil Prime Video 1 (P)
+http://tv.minhalista.me/live/gil148/gil148/86457.m3u
+#EXTINF:-1,Copa do Brasil Prime Video 1 (S)
+http://tv.minhalista.me/live/gil148/gil148/86455.m3u
+#EXTINF:-1,Copa do Brasil Prime Video 2 (P)
+http://tv.minhalista.me/live/gil148/gil148/86458.m3u
+#EXTINF:-1,Copa do Brasil Prime Video 2 (S)
+http://tv.minhalista.me/live/gil148/gil148/86456.m3u
+#EXTINF:-1,Cultura
+http://tv.minhalista.me/live/gil148/gil148/40073.m3u
+#EXTINF:-1,Cultura FHD
+http://tv.minhalista.me/live/gil148/gil148/42903.m3u
+#EXTINF:-1,Cultura HD
+http://tv.minhalista.me/live/gil148/gil148/61961.m3u
+#EXTINF:-1,Curta!
+http://tv.minhalista.me/live/gil148/gil148/37117.m3u
+#EXTINF:-1,Curta! FHD
+http://tv.minhalista.me/live/gil148/gil148/41472.m3u
+#EXTINF:-1,Curta! HD
+http://tv.minhalista.me/live/gil148/gil148/63646.m3u
+#EXTINF:-1,DAZN 01 HD (A)
+http://tv.minhalista.me/live/gil148/gil148/63112.m3u
+#EXTINF:-1,DAZN 02 HD (A)
+http://tv.minhalista.me/live/gil148/gil148/63113.m3u
+#EXTINF:-1,DAZN 03 HD (A)
+http://tv.minhalista.me/live/gil148/gil148/63115.m3u
+#EXTINF:-1,DAZN 04 HD (A)
+http://tv.minhalista.me/live/gil148/gil148/63116.m3u
+#EXTINF:-1,DAZN 05 HD (B)
+http://tv.minhalista.me/live/gil148/gil148/72976.m3u
+#EXTINF:-1,DAZN 06 HD (B)
+http://tv.minhalista.me/live/gil148/gil148/72977.m3u
+#EXTINF:-1,DAZN 1 HD
+http://tv.minhalista.me/live/gil148/gil148/58130.m3u
+#EXTINF:-1,DAZN 2 HD
+http://tv.minhalista.me/live/gil148/gil148/58433.m3u
+#EXTINF:-1,DAZN 7
+http://tv.minhalista.me/live/gil148/gil148/63216.m3u
+#EXTINF:-1,DISC HOME HEALTH H265
+http://tv.minhalista.me/live/gil148/gil148/62883.m3u
+#EXTINF:-1,DISC KIDS H265
+http://tv.minhalista.me/live/gil148/gil148/62881.m3u
+#EXTINF:-1,DISC SCIENCE H265
+http://tv.minhalista.me/live/gil148/gil148/62880.m3u
+#EXTINF:-1,DISC THEATER H265
+http://tv.minhalista.me/live/gil148/gil148/62879.m3u
+#EXTINF:-1,DISC TURBO H265
+http://tv.minhalista.me/live/gil148/gil148/62877.m3u
+#EXTINF:-1,DISC WORLD H265
+http://tv.minhalista.me/live/gil148/gil148/62875.m3u
+#EXTINF:-1,DISCOVERY CHANNEL FHD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50681.m3u
+#EXTINF:-1,DISCOVERY CHANNEL H265
+http://tv.minhalista.me/live/gil148/gil148/50538.m3u
+#EXTINF:-1,DISCOVERY CHANNEL HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50691.m3u
+#EXTINF:-1,DISCOVERY CHANNEL [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50701.m3u
+#EXTINF:-1,DISCOVERY CHANNEL | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63234.m3u
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50704.m3u
+#EXTINF:-1,DISCOVERY HOME & HELTH [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50705.m3u
+#EXTINF:-1,DISCOVERY KIDS HD  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50706.m3u
+#EXTINF:-1,DISCOVERY KIDS [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50707.m3u
+#EXTINF:-1,DISCOVERY SCIENCE H265
+http://tv.minhalista.me/live/gil148/gil148/50540.m3u
+#EXTINF:-1,DISCOVERY SCIENCE HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50708.m3u
+#EXTINF:-1,DISCOVERY THEATER HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81812.m3u
+#EXTINF:-1,DISCOVERY THEATER HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50709.m3u
+#EXTINF:-1,DISCOVERY TURBO HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50710.m3u
+#EXTINF:-1,DISCOVERY TURBO [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50711.m3u
+#EXTINF:-1,DISCOVERY WORLD  | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63230.m3u
+#EXTINF:-1,DISCOVERY WORLD HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50712.m3u
+#EXTINF:-1,DISNEY CHANNEL HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50713.m3u
+#EXTINF:-1,DISNEY CHANNEL [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50714.m3u
+#EXTINF:-1,DISNEY CHANNEL | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63236.m3u
+#EXTINF:-1,DISNEY H265
+http://tv.minhalista.me/live/gil148/gil148/62873.m3u
+#EXTINF:-1,Discovery Channel
+http://tv.minhalista.me/live/gil148/gil148/37116.m3u
+#EXTINF:-1,Discovery Channel FHD
+http://tv.minhalista.me/live/gil148/gil148/38404.m3u
+#EXTINF:-1,Discovery Channel HD
+http://tv.minhalista.me/live/gil148/gil148/36985.m3u
+#EXTINF:-1,Discovery Channel [4K]
+http://tv.minhalista.me/live/gil148/gil148/61838.m3u
+#EXTINF:-1,Discovery Home & Health
+http://tv.minhalista.me/live/gil148/gil148/36984.m3u
+#EXTINF:-1,Discovery Home & Health FHD
+http://tv.minhalista.me/live/gil148/gil148/38389.m3u
+#EXTINF:-1,Discovery Home & Health HD
+http://tv.minhalista.me/live/gil148/gil148/37115.m3u
+#EXTINF:-1,Discovery Home & Health [4K]
+http://tv.minhalista.me/live/gil148/gil148/74791.m3u
+#EXTINF:-1,Discovery Kids
+http://tv.minhalista.me/live/gil148/gil148/37113.m3u
+#EXTINF:-1,Discovery Kids FHD
+http://tv.minhalista.me/live/gil148/gil148/41473.m3u
+#EXTINF:-1,Discovery Kids HD
+http://tv.minhalista.me/live/gil148/gil148/36923.m3u
+#EXTINF:-1,Discovery Science
+http://tv.minhalista.me/live/gil148/gil148/51002.m3u
+#EXTINF:-1,Discovery Science FHD
+http://tv.minhalista.me/live/gil148/gil148/41474.m3u
+#EXTINF:-1,Discovery Science HD
+http://tv.minhalista.me/live/gil148/gil148/36922.m3u
+#EXTINF:-1,Discovery Science | Dual Audio
+http://tv.minhalista.me/live/gil148/gil148/63313.m3u
+#EXTINF:-1,Discovery Theater
+http://tv.minhalista.me/live/gil148/gil148/51007.m3u
+#EXTINF:-1,Discovery Theater FHD
+http://tv.minhalista.me/live/gil148/gil148/41475.m3u
+#EXTINF:-1,Discovery Theater HD
+http://tv.minhalista.me/live/gil148/gil148/36983.m3u
+#EXTINF:-1,Discovery Theater | Dual Audio
+http://tv.minhalista.me/live/gil148/gil148/63312.m3u
+#EXTINF:-1,Discovery Turbo
+http://tv.minhalista.me/live/gil148/gil148/37112.m3u
+#EXTINF:-1,Discovery Turbo FHD
+http://tv.minhalista.me/live/gil148/gil148/38388.m3u
+#EXTINF:-1,Discovery Turbo HD
+http://tv.minhalista.me/live/gil148/gil148/36982.m3u
+#EXTINF:-1,Discovery Turbo [4K]
+http://tv.minhalista.me/live/gil148/gil148/74794.m3u
+#EXTINF:-1,Discovery Turbo | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63235.m3u
+#EXTINF:-1,Discovery World
+http://tv.minhalista.me/live/gil148/gil148/64498.m3u
+#EXTINF:-1,Discovery World FHD
+http://tv.minhalista.me/live/gil148/gil148/38387.m3u
+#EXTINF:-1,Discovery World HD
+http://tv.minhalista.me/live/gil148/gil148/36981.m3u
+#EXTINF:-1,Discovery World | Dual Audio
+http://tv.minhalista.me/live/gil148/gil148/63314.m3u
+#EXTINF:-1,Disney Channel
+http://tv.minhalista.me/live/gil148/gil148/37111.m3u
+#EXTINF:-1,Disney Channel FHD
+http://tv.minhalista.me/live/gil148/gil148/38402.m3u
+#EXTINF:-1,Disney Channel HD
+http://tv.minhalista.me/live/gil148/gil148/36921.m3u
+#EXTINF:-1,DogTV
+http://tv.minhalista.me/live/gil148/gil148/68529.m3u
+#EXTINF:-1,DogTV FHD
+http://tv.minhalista.me/live/gil148/gil148/63768.m3u
+#EXTINF:-1,DogTV HD
+http://tv.minhalista.me/live/gil148/gil148/63767.m3u
+#EXTINF:-1,E!
+http://tv.minhalista.me/live/gil148/gil148/37108.m3u
+#EXTINF:-1,E! FHD
+http://tv.minhalista.me/live/gil148/gil148/41476.m3u
+#EXTINF:-1,E! H265
+http://tv.minhalista.me/live/gil148/gil148/62871.m3u
+#EXTINF:-1,E! HD
+http://tv.minhalista.me/live/gil148/gil148/36920.m3u
+#EXTINF:-1,EI MAX 01
+http://tv.minhalista.me/live/gil148/gil148/63682.m3u
+#EXTINF:-1,EI MAX 02
+http://tv.minhalista.me/live/gil148/gil148/63683.m3u
+#EXTINF:-1,EPTV Campinas
+http://tv.minhalista.me/live/gil148/gil148/40248.m3u
+#EXTINF:-1,EPTV Campinas FHD
+http://tv.minhalista.me/live/gil148/gil148/42983.m3u
+#EXTINF:-1,EPTV Campinas HD
+http://tv.minhalista.me/live/gil148/gil148/42952.m3u
+#EXTINF:-1,EPTV Central
+http://tv.minhalista.me/live/gil148/gil148/75169.m3u
+#EXTINF:-1,EPTV Central FHD
+http://tv.minhalista.me/live/gil148/gil148/75170.m3u
+#EXTINF:-1,EPTV Ribeirão
+http://tv.minhalista.me/live/gil148/gil148/40514.m3u
+#EXTINF:-1,EPTV Ribeirão FHD
+http://tv.minhalista.me/live/gil148/gil148/42999.m3u
+#EXTINF:-1,EPTV Ribeirão HD
+http://tv.minhalista.me/live/gil148/gil148/38640.m3u
+#EXTINF:-1,EPTV Sul de Minas
+http://tv.minhalista.me/live/gil148/gil148/73063.m3u
+#EXTINF:-1,EPTV Sul de Minas HD
+http://tv.minhalista.me/live/gil148/gil148/73062.m3u
+#EXTINF:-1,ESPN
+http://tv.minhalista.me/live/gil148/gil148/37104.m3u
+#EXTINF:-1,ESPN 4
+http://tv.minhalista.me/live/gil148/gil148/85335.m3u
+#EXTINF:-1,ESPN 4 FHD
+http://tv.minhalista.me/live/gil148/gil148/85337.m3u
+#EXTINF:-1,ESPN 4 HD
+http://tv.minhalista.me/live/gil148/gil148/85336.m3u
+#EXTINF:-1,ESPN EXTRA H265
+http://tv.minhalista.me/live/gil148/gil148/62818.m3u
+#EXTINF:-1,ESPN Extra
+http://tv.minhalista.me/live/gil148/gil148/41977.m3u
+#EXTINF:-1,ESPN Extra FHD
+http://tv.minhalista.me/live/gil148/gil148/38380.m3u
+#EXTINF:-1,ESPN Extra HD
+http://tv.minhalista.me/live/gil148/gil148/42910.m3u
+#EXTINF:-1,ESPN FHD
+http://tv.minhalista.me/live/gil148/gil148/38413.m3u
+#EXTINF:-1,ESPN FHD H265
+http://tv.minhalista.me/live/gil148/gil148/59096.m3u
+#EXTINF:-1,ESPN H265
+http://tv.minhalista.me/live/gil148/gil148/62870.m3u
+#EXTINF:-1,ESPN HD (N)
+http://tv.minhalista.me/live/gil148/gil148/73051.m3u
+#EXTINF:-1,ESPN HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50736.m3u
+#EXTINF:-1,ESPN [4K]
+http://tv.minhalista.me/live/gil148/gil148/74798.m3u
+#EXTINF:-1,ESPN2
+http://tv.minhalista.me/live/gil148/gil148/37105.m3u
+#EXTINF:-1,ESPN2 FHD
+http://tv.minhalista.me/live/gil148/gil148/38401.m3u
+#EXTINF:-1,ESPN2 FHD H265
+http://tv.minhalista.me/live/gil148/gil148/59097.m3u
+#EXTINF:-1,ESPN2 H265
+http://tv.minhalista.me/live/gil148/gil148/62869.m3u
+#EXTINF:-1,ESPN2 HD
+http://tv.minhalista.me/live/gil148/gil148/36977.m3u
+#EXTINF:-1,ESPN2 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50739.m3u
+#EXTINF:-1,ESPN2 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50740.m3u
+#EXTINF:-1,ESPN3
+http://tv.minhalista.me/live/gil148/gil148/62745.m3u
+#EXTINF:-1,ESPN3 - H265
+http://tv.minhalista.me/live/gil148/gil148/50541.m3u
+#EXTINF:-1,ESPN3 FHD
+http://tv.minhalista.me/live/gil148/gil148/41477.m3u
+#EXTINF:-1,ESPN3 FHD H265
+http://tv.minhalista.me/live/gil148/gil148/59098.m3u
+#EXTINF:-1,ESPN3 H265
+http://tv.minhalista.me/live/gil148/gil148/62817.m3u
+#EXTINF:-1,ESPN3 HD
+http://tv.minhalista.me/live/gil148/gil148/36976.m3u
+#EXTINF:-1,ESPN3 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50734.m3u
+#EXTINF:-1,ESPN3 | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63239.m3u
+#EXTINF:-1,ESPN4
+http://tv.minhalista.me/live/gil148/gil148/37099.m3u
+#EXTINF:-1,ESPN4 - H265
+http://tv.minhalista.me/live/gil148/gil148/51241.m3u
+#EXTINF:-1,ESPN4 FHD
+http://tv.minhalista.me/live/gil148/gil148/63306.m3u
+#EXTINF:-1,ESPN4 H265
+http://tv.minhalista.me/live/gil148/gil148/62859.m3u
+#EXTINF:-1,ESPN4 HD
+http://tv.minhalista.me/live/gil148/gil148/36970.m3u
+#EXTINF:-1,ESPN4 [4K]
+http://tv.minhalista.me/live/gil148/gil148/64380.m3u
+#EXTINF:-1,ESPN4 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/73053.m3u
+#EXTINF:-1,Eletrônica 1
+http://tv.minhalista.me/live/gil148/gil148/54289.m3u
+#EXTINF:-1,Eletrônica 2
+http://tv.minhalista.me/live/gil148/gil148/54291.m3u
+#EXTINF:-1,Eleven Sports Channel 1 (S)
+http://tv.minhalista.me/live/gil148/gil148/81007.m3u
+#EXTINF:-1,Eleven Sports Channel 10 (S)
+http://tv.minhalista.me/live/gil148/gil148/81016.m3u
+#EXTINF:-1,Eleven Sports Channel 2 (S)
+http://tv.minhalista.me/live/gil148/gil148/81008.m3u
+#EXTINF:-1,Eleven Sports Channel 3 (S)
+http://tv.minhalista.me/live/gil148/gil148/81009.m3u
+#EXTINF:-1,Eleven Sports Channel 4 (S)
+http://tv.minhalista.me/live/gil148/gil148/81010.m3u
+#EXTINF:-1,Eleven Sports Channel 5 (S)
+http://tv.minhalista.me/live/gil148/gil148/81011.m3u
+#EXTINF:-1,Eleven Sports Channel 6 (S)
+http://tv.minhalista.me/live/gil148/gil148/81012.m3u
+#EXTINF:-1,Eleven Sports Channel 7 (S)
+http://tv.minhalista.me/live/gil148/gil148/81013.m3u
+#EXTINF:-1,Eleven Sports Channel 8 (S)
+http://tv.minhalista.me/live/gil148/gil148/81014.m3u
+#EXTINF:-1,Eleven Sports Channel 9 (S)
+http://tv.minhalista.me/live/gil148/gil148/81015.m3u
+#EXTINF:-1,Esporte Interativo HD
+http://tv.minhalista.me/live/gil148/gil148/61879.m3u
+#EXTINF:-1,Estádio TNT Sports 1 (J)
+http://tv.minhalista.me/live/gil148/gil148/78442.m3u
+#EXTINF:-1,Estádio TNT Sports 1 (P)
+http://tv.minhalista.me/live/gil148/gil148/63266.m3u
+#EXTINF:-1,Estádio TNT Sports 1 (S)
+http://tv.minhalista.me/live/gil148/gil148/78443.m3u
+#EXTINF:-1,Estádio TNT Sports 2 (P)
+http://tv.minhalista.me/live/gil148/gil148/78433.m3u
+#EXTINF:-1,Estádio TNT Sports 3 (S)
+http://tv.minhalista.me/live/gil148/gil148/78445.m3u
+#EXTINF:-1,Estádio TNT Sports 4 (S)
+http://tv.minhalista.me/live/gil148/gil148/78446.m3u
+#EXTINF:-1,Estádio TNT Sports 5 (S)
+http://tv.minhalista.me/live/gil148/gil148/78447.m3u
+#EXTINF:-1,Eurochannel FHD
+http://tv.minhalista.me/live/gil148/gil148/75172.m3u
+#EXTINF:-1,Eurochannel HD
+http://tv.minhalista.me/live/gil148/gil148/75173.m3u
+#EXTINF:-1,FASHION TV H265
+http://tv.minhalista.me/live/gil148/gil148/62867.m3u
+#EXTINF:-1,FILM ARTS | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63240.m3u
+#EXTINF:-1,FISH TV H265
+http://tv.minhalista.me/live/gil148/gil148/62864.m3u
+#EXTINF:-1,FM ROCK
+http://tv.minhalista.me/live/gil148/gil148/87436.m3u
+#EXTINF:-1,FOOD NETWORK - H265
+http://tv.minhalista.me/live/gil148/gil148/50543.m3u
+#EXTINF:-1,FOOD NETWORK H265
+http://tv.minhalista.me/live/gil148/gil148/62822.m3u
+#EXTINF:-1,FOOD NETWORK HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50742.m3u
+#EXTINF:-1,FOOD NETWORK [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50745.m3u
+#EXTINF:-1,FOOD NETWORK | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63241.m3u
+#EXTINF:-1,FOX SPORTS 2 - H265
+http://tv.minhalista.me/live/gil148/gil148/50545.m3u
+#EXTINF:-1,FOX SPORTS 2 H265
+http://tv.minhalista.me/live/gil148/gil148/62862.m3u
+#EXTINF:-1,FOX SPORTS 2 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50754.m3u
+#EXTINF:-1,FURACAO TV (J)
+http://tv.minhalista.me/live/gil148/gil148/87415.m3u
+#EXTINF:-1,FURACAO TV (P)
+http://tv.minhalista.me/live/gil148/gil148/87414.m3u
+#EXTINF:-1,FURACAO TV (S)
+http://tv.minhalista.me/live/gil148/gil148/87413.m3u
+#EXTINF:-1,FUTURA H265
+http://tv.minhalista.me/live/gil148/gil148/62834.m3u
+#EXTINF:-1,FX
+http://tv.minhalista.me/live/gil148/gil148/37097.m3u
+#EXTINF:-1,FX FHD
+http://tv.minhalista.me/live/gil148/gil148/41482.m3u
+#EXTINF:-1,FX H265
+http://tv.minhalista.me/live/gil148/gil148/62836.m3u
+#EXTINF:-1,FX HD
+http://tv.minhalista.me/live/gil148/gil148/36969.m3u
+#EXTINF:-1,FX HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50770.m3u
+#EXTINF:-1,FX [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50771.m3u
+#EXTINF:-1,FX | Dual Audio
+http://tv.minhalista.me/live/gil148/gil148/63316.m3u
+#EXTINF:-1,FX-H265
+http://tv.minhalista.me/live/gil148/gil148/51242.m3u
+#EXTINF:-1,Facebook Watch
+http://tv.minhalista.me/live/gil148/gil148/64989.m3u
+#EXTINF:-1,FashionTV Brasil
+http://tv.minhalista.me/live/gil148/gil148/68527.m3u
+#EXTINF:-1,FashionTV Brasil FHD
+http://tv.minhalista.me/live/gil148/gil148/63770.m3u
+#EXTINF:-1,FashionTV Brasil HD
+http://tv.minhalista.me/live/gil148/gil148/63769.m3u
+#EXTINF:-1,Film&Arts
+http://tv.minhalista.me/live/gil148/gil148/41374.m3u
+#EXTINF:-1,Film&Arts FHD
+http://tv.minhalista.me/live/gil148/gil148/61965.m3u
+#EXTINF:-1,Film&Arts HD
+http://tv.minhalista.me/live/gil148/gil148/68536.m3u
+#EXTINF:-1,Fish TV
+http://tv.minhalista.me/live/gil148/gil148/37103.m3u
+#EXTINF:-1,Fish TV FHD
+http://tv.minhalista.me/live/gil148/gil148/41478.m3u
+#EXTINF:-1,Fish TV HD
+http://tv.minhalista.me/live/gil148/gil148/42911.m3u
+#EXTINF:-1,FlaTV
+http://tv.minhalista.me/live/gil148/gil148/78160.m3u
+#EXTINF:-1,Folk
+http://tv.minhalista.me/live/gil148/gil148/54292.m3u
+#EXTINF:-1,Food Network
+http://tv.minhalista.me/live/gil148/gil148/37102.m3u
+#EXTINF:-1,Food Network FHD
+http://tv.minhalista.me/live/gil148/gil148/40257.m3u
+#EXTINF:-1,Food Network HD
+http://tv.minhalista.me/live/gil148/gil148/36919.m3u
+#EXTINF:-1,Forró 1
+http://tv.minhalista.me/live/gil148/gil148/54293.m3u
+#EXTINF:-1,Forró 2
+http://tv.minhalista.me/live/gil148/gil148/54294.m3u
+#EXTINF:-1,FoxSports 2
+http://tv.minhalista.me/live/gil148/gil148/37098.m3u
+#EXTINF:-1,FoxSports 2 FHD
+http://tv.minhalista.me/live/gil148/gil148/38398.m3u
+#EXTINF:-1,FoxSports 2 HD
+http://tv.minhalista.me/live/gil148/gil148/36971.m3u
+#EXTINF:-1,FoxSports 2 [4K]
+http://tv.minhalista.me/live/gil148/gil148/61847.m3u
+#EXTINF:-1,Funk 1
+http://tv.minhalista.me/live/gil148/gil148/54295.m3u
+#EXTINF:-1,Funk 2
+http://tv.minhalista.me/live/gil148/gil148/54296.m3u
+#EXTINF:-1,Futura
+http://tv.minhalista.me/live/gil148/gil148/40074.m3u
+#EXTINF:-1,Futura FHD
+http://tv.minhalista.me/live/gil148/gil148/41481.m3u
+#EXTINF:-1,Futura HD
+http://tv.minhalista.me/live/gil148/gil148/68530.m3u
+#EXTINF:-1,Fórmula 1 TV
+http://tv.minhalista.me/live/gil148/gil148/78760.m3u
+#EXTINF:-1,GAUCHA ZH
+http://tv.minhalista.me/live/gil148/gil148/87431.m3u
+#EXTINF:-1,GLOBO BRASILIA HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51146.m3u
+#EXTINF:-1,GLOBO BRASILIA [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51152.m3u
+#EXTINF:-1,GLOBO CAMPINAS H265
+http://tv.minhalista.me/live/gil148/gil148/62821.m3u
+#EXTINF:-1,GLOBO EPTV SAO CARLOS FHD
+http://tv.minhalista.me/live/gil148/gil148/75473.m3u
+#EXTINF:-1,GLOBO EPTV SAO CARLOS HD
+http://tv.minhalista.me/live/gil148/gil148/75474.m3u
+#EXTINF:-1,GLOBO EPTV SAO CARLOS [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51145.m3u
+#EXTINF:-1,GLOBO HD 2 | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63263.m3u
+#EXTINF:-1,GLOBO INTERTV CABUGI  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51153.m3u
+#EXTINF:-1,GLOBO MINAS H265
+http://tv.minhalista.me/live/gil148/gil148/62820.m3u
+#EXTINF:-1,GLOBO MINAS [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51154.m3u
+#EXTINF:-1,GLOBO NEWS FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/51243.m3u
+#EXTINF:-1,GLOBO NEWS H265
+http://tv.minhalista.me/live/gil148/gil148/62840.m3u
+#EXTINF:-1,GLOBO NORDESTE  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51148.m3u
+#EXTINF:-1,GLOBO NORDESTE H265
+http://tv.minhalista.me/live/gil148/gil148/62819.m3u
+#EXTINF:-1,GLOBO PORTO ALEGRE H265
+http://tv.minhalista.me/live/gil148/gil148/62816.m3u
+#EXTINF:-1,GLOBO RIBEIRAO PRETO H265
+http://tv.minhalista.me/live/gil148/gil148/62815.m3u
+#EXTINF:-1,GLOBO Rio H265
+http://tv.minhalista.me/live/gil148/gil148/62857.m3u
+#EXTINF:-1,GLOBO Rio HD  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51149.m3u
+#EXTINF:-1,GLOBO SJ RIO PRETO FHD
+http://tv.minhalista.me/live/gil148/gil148/75161.m3u
+#EXTINF:-1,GLOBO SP H265
+http://tv.minhalista.me/live/gil148/gil148/62855.m3u
+#EXTINF:-1,GLOBO SP HD  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51150.m3u
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA FHD
+http://tv.minhalista.me/live/gil148/gil148/75488.m3u
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA HD
+http://tv.minhalista.me/live/gil148/gil148/75487.m3u
+#EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
+http://tv.minhalista.me/live/gil148/gil148/42976.m3u
+#EXTINF:-1,GLOBO TV LIBERAL FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68064.m3u
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS
+http://tv.minhalista.me/live/gil148/gil148/75483.m3u
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MACAPA FHD
+http://tv.minhalista.me/live/gil148/gil148/75481.m3u
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MACAPA HD
+http://tv.minhalista.me/live/gil148/gil148/75479.m3u
+#EXTINF:-1,GLOBO TV RIO SUL FHD
+http://tv.minhalista.me/live/gil148/gil148/52547.m3u
+#EXTINF:-1,GLOBO TV SUDOESTE HD
+http://tv.minhalista.me/live/gil148/gil148/75485.m3u
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD
+http://tv.minhalista.me/live/gil148/gil148/75475.m3u
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://tv.minhalista.me/live/gil148/gil148/75476.m3u
+#EXTINF:-1,GLOBO TV TRIBUNA FHD
+http://tv.minhalista.me/live/gil148/gil148/75162.m3u
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51155.m3u
+#EXTINF:-1,GLOBO TV VERDES MARES CARIRI HD
+http://tv.minhalista.me/live/gil148/gil148/75478.m3u
+#EXTINF:-1,GLOBO VANGUARDA SOROCABA FHD
+http://tv.minhalista.me/live/gil148/gil148/75163.m3u
+#EXTINF:-1,GLOOB H265
+http://tv.minhalista.me/live/gil148/gil148/62843.m3u
+#EXTINF:-1,GLOOB HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50773.m3u
+#EXTINF:-1,GLOOBINHO H265
+http://tv.minhalista.me/live/gil148/gil148/62814.m3u
+#EXTINF:-1,GNT
+http://tv.minhalista.me/live/gil148/gil148/37088.m3u
+#EXTINF:-1,GNT FHD
+http://tv.minhalista.me/live/gil148/gil148/41484.m3u
+#EXTINF:-1,GNT H265
+http://tv.minhalista.me/live/gil148/gil148/62854.m3u
+#EXTINF:-1,GNT HD
+http://tv.minhalista.me/live/gil148/gil148/36967.m3u
+#EXTINF:-1,GNT HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50775.m3u
+#EXTINF:-1,GNT [4K]
+http://tv.minhalista.me/live/gil148/gil148/74795.m3u
+#EXTINF:-1,GNT [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50781.m3u
+#EXTINF:-1,Gazeta FHD
+http://tv.minhalista.me/live/gil148/gil148/61960.m3u
+#EXTINF:-1,Gazeta HD
+http://tv.minhalista.me/live/gil148/gil148/60201.m3u
+#EXTINF:-1,Gazeta [4K]
+http://tv.minhalista.me/live/gil148/gil148/64377.m3u
+#EXTINF:-1,Globo Amazonas HD
+http://tv.minhalista.me/live/gil148/gil148/64649.m3u
+#EXTINF:-1,Globo Anhanguera
+http://tv.minhalista.me/live/gil148/gil148/38966.m3u
+#EXTINF:-1,Globo Belem FHD
+http://tv.minhalista.me/live/gil148/gil148/72892.m3u
+#EXTINF:-1,Globo Belem HD
+http://tv.minhalista.me/live/gil148/gil148/72893.m3u
+#EXTINF:-1,Globo Belo Horizonte
+http://tv.minhalista.me/live/gil148/gil148/72891.m3u
+#EXTINF:-1,Globo Belo Horizonte FHD
+http://tv.minhalista.me/live/gil148/gil148/72814.m3u
+#EXTINF:-1,Globo Belo Horizonte HD
+http://tv.minhalista.me/live/gil148/gil148/72815.m3u
+#EXTINF:-1,Globo Brasília
+http://tv.minhalista.me/live/gil148/gil148/37095.m3u
+#EXTINF:-1,Globo Brasília FHD
+http://tv.minhalista.me/live/gil148/gil148/64592.m3u
+#EXTINF:-1,Globo Brasília HD
+http://tv.minhalista.me/live/gil148/gil148/40513.m3u
+#EXTINF:-1,Globo Ceará
+http://tv.minhalista.me/live/gil148/gil148/71675.m3u
+#EXTINF:-1,Globo Centro America FHD
+http://tv.minhalista.me/live/gil148/gil148/63399.m3u
+#EXTINF:-1,Globo Centro America HD
+http://tv.minhalista.me/live/gil148/gil148/63398.m3u
+#EXTINF:-1,Globo Centro América FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68056.m3u
+#EXTINF:-1,Globo EPTV Campinas FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68057.m3u
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://tv.minhalista.me/live/gil148/gil148/73061.m3u
+#EXTINF:-1,Globo EPTV Sul de Minas FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68078.m3u
+#EXTINF:-1,Globo EPTV São Carlos
+http://tv.minhalista.me/live/gil148/gil148/42955.m3u
+#EXTINF:-1,Globo Goias FHD
+http://tv.minhalista.me/live/gil148/gil148/61973.m3u
+#EXTINF:-1,Globo Goiânia
+http://tv.minhalista.me/live/gil148/gil148/71664.m3u
+#EXTINF:-1,Globo Goiânia FHD
+http://tv.minhalista.me/live/gil148/gil148/72816.m3u
+#EXTINF:-1,Globo Goiânia HD
+http://tv.minhalista.me/live/gil148/gil148/64651.m3u
+#EXTINF:-1,Globo Inter TV Grande Minas  FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68077.m3u
+#EXTINF:-1,Globo Inter TV Natal
+http://tv.minhalista.me/live/gil148/gil148/42956.m3u
+#EXTINF:-1,Globo Inter TV Natal FHD
+http://tv.minhalista.me/live/gil148/gil148/72813.m3u
+#EXTINF:-1,Globo Inter TV dos Vales FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68072.m3u
+#EXTINF:-1,Globo Juazeiro Bahia FHD
+http://tv.minhalista.me/live/gil148/gil148/80365.m3u
+#EXTINF:-1,Globo Juazeiro Bahia HD
+http://tv.minhalista.me/live/gil148/gil148/80364.m3u
+#EXTINF:-1,Globo Mato Grosso FHD
+http://tv.minhalista.me/live/gil148/gil148/63728.m3u
+#EXTINF:-1,Globo Mato Grosso HD
+http://tv.minhalista.me/live/gil148/gil148/63727.m3u
+#EXTINF:-1,Globo Minas
+http://tv.minhalista.me/live/gil148/gil148/40250.m3u
+#EXTINF:-1,Globo Minas FHD
+http://tv.minhalista.me/live/gil148/gil148/41515.m3u
+#EXTINF:-1,Globo Minas FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68058.m3u
+#EXTINF:-1,Globo Minas HD
+http://tv.minhalista.me/live/gil148/gil148/40251.m3u
+#EXTINF:-1,Globo NSC Florianópolis FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68060.m3u
+#EXTINF:-1,Globo NSC TV Blumenau FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68079.m3u
+#EXTINF:-1,Globo NSC TV Santa Catarina HD
+http://tv.minhalista.me/live/gil148/gil148/65270.m3u
+#EXTINF:-1,Globo Nordeste
+http://tv.minhalista.me/live/gil148/gil148/37092.m3u
+#EXTINF:-1,Globo Nordeste 2 FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68047.m3u
+#EXTINF:-1,Globo Nordeste FHD
+http://tv.minhalista.me/live/gil148/gil148/42984.m3u
+#EXTINF:-1,Globo Nordeste FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68059.m3u
+#EXTINF:-1,Globo Nordeste HD
+http://tv.minhalista.me/live/gil148/gil148/38971.m3u
+#EXTINF:-1,Globo Paraná HD
+http://tv.minhalista.me/live/gil148/gil148/51309.m3u
+#EXTINF:-1,Globo RBS TV POA - H265
+http://tv.minhalista.me/live/gil148/gil148/68048.m3u
+#EXTINF:-1,Globo RPC Parana HD
+http://tv.minhalista.me/live/gil148/gil148/63695.m3u
+#EXTINF:-1,Globo Recife HD
+http://tv.minhalista.me/live/gil148/gil148/64653.m3u
+#EXTINF:-1,Globo Rede Amazonica
+http://tv.minhalista.me/live/gil148/gil148/63414.m3u
+#EXTINF:-1,Globo Rio
+http://tv.minhalista.me/live/gil148/gil148/37091.m3u
+#EXTINF:-1,Globo Rio 2 FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68049.m3u
+#EXTINF:-1,Globo Rio FHD
+http://tv.minhalista.me/live/gil148/gil148/38425.m3u
+#EXTINF:-1,Globo Rio FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68070.m3u
+#EXTINF:-1,Globo Rio HD
+http://tv.minhalista.me/live/gil148/gil148/36968.m3u
+#EXTINF:-1,Globo SP
+http://tv.minhalista.me/live/gil148/gil148/37090.m3u
+#EXTINF:-1,Globo SP FHD
+http://tv.minhalista.me/live/gil148/gil148/38424.m3u
+#EXTINF:-1,Globo SP FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68050.m3u
+#EXTINF:-1,Globo SP HD
+http://tv.minhalista.me/live/gil148/gil148/37361.m3u
+#EXTINF:-1,Globo Salvador
+http://tv.minhalista.me/live/gil148/gil148/72888.m3u
+#EXTINF:-1,Globo Salvador FHD
+http://tv.minhalista.me/live/gil148/gil148/72890.m3u
+#EXTINF:-1,Globo Salvador HD
+http://tv.minhalista.me/live/gil148/gil148/72889.m3u
+#EXTINF:-1,Globo TV Amazônica
+http://tv.minhalista.me/live/gil148/gil148/63631.m3u
+#EXTINF:-1,Globo TV Amazônica HD
+http://tv.minhalista.me/live/gil148/gil148/51310.m3u
+#EXTINF:-1,Globo TV Anhanguera
+http://tv.minhalista.me/live/gil148/gil148/42962.m3u
+#EXTINF:-1,Globo TV Anhanguera Anápolis FHD
+http://tv.minhalista.me/live/gil148/gil148/82745.m3u
+#EXTINF:-1,Globo TV Anhanguera Anápolis HD
+http://tv.minhalista.me/live/gil148/gil148/82744.m3u
+#EXTINF:-1,Globo TV Anhanguera Catalão FHD
+http://tv.minhalista.me/live/gil148/gil148/82743.m3u
+#EXTINF:-1,Globo TV Anhanguera Catalão HD
+http://tv.minhalista.me/live/gil148/gil148/82742.m3u
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://tv.minhalista.me/live/gil148/gil148/42986.m3u
+#EXTINF:-1,Globo TV Anhanguera FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68062.m3u
+#EXTINF:-1,Globo TV Anhanguera HD
+http://tv.minhalista.me/live/gil148/gil148/38967.m3u
+#EXTINF:-1,Globo TV Anhanguera Itumbiara FHD
+http://tv.minhalista.me/live/gil148/gil148/82741.m3u
+#EXTINF:-1,Globo TV Anhanguera Itumbiara HD
+http://tv.minhalista.me/live/gil148/gil148/82740.m3u
+#EXTINF:-1,Globo TV Asa Branca
+http://tv.minhalista.me/live/gil148/gil148/73098.m3u
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://tv.minhalista.me/live/gil148/gil148/73096.m3u
+#EXTINF:-1,Globo TV Asa Branca HD
+http://tv.minhalista.me/live/gil148/gil148/73097.m3u
+#EXTINF:-1,Globo TV Bahia FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68063.m3u
+#EXTINF:-1,Globo TV Belem FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68069.m3u
+#EXTINF:-1,Globo TV Brasilia FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68076.m3u
+#EXTINF:-1,Globo TV Cabo Branco
+http://tv.minhalista.me/live/gil148/gil148/52546.m3u
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://tv.minhalista.me/live/gil148/gil148/52544.m3u
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://tv.minhalista.me/live/gil148/gil148/52545.m3u
+#EXTINF:-1,Globo TV Centro América
+http://tv.minhalista.me/live/gil148/gil148/42963.m3u
+#EXTINF:-1,Globo TV Clube Piaui
+http://tv.minhalista.me/live/gil148/gil148/73038.m3u
+#EXTINF:-1,Globo TV Clube Piaui FHD
+http://tv.minhalista.me/live/gil148/gil148/73037.m3u
+#EXTINF:-1,Globo TV Clube Piaui HD
+http://tv.minhalista.me/live/gil148/gil148/65269.m3u
+#EXTINF:-1,Globo TV Clube Teresina
+http://tv.minhalista.me/live/gil148/gil148/42977.m3u
+#EXTINF:-1,Globo TV Diário Mogi das Cruzes
+http://tv.minhalista.me/live/gil148/gil148/73450.m3u
+#EXTINF:-1,Globo TV Diário Mogi das Cruzes FHD
+http://tv.minhalista.me/live/gil148/gil148/73448.m3u
+#EXTINF:-1,Globo TV Diário Mogi das Cruzes HD
+http://tv.minhalista.me/live/gil148/gil148/73449.m3u
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://tv.minhalista.me/live/gil148/gil148/42995.m3u
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68073.m3u
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://tv.minhalista.me/live/gil148/gil148/42996.m3u
+#EXTINF:-1,Globo TV Gazeta FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68075.m3u
+#EXTINF:-1,Globo TV Gazeta Sul ES
+http://tv.minhalista.me/live/gil148/gil148/63686.m3u
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+http://tv.minhalista.me/live/gil148/gil148/42997.m3u
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://tv.minhalista.me/live/gil148/gil148/42998.m3u
+#EXTINF:-1,Globo TV Gazeta Vitória
+http://tv.minhalista.me/live/gil148/gil148/42978.m3u
+#EXTINF:-1,Globo TV Gazeta Vitória FHD
+http://tv.minhalista.me/live/gil148/gil148/42979.m3u
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+http://tv.minhalista.me/live/gil148/gil148/42980.m3u
+#EXTINF:-1,Globo TV Grande Rio FHD
+http://tv.minhalista.me/live/gil148/gil148/63397.m3u
+#EXTINF:-1,Globo TV Integração Araxa
+http://tv.minhalista.me/live/gil148/gil148/73066.m3u
+#EXTINF:-1,Globo TV Integração Araxa FHD
+http://tv.minhalista.me/live/gil148/gil148/73064.m3u
+#EXTINF:-1,Globo TV Integração Araxa HD
+http://tv.minhalista.me/live/gil148/gil148/73065.m3u
+#EXTINF:-1,Globo TV Integração Divinópolis FHD
+http://tv.minhalista.me/live/gil148/gil148/82747.m3u
+#EXTINF:-1,Globo TV Integração Divinópolis HD
+http://tv.minhalista.me/live/gil148/gil148/82746.m3u
+#EXTINF:-1,Globo TV Integração Juiz de Fora
+http://tv.minhalista.me/live/gil148/gil148/73069.m3u
+#EXTINF:-1,Globo TV Integração Juiz de Fora FHD
+http://tv.minhalista.me/live/gil148/gil148/73067.m3u
+#EXTINF:-1,Globo TV Integração Juiz de Fora HD
+http://tv.minhalista.me/live/gil148/gil148/73068.m3u
+#EXTINF:-1,Globo TV Integração Uberaba
+http://tv.minhalista.me/live/gil148/gil148/74961.m3u
+#EXTINF:-1,Globo TV Integração Uberaba FHD
+http://tv.minhalista.me/live/gil148/gil148/74962.m3u
+#EXTINF:-1,Globo TV Integração Uberaba HD
+http://tv.minhalista.me/live/gil148/gil148/75484.m3u
+#EXTINF:-1,Globo TV Integração Uberlandia
+http://tv.minhalista.me/live/gil148/gil148/73230.m3u
+#EXTINF:-1,Globo TV Integração Uberlandia FHD
+http://tv.minhalista.me/live/gil148/gil148/73232.m3u
+#EXTINF:-1,Globo TV Integração Uberlandia HD
+http://tv.minhalista.me/live/gil148/gil148/73231.m3u
+#EXTINF:-1,Globo TV Liberal Belem
+http://tv.minhalista.me/live/gil148/gil148/42964.m3u
+#EXTINF:-1,Globo TV Liberal Belem FHD
+http://tv.minhalista.me/live/gil148/gil148/63640.m3u
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://tv.minhalista.me/live/gil148/gil148/63654.m3u
+#EXTINF:-1,Globo TV Mirante FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68065.m3u
+#EXTINF:-1,Globo TV Mirante São Luis
+http://tv.minhalista.me/live/gil148/gil148/42990.m3u
+#EXTINF:-1,Globo TV Mirante São Luis FHD
+http://tv.minhalista.me/live/gil148/gil148/42988.m3u
+#EXTINF:-1,Globo TV Mirante São Luis HD
+http://tv.minhalista.me/live/gil148/gil148/42989.m3u
+#EXTINF:-1,Globo TV Morena Campo Grande
+http://tv.minhalista.me/live/gil148/gil148/42992.m3u
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+http://tv.minhalista.me/live/gil148/gil148/42991.m3u
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+http://tv.minhalista.me/live/gil148/gil148/63655.m3u
+#EXTINF:-1,Globo TV Morena FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68066.m3u
+#EXTINF:-1,Globo TV Rio Sul
+http://tv.minhalista.me/live/gil148/gil148/52549.m3u
+#EXTINF:-1,Globo TV Rio Sul HD
+http://tv.minhalista.me/live/gil148/gil148/52548.m3u
+#EXTINF:-1,Globo TV Santa Cruz
+http://tv.minhalista.me/live/gil148/gil148/52565.m3u
+#EXTINF:-1,Globo TV Santa Cruz FHD
+http://tv.minhalista.me/live/gil148/gil148/52563.m3u
+#EXTINF:-1,Globo TV Santa Cruz FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68074.m3u
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://tv.minhalista.me/live/gil148/gil148/52564.m3u
+#EXTINF:-1,Globo TV Sergipe
+http://tv.minhalista.me/live/gil148/gil148/42908.m3u
+#EXTINF:-1,Globo TV Sergipe FHD
+http://tv.minhalista.me/live/gil148/gil148/42981.m3u
+#EXTINF:-1,Globo TV Sergipe FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68071.m3u
+#EXTINF:-1,Globo TV Sergipe HD
+http://tv.minhalista.me/live/gil148/gil148/42982.m3u
+#EXTINF:-1,Globo TV Subae Globo Bahia
+http://tv.minhalista.me/live/gil148/gil148/74959.m3u
+#EXTINF:-1,Globo TV Subae Globo Bahia FHD
+http://tv.minhalista.me/live/gil148/gil148/74960.m3u
+#EXTINF:-1,Globo TV Subae Globo Bahia HD
+http://tv.minhalista.me/live/gil148/gil148/57804.m3u
+#EXTINF:-1,Globo TV TEM Itapetininga
+http://tv.minhalista.me/live/gil148/gil148/73227.m3u
+#EXTINF:-1,Globo TV TEM Itapetininga FHD
+http://tv.minhalista.me/live/gil148/gil148/73229.m3u
+#EXTINF:-1,Globo TV TEM Itapetininga HD
+http://tv.minhalista.me/live/gil148/gil148/73228.m3u
+#EXTINF:-1,Globo TV TEM São José do Rio Preto
+http://tv.minhalista.me/live/gil148/gil148/40516.m3u
+#EXTINF:-1,Globo TV TEM São José do Rio Preto HD
+http://tv.minhalista.me/live/gil148/gil148/40515.m3u
+#EXTINF:-1,Globo TV Tribuna Santos
+http://tv.minhalista.me/live/gil148/gil148/42966.m3u
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+http://tv.minhalista.me/live/gil148/gil148/75164.m3u
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://tv.minhalista.me/live/gil148/gil148/75477.m3u
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos
+http://tv.minhalista.me/live/gil148/gil148/42967.m3u
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos FHD
+http://tv.minhalista.me/live/gil148/gil148/74667.m3u
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos HD
+http://tv.minhalista.me/live/gil148/gil148/74666.m3u
+#EXTINF:-1,Globo TV Vanguarda Taubate
+http://tv.minhalista.me/live/gil148/gil148/73221.m3u
+#EXTINF:-1,Globo TV Vanguarda Taubate FHD
+http://tv.minhalista.me/live/gil148/gil148/73223.m3u
+#EXTINF:-1,Globo TV Vanguarda Taubate HD
+http://tv.minhalista.me/live/gil148/gil148/73222.m3u
+#EXTINF:-1,Globo TV Verdes Mares FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68067.m3u
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza
+http://tv.minhalista.me/live/gil148/gil148/56908.m3u
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza FHD
+http://tv.minhalista.me/live/gil148/gil148/63641.m3u
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza HD
+http://tv.minhalista.me/live/gil148/gil148/61976.m3u
+#EXTINF:-1,Globo [4K]
+http://tv.minhalista.me/live/gil148/gil148/43430.m3u
+#EXTINF:-1,GloboEsporte.com
+http://tv.minhalista.me/live/gil148/gil148/62271.m3u
+#EXTINF:-1,GloboNews
+http://tv.minhalista.me/live/gil148/gil148/37093.m3u
+#EXTINF:-1,GloboNews FHD
+http://tv.minhalista.me/live/gil148/gil148/38397.m3u
+#EXTINF:-1,GloboNews HD
+http://tv.minhalista.me/live/gil148/gil148/36917.m3u
+#EXTINF:-1,GloboNews [4K]
+http://tv.minhalista.me/live/gil148/gil148/74789.m3u
+#EXTINF:-1,Gloob
+http://tv.minhalista.me/live/gil148/gil148/37089.m3u
+#EXTINF:-1,Gloob - H265
+http://tv.minhalista.me/live/gil148/gil148/51244.m3u
+#EXTINF:-1,Gloob FHD
+http://tv.minhalista.me/live/gil148/gil148/38396.m3u
+#EXTINF:-1,Gloob HD
+http://tv.minhalista.me/live/gil148/gil148/36915.m3u
+#EXTINF:-1,Gloobinho
+http://tv.minhalista.me/live/gil148/gil148/63720.m3u
+#EXTINF:-1,Gloobinho FHD
+http://tv.minhalista.me/live/gil148/gil148/41483.m3u
+#EXTINF:-1,Gloobinho HD
+http://tv.minhalista.me/live/gil148/gil148/38969.m3u
+#EXTINF:-1,Gospel 1
+http://tv.minhalista.me/live/gil148/gil148/54297.m3u
+#EXTINF:-1,H2  | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63221.m3u
+#EXTINF:-1,H2 - H265
+http://tv.minhalista.me/live/gil148/gil148/62853.m3u
+#EXTINF:-1,H2 H265
+http://tv.minhalista.me/live/gil148/gil148/51245.m3u
+#EXTINF:-1,H2 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50786.m3u
+#EXTINF:-1,H2 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50787.m3u
+#EXTINF:-1,HBO
+http://tv.minhalista.me/live/gil148/gil148/65114.m3u
+#EXTINF:-1,HBO 2
+http://tv.minhalista.me/live/gil148/gil148/37086.m3u
+#EXTINF:-1,HBO 2 FHD
+http://tv.minhalista.me/live/gil148/gil148/38423.m3u
+#EXTINF:-1,HBO 2 H265
+http://tv.minhalista.me/live/gil148/gil148/62845.m3u
+#EXTINF:-1,HBO 2 HD
+http://tv.minhalista.me/live/gil148/gil148/36966.m3u
+#EXTINF:-1,HBO 2 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50788.m3u
+#EXTINF:-1,HBO 2 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50789.m3u
+#EXTINF:-1,HBO FAMILY H265
+http://tv.minhalista.me/live/gil148/gil148/62847.m3u
+#EXTINF:-1,HBO FAMILY HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50790.m3u
+#EXTINF:-1,HBO FAMILY [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50791.m3u
+#EXTINF:-1,HBO FHD
+http://tv.minhalista.me/live/gil148/gil148/61972.m3u
+#EXTINF:-1,HBO FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81789.m3u
+#EXTINF:-1,HBO Family
+http://tv.minhalista.me/live/gil148/gil148/37085.m3u
+#EXTINF:-1,HBO Family FHD
+http://tv.minhalista.me/live/gil148/gil148/41486.m3u
+#EXTINF:-1,HBO Family HD
+http://tv.minhalista.me/live/gil148/gil148/36965.m3u
+#EXTINF:-1,HBO Family | Dual Audio
+http://tv.minhalista.me/live/gil148/gil148/63308.m3u
+#EXTINF:-1,HBO H265
+http://tv.minhalista.me/live/gil148/gil148/62848.m3u
+#EXTINF:-1,HBO HD
+http://tv.minhalista.me/live/gil148/gil148/36964.m3u
+#EXTINF:-1,HBO HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81790.m3u
+#EXTINF:-1,HBO HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50792.m3u
+#EXTINF:-1,HBO MAX 1 (P)
+http://tv.minhalista.me/live/gil148/gil148/82366.m3u
+#EXTINF:-1,HBO MAX 2 (P)
+http://tv.minhalista.me/live/gil148/gil148/82397.m3u
+#EXTINF:-1,HBO MAX 2 (S)
+http://tv.minhalista.me/live/gil148/gil148/82373.m3u
+#EXTINF:-1,HBO MAX 3 (P)
+http://tv.minhalista.me/live/gil148/gil148/82398.m3u
+#EXTINF:-1,HBO MAX 4 (P)
+http://tv.minhalista.me/live/gil148/gil148/82399.m3u
+#EXTINF:-1,HBO MAX 4 (S)
+http://tv.minhalista.me/live/gil148/gil148/82375.m3u
+#EXTINF:-1,HBO MAX 5 (P)
+http://tv.minhalista.me/live/gil148/gil148/82400.m3u
+#EXTINF:-1,HBO MUNDI FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81795.m3u
+#EXTINF:-1,HBO MUNDI HD ( LEG)
+http://tv.minhalista.me/live/gil148/gil148/81796.m3u
+#EXTINF:-1,HBO Mundi
+http://tv.minhalista.me/live/gil148/gil148/37076.m3u
+#EXTINF:-1,HBO Mundi FHD
+http://tv.minhalista.me/live/gil148/gil148/40268.m3u
+#EXTINF:-1,HBO Mundi H265
+http://tv.minhalista.me/live/gil148/gil148/62863.m3u
+#EXTINF:-1,HBO Mundi HD
+http://tv.minhalista.me/live/gil148/gil148/36913.m3u
+#EXTINF:-1,HBO Mundi [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50849.m3u
+#EXTINF:-1,HBO PLUS *E [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50793.m3u
+#EXTINF:-1,HBO PLUS FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81791.m3u
+#EXTINF:-1,HBO PLUS H265
+http://tv.minhalista.me/live/gil148/gil148/62852.m3u
+#EXTINF:-1,HBO PLUS HD  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51151.m3u
+#EXTINF:-1,HBO PLUS HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81792.m3u
+#EXTINF:-1,HBO PLUS | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63244.m3u
+#EXTINF:-1,HBO PLUS- H265
+http://tv.minhalista.me/live/gil148/gil148/51246.m3u
+#EXTINF:-1,HBO POP
+http://tv.minhalista.me/live/gil148/gil148/37073.m3u
+#EXTINF:-1,HBO POP FHD
+http://tv.minhalista.me/live/gil148/gil148/40270.m3u
+#EXTINF:-1,HBO POP FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81797.m3u
+#EXTINF:-1,HBO POP H265
+http://tv.minhalista.me/live/gil148/gil148/62866.m3u
+#EXTINF:-1,HBO POP HD
+http://tv.minhalista.me/live/gil148/gil148/36911.m3u
+#EXTINF:-1,HBO POP HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81798.m3u
+#EXTINF:-1,HBO POP HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50851.m3u
+#EXTINF:-1,HBO POP [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50852.m3u
+#EXTINF:-1,HBO Plus
+http://tv.minhalista.me/live/gil148/gil148/37084.m3u
+#EXTINF:-1,HBO Plus E
+http://tv.minhalista.me/live/gil148/gil148/37083.m3u
+#EXTINF:-1,HBO Plus FHD
+http://tv.minhalista.me/live/gil148/gil148/41487.m3u
+#EXTINF:-1,HBO Plus HD
+http://tv.minhalista.me/live/gil148/gil148/36963.m3u
+#EXTINF:-1,HBO SIGNATURE - H265
+http://tv.minhalista.me/live/gil148/gil148/51247.m3u
+#EXTINF:-1,HBO SIGNATURE FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81793.m3u
+#EXTINF:-1,HBO SIGNATURE H265
+http://tv.minhalista.me/live/gil148/gil148/62856.m3u
+#EXTINF:-1,HBO SIGNATURE HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81794.m3u
+#EXTINF:-1,HBO SIGNATURE HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50796.m3u
+#EXTINF:-1,HBO SIGNATURE [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50797.m3u
+#EXTINF:-1,HBO Signature
+http://tv.minhalista.me/live/gil148/gil148/37082.m3u
+#EXTINF:-1,HBO Signature FHD
+http://tv.minhalista.me/live/gil148/gil148/41488.m3u
+#EXTINF:-1,HBO Signature HD
+http://tv.minhalista.me/live/gil148/gil148/36962.m3u
+#EXTINF:-1,HBO XTREAM HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81800.m3u
+#EXTINF:-1,HBO XTREME FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81799.m3u
+#EXTINF:-1,HBO Xtreme
+http://tv.minhalista.me/live/gil148/gil148/37075.m3u
+#EXTINF:-1,HBO Xtreme E
+http://tv.minhalista.me/live/gil148/gil148/37074.m3u
+#EXTINF:-1,HBO Xtreme FHD
+http://tv.minhalista.me/live/gil148/gil148/42901.m3u
+#EXTINF:-1,HBO Xtreme H265
+http://tv.minhalista.me/live/gil148/gil148/62865.m3u
+#EXTINF:-1,HBO Xtreme HD
+http://tv.minhalista.me/live/gil148/gil148/36912.m3u
+#EXTINF:-1,HBO Xtreme [4K]
+http://tv.minhalista.me/live/gil148/gil148/67688.m3u
+#EXTINF:-1,HBO [4K]
+http://tv.minhalista.me/live/gil148/gil148/64674.m3u
+#EXTINF:-1,HBO [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50795.m3u
+#EXTINF:-1,HBO2 H265
+http://tv.minhalista.me/live/gil148/gil148/51248.m3u
+#EXTINF:-1,HGTV
+http://tv.minhalista.me/live/gil148/gil148/63272.m3u
+#EXTINF:-1,HGTV  | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63219.m3u
+#EXTINF:-1,HGTV FHD
+http://tv.minhalista.me/live/gil148/gil148/40259.m3u
+#EXTINF:-1,HGTV FHD  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50702.m3u
+#EXTINF:-1,HGTV H265
+http://tv.minhalista.me/live/gil148/gil148/62885.m3u
+#EXTINF:-1,HGTV HD
+http://tv.minhalista.me/live/gil148/gil148/36924.m3u
+#EXTINF:-1,HISTORY CHANNEL HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50798.m3u
+#EXTINF:-1,HISTORY CHANNEL [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50799.m3u
+#EXTINF:-1,HISTORY H265
+http://tv.minhalista.me/live/gil148/gil148/62858.m3u
+#EXTINF:-1,Hip Hop 1
+http://tv.minhalista.me/live/gil148/gil148/54298.m3u
+#EXTINF:-1,History
+http://tv.minhalista.me/live/gil148/gil148/37081.m3u
+#EXTINF:-1,History 2
+http://tv.minhalista.me/live/gil148/gil148/42915.m3u
+#EXTINF:-1,History 2 FHD
+http://tv.minhalista.me/live/gil148/gil148/41485.m3u
+#EXTINF:-1,History 2 HD
+http://tv.minhalista.me/live/gil148/gil148/36961.m3u
+#EXTINF:-1,History FHD
+http://tv.minhalista.me/live/gil148/gil148/38383.m3u
+#EXTINF:-1,History HD
+http://tv.minhalista.me/live/gil148/gil148/36960.m3u
+#EXTINF:-1,ID: Investigação Discovery
+http://tv.minhalista.me/live/gil148/gil148/37114.m3u
+#EXTINF:-1,ID: Investigação Discovery FHD
+http://tv.minhalista.me/live/gil148/gil148/41489.m3u
+#EXTINF:-1,ID: Investigação Discovery HD
+http://tv.minhalista.me/live/gil148/gil148/36959.m3u
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50803.m3u
+#EXTINF:-1,INVESTIGATION DISC H265
+http://tv.minhalista.me/live/gil148/gil148/62851.m3u
+#EXTINF:-1,INVESTIGATION DISCOVERY  H265
+http://tv.minhalista.me/live/gil148/gil148/51250.m3u
+#EXTINF:-1,Ideal TV
+http://tv.minhalista.me/live/gil148/gil148/63404.m3u
+#EXTINF:-1,Infantil 1
+http://tv.minhalista.me/live/gil148/gil148/54299.m3u
+#EXTINF:-1,Inter TV Alto Litoral
+http://tv.minhalista.me/live/gil148/gil148/63724.m3u
+#EXTINF:-1,Inter TV Alto Litoral FHD
+http://tv.minhalista.me/live/gil148/gil148/52593.m3u
+#EXTINF:-1,Inter TV Alto Litoral HD
+http://tv.minhalista.me/live/gil148/gil148/52592.m3u
+#EXTINF:-1,Inter TV Cabugi
+http://tv.minhalista.me/live/gil148/gil148/63405.m3u
+#EXTINF:-1,Inter TV Cabugi FHD
+http://tv.minhalista.me/live/gil148/gil148/74954.m3u
+#EXTINF:-1,Inter TV Cabugi HD
+http://tv.minhalista.me/live/gil148/gil148/74953.m3u
+#EXTINF:-1,Inter TV Grande Minas
+http://tv.minhalista.me/live/gil148/gil148/52575.m3u
+#EXTINF:-1,Inter TV Grande Minas FHD
+http://tv.minhalista.me/live/gil148/gil148/52577.m3u
+#EXTINF:-1,Inter TV Grande Minas HD
+http://tv.minhalista.me/live/gil148/gil148/52576.m3u
+#EXTINF:-1,Inter TV Serra Mar
+http://tv.minhalista.me/live/gil148/gil148/52572.m3u
+#EXTINF:-1,Inter TV Serra Mar FHD
+http://tv.minhalista.me/live/gil148/gil148/52574.m3u
+#EXTINF:-1,Inter TV Serra Mar HD
+http://tv.minhalista.me/live/gil148/gil148/52573.m3u
+#EXTINF:-1,Inter TV dos Vales
+http://tv.minhalista.me/live/gil148/gil148/52578.m3u
+#EXTINF:-1,Inter TV dos Vales FHD
+http://tv.minhalista.me/live/gil148/gil148/52590.m3u
+#EXTINF:-1,Inter TV dos Vales HD
+http://tv.minhalista.me/live/gil148/gil148/52587.m3u
+#EXTINF:-1,InterTV Cabo Frio HD
+http://tv.minhalista.me/live/gil148/gil148/64591.m3u
+#EXTINF:-1,JOVEM PAM SP
+http://tv.minhalista.me/live/gil148/gil148/87427.m3u
+#EXTINF:-1,JOVEM PAN NEWS  FHD (S)
+http://tv.minhalista.me/live/gil148/gil148/83444.m3u
+#EXTINF:-1,JOVEM PAN NEWS FHD (J)
+http://tv.minhalista.me/live/gil148/gil148/85006.m3u
+#EXTINF:-1,JOVEM PAN NEWS FHD (P)
+http://tv.minhalista.me/live/gil148/gil148/85011.m3u
+#EXTINF:-1,JOVEM PAN NEWS HD (J)
+http://tv.minhalista.me/live/gil148/gil148/85005.m3u
+#EXTINF:-1,JOVEM PAN NEWS HD (P)
+http://tv.minhalista.me/live/gil148/gil148/85012.m3u
+#EXTINF:-1,JOVEM PAN NEWS HD (S)
+http://tv.minhalista.me/live/gil148/gil148/83443.m3u
+#EXTINF:-1,Jovem Guarda
+http://tv.minhalista.me/live/gil148/gil148/54300.m3u
+#EXTINF:-1,LIFE TIME | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63245.m3u
+#EXTINF:-1,LIFETIME - H265
+http://tv.minhalista.me/live/gil148/gil148/51251.m3u
+#EXTINF:-1,LIFETIME H265
+http://tv.minhalista.me/live/gil148/gil148/62860.m3u
+#EXTINF:-1,LIFETIME HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50829.m3u
+#EXTINF:-1,LIFETIME [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50834.m3u
+#EXTINF:-1,LNF - Liga Futsal 2022 (S)
+http://tv.minhalista.me/live/gil148/gil148/87189.m3u
+#EXTINF:-1,LNF - Liga Futsal 2022 1 (J)
+http://tv.minhalista.me/live/gil148/gil148/87190.m3u
+#EXTINF:-1,LNF - Liga Futsal 2022 2 (J)
+http://tv.minhalista.me/live/gil148/gil148/87191.m3u
+#EXTINF:-1,LNF - Liga Futsal 2022 3 (J)
+http://tv.minhalista.me/live/gil148/gil148/87192.m3u
+#EXTINF:-1,LNF - Liga Futsal 2022 4 (J)
+http://tv.minhalista.me/live/gil148/gil148/87193.m3u
+#EXTINF:-1,Latina
+http://tv.minhalista.me/live/gil148/gil148/54301.m3u
+#EXTINF:-1,Lifetime
+http://tv.minhalista.me/live/gil148/gil148/37077.m3u
+#EXTINF:-1,Lifetime FHD
+http://tv.minhalista.me/live/gil148/gil148/40265.m3u
+#EXTINF:-1,Lifetime HD
+http://tv.minhalista.me/live/gil148/gil148/36914.m3u
+#EXTINF:-1,Loading
+http://tv.minhalista.me/live/gil148/gil148/76606.m3u
+#EXTINF:-1,Loading FHD
+http://tv.minhalista.me/live/gil148/gil148/76525.m3u
+#EXTINF:-1,Loading HD
+http://tv.minhalista.me/live/gil148/gil148/76607.m3u
+#EXTINF:-1,MAIS GLOBOSAT H265
+http://tv.minhalista.me/live/gil148/gil148/62861.m3u
+#EXTINF:-1,MAIS GLOBOSAT HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50836.m3u
+#EXTINF:-1,MAIS GLOBOSAT [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50838.m3u
+#EXTINF:-1,METROPOLITANA SERTANEJA
+http://tv.minhalista.me/live/gil148/gil148/87435.m3u
+#EXTINF:-1,MIX FM SP
+http://tv.minhalista.me/live/gil148/gil148/87434.m3u
+#EXTINF:-1,MPB 1
+http://tv.minhalista.me/live/gil148/gil148/54303.m3u
+#EXTINF:-1,MTV
+http://tv.minhalista.me/live/gil148/gil148/37071.m3u
+#EXTINF:-1,MTV - H265
+http://tv.minhalista.me/live/gil148/gil148/51252.m3u
+#EXTINF:-1,MTV FHD
+http://tv.minhalista.me/live/gil148/gil148/40266.m3u
+#EXTINF:-1,MTV H265
+http://tv.minhalista.me/live/gil148/gil148/62874.m3u
+#EXTINF:-1,MTV HD
+http://tv.minhalista.me/live/gil148/gil148/36910.m3u
+#EXTINF:-1,MTV HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50855.m3u
+#EXTINF:-1,MTV LIVE H265
+http://tv.minhalista.me/live/gil148/gil148/62850.m3u
+#EXTINF:-1,MTV Live
+http://tv.minhalista.me/live/gil148/gil148/40519.m3u
+#EXTINF:-1,MTV Live FHD
+http://tv.minhalista.me/live/gil148/gil148/41492.m3u
+#EXTINF:-1,MTV Live HD
+http://tv.minhalista.me/live/gil148/gil148/40518.m3u
+#EXTINF:-1,MTV | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63247.m3u
+#EXTINF:-1,MULTISHOW - H265
+http://tv.minhalista.me/live/gil148/gil148/62849.m3u
+#EXTINF:-1,MULTISHOW H265
+http://tv.minhalista.me/live/gil148/gil148/51253.m3u
+#EXTINF:-1,MULTISHOW HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50857.m3u
+#EXTINF:-1,MULTISHOW [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50858.m3u
+#EXTINF:-1,MULTISHOW | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63248.m3u
+#EXTINF:-1,MUSIC BOX BRASIL [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50859.m3u
+#EXTINF:-1,MUSIC BOX BRAZIL H265
+http://tv.minhalista.me/live/gil148/gil148/62876.m3u
+#EXTINF:-1,Mais GloboSat
+http://tv.minhalista.me/live/gil148/gil148/63629.m3u
+#EXTINF:-1,Mais GloboSat FHD
+http://tv.minhalista.me/live/gil148/gil148/42902.m3u
+#EXTINF:-1,Mais GloboSat HD
+http://tv.minhalista.me/live/gil148/gil148/73453.m3u
+#EXTINF:-1,Mais Globosat FHD - H265
+http://tv.minhalista.me/live/gil148/gil148/68068.m3u
+#EXTINF:-1,Mega TV FHD
+http://tv.minhalista.me/live/gil148/gil148/75176.m3u
+#EXTINF:-1,MegaPix 4K
+http://tv.minhalista.me/live/gil148/gil148/61844.m3u
+#EXTINF:-1,MegaPix H265
+http://tv.minhalista.me/live/gil148/gil148/62868.m3u
+#EXTINF:-1,MegaPix HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50853.m3u
+#EXTINF:-1,MegaPix [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50854.m3u
+#EXTINF:-1,MegaPix | Dual Audio
+http://tv.minhalista.me/live/gil148/gil148/63309.m3u
+#EXTINF:-1,Megapix
+http://tv.minhalista.me/live/gil148/gil148/37072.m3u
+#EXTINF:-1,Megapix FHD
+http://tv.minhalista.me/live/gil148/gil148/41491.m3u
+#EXTINF:-1,Megapix HD
+http://tv.minhalista.me/live/gil148/gil148/36958.m3u
+#EXTINF:-1,Metal
+http://tv.minhalista.me/live/gil148/gil148/54302.m3u
+#EXTINF:-1,Mosaico Premiere FHD
+http://tv.minhalista.me/live/gil148/gil148/74668.m3u
+#EXTINF:-1,Mosaico Premiere HD
+http://tv.minhalista.me/live/gil148/gil148/74669.m3u
+#EXTINF:-1,Multishow
+http://tv.minhalista.me/live/gil148/gil148/37070.m3u
+#EXTINF:-1,Multishow FHD
+http://tv.minhalista.me/live/gil148/gil148/41493.m3u
+#EXTINF:-1,Multishow HD
+http://tv.minhalista.me/live/gil148/gil148/36957.m3u
+#EXTINF:-1,Multishow [4K]
+http://tv.minhalista.me/live/gil148/gil148/61842.m3u
+#EXTINF:-1,Music Box Brazil
+http://tv.minhalista.me/live/gil148/gil148/37069.m3u
+#EXTINF:-1,Music Box Brazil FHD
+http://tv.minhalista.me/live/gil148/gil148/41494.m3u
+#EXTINF:-1,Music Box Brazil HD
+http://tv.minhalista.me/live/gil148/gil148/63651.m3u
+#EXTINF:-1,NATGEO H265
+http://tv.minhalista.me/live/gil148/gil148/62878.m3u
+#EXTINF:-1,NATGEO HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50902.m3u
+#EXTINF:-1,NATGEO [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50905.m3u
+#EXTINF:-1,NBA League Pass 01 (J)
+http://tv.minhalista.me/live/gil148/gil148/85565.m3u
+#EXTINF:-1,NBA League Pass 02 (J)
+http://tv.minhalista.me/live/gil148/gil148/85566.m3u
+#EXTINF:-1,NBA League Pass 04 (J)
+http://tv.minhalista.me/live/gil148/gil148/85568.m3u
+#EXTINF:-1,NBA League Pass 05 (J)
+http://tv.minhalista.me/live/gil148/gil148/85569.m3u
+#EXTINF:-1,NBA League Pass 06 (J)
+http://tv.minhalista.me/live/gil148/gil148/85570.m3u
+#EXTINF:-1,NBA League Pass 07 (J)
+http://tv.minhalista.me/live/gil148/gil148/85571.m3u
+#EXTINF:-1,NBA League Pass 09 (J)
+http://tv.minhalista.me/live/gil148/gil148/85573.m3u
+#EXTINF:-1,NBA TV
+http://tv.minhalista.me/live/gil148/gil148/85564.m3u
+#EXTINF:-1,NBR TV FHD
+http://tv.minhalista.me/live/gil148/gil148/81598.m3u
+#EXTINF:-1,NHK World Japan
+http://tv.minhalista.me/live/gil148/gil148/63408.m3u
+#EXTINF:-1,NHK World Japan HD
+http://tv.minhalista.me/live/gil148/gil148/63409.m3u
+#EXTINF:-1,NICK HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50932.m3u
+#EXTINF:-1,NICK JR H265
+http://tv.minhalista.me/live/gil148/gil148/62884.m3u
+#EXTINF:-1,NICK JR HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50933.m3u
+#EXTINF:-1,NICK JR [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50934.m3u
+#EXTINF:-1,NICKELODEON H265
+http://tv.minhalista.me/live/gil148/gil148/62886.m3u
+#EXTINF:-1,NICKELODEON [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50935.m3u
+#EXTINF:-1,NICKLODEON | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63264.m3u
+#EXTINF:-1,NOVO TEMPO [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50936.m3u
+#EXTINF:-1,NSC TV Blumenau
+http://tv.minhalista.me/live/gil148/gil148/52571.m3u
+#EXTINF:-1,NSC TV Blumenau FHD
+http://tv.minhalista.me/live/gil148/gil148/52569.m3u
+#EXTINF:-1,NSC TV Blumenau HD
+http://tv.minhalista.me/live/gil148/gil148/52570.m3u
+#EXTINF:-1,NSC TV Centro Oeste
+http://tv.minhalista.me/live/gil148/gil148/73088.m3u
+#EXTINF:-1,NSC TV Centro Oeste HD
+http://tv.minhalista.me/live/gil148/gil148/73087.m3u
+#EXTINF:-1,NSC TV Chapecó
+http://tv.minhalista.me/live/gil148/gil148/42971.m3u
+#EXTINF:-1,NSC TV Chapecó FHD
+http://tv.minhalista.me/live/gil148/gil148/42969.m3u
+#EXTINF:-1,NSC TV Chapecó HD
+http://tv.minhalista.me/live/gil148/gil148/42970.m3u
+#EXTINF:-1,NSC TV Criciúma
+http://tv.minhalista.me/live/gil148/gil148/73085.m3u
+#EXTINF:-1,NSC TV Criciúma FHD
+http://tv.minhalista.me/live/gil148/gil148/73070.m3u
+#EXTINF:-1,NSC TV Criciúma HD
+http://tv.minhalista.me/live/gil148/gil148/73071.m3u
+#EXTINF:-1,NSC TV Florianópolis
+http://tv.minhalista.me/live/gil148/gil148/38641.m3u
+#EXTINF:-1,NSC TV Florianópolis FHD
+http://tv.minhalista.me/live/gil148/gil148/42985.m3u
+#EXTINF:-1,NSC TV Florianópolis HD
+http://tv.minhalista.me/live/gil148/gil148/42958.m3u
+#EXTINF:-1,NSC TV Joinville
+http://tv.minhalista.me/live/gil148/gil148/52540.m3u
+#EXTINF:-1,NSC TV Joinville FHD
+http://tv.minhalista.me/live/gil148/gil148/52538.m3u
+#EXTINF:-1,NSC TV Joinville HD
+http://tv.minhalista.me/live/gil148/gil148/52539.m3u
+#EXTINF:-1,NatGeo  | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63227.m3u
+#EXTINF:-1,National Geographic
+http://tv.minhalista.me/live/gil148/gil148/37068.m3u
+#EXTINF:-1,National Geographic FHD
+http://tv.minhalista.me/live/gil148/gil148/41280.m3u
+#EXTINF:-1,National Geographic HD
+http://tv.minhalista.me/live/gil148/gil148/36956.m3u
+#EXTINF:-1,National Geographic [4K]
+http://tv.minhalista.me/live/gil148/gil148/61846.m3u
+#EXTINF:-1,New Rock
+http://tv.minhalista.me/live/gil148/gil148/54304.m3u
+#EXTINF:-1,Nick
+http://tv.minhalista.me/live/gil148/gil148/37064.m3u
+#EXTINF:-1,Nick FHD
+http://tv.minhalista.me/live/gil148/gil148/40039.m3u
+#EXTINF:-1,Nick HD
+http://tv.minhalista.me/live/gil148/gil148/36907.m3u
+#EXTINF:-1,Nick Jr.
+http://tv.minhalista.me/live/gil148/gil148/37065.m3u
+#EXTINF:-1,Nick Jr. FHD
+http://tv.minhalista.me/live/gil148/gil148/41498.m3u
+#EXTINF:-1,Nick Jr. HD
+http://tv.minhalista.me/live/gil148/gil148/36908.m3u
+#EXTINF:-1,Nosso Tempo FHD
+http://tv.minhalista.me/live/gil148/gil148/67296.m3u
+#EXTINF:-1,Nova Nordeste FHD
+http://tv.minhalista.me/live/gil148/gil148/63395.m3u
+#EXTINF:-1,Novo Tempo FHD
+http://tv.minhalista.me/live/gil148/gil148/61963.m3u
+#EXTINF:-1,OFF - H265
+http://tv.minhalista.me/live/gil148/gil148/51257.m3u
+#EXTINF:-1,OFF H265
+http://tv.minhalista.me/live/gil148/gil148/62890.m3u
+#EXTINF:-1,OS FLINTSTONES
+http://tv.minhalista.me/live/gil148/gil148/58095.m3u
+#EXTINF:-1,Off
+http://tv.minhalista.me/live/gil148/gil148/37063.m3u
+#EXTINF:-1,Off FHD
+http://tv.minhalista.me/live/gil148/gil148/41499.m3u
+#EXTINF:-1,Off HD
+http://tv.minhalista.me/live/gil148/gil148/36954.m3u
+#EXTINF:-1,PARAMOUNT CHANNEL HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50938.m3u
+#EXTINF:-1,PARAMOUNT CHANNEL [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50945.m3u
+#EXTINF:-1,PARAMOUNT H265
+http://tv.minhalista.me/live/gil148/gil148/62892.m3u
+#EXTINF:-1,PARAMOUNT | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63249.m3u
+#EXTINF:-1,PFC 2 H265
+http://tv.minhalista.me/live/gil148/gil148/62895.m3u
+#EXTINF:-1,PFC 4 H265
+http://tv.minhalista.me/live/gil148/gil148/62844.m3u
+#EXTINF:-1,PFC 7 H265
+http://tv.minhalista.me/live/gil148/gil148/62841.m3u
+#EXTINF:-1,PFC CLUBES H265
+http://tv.minhalista.me/live/gil148/gil148/62900.m3u
+#EXTINF:-1,PLAYKIDS FHD
+http://tv.minhalista.me/live/gil148/gil148/41522.m3u
+#EXTINF:-1,PREMIERE 2 H265
+http://tv.minhalista.me/live/gil148/gil148/51259.m3u
+#EXTINF:-1,PREMIERE 2 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50953.m3u
+#EXTINF:-1,PREMIERE 2 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50954.m3u
+#EXTINF:-1,PREMIERE 3 H265
+http://tv.minhalista.me/live/gil148/gil148/51260.m3u
+#EXTINF:-1,PREMIERE 3 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50966.m3u
+#EXTINF:-1,PREMIERE 3 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50973.m3u
+#EXTINF:-1,PREMIERE 4 H265
+http://tv.minhalista.me/live/gil148/gil148/51261.m3u
+#EXTINF:-1,PREMIERE 4 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50976.m3u
+#EXTINF:-1,PREMIERE 4 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50977.m3u
+#EXTINF:-1,PREMIERE 5 H265
+http://tv.minhalista.me/live/gil148/gil148/51262.m3u
+#EXTINF:-1,PREMIERE 5 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50983.m3u
+#EXTINF:-1,PREMIERE 5 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50984.m3u
+#EXTINF:-1,PREMIERE 6  H265
+http://tv.minhalista.me/live/gil148/gil148/51263.m3u
+#EXTINF:-1,PREMIERE 6 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50986.m3u
+#EXTINF:-1,PREMIERE 7 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50987.m3u
+#EXTINF:-1,PREMIERE 7 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50988.m3u
+#EXTINF:-1,PREMIERE CLUBES H265
+http://tv.minhalista.me/live/gil148/gil148/51265.m3u
+#EXTINF:-1,PREMIERE CLUBES [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51001.m3u
+#EXTINF:-1,PRIME BOX BRAZIL H265
+http://tv.minhalista.me/live/gil148/gil148/62903.m3u
+#EXTINF:-1,PRIMEBOX BRASIL [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51004.m3u
+#EXTINF:-1,Paramount Channel
+http://tv.minhalista.me/live/gil148/gil148/37062.m3u
+#EXTINF:-1,Paramount Channel FHD
+http://tv.minhalista.me/live/gil148/gil148/41500.m3u
+#EXTINF:-1,Paramount Channel HD
+http://tv.minhalista.me/live/gil148/gil148/36953.m3u
+#EXTINF:-1,Pegadinha [01]
+http://tv.minhalista.me/live/gil148/gil148/62947.m3u
+#EXTINF:-1,Pegadinha [02]
+http://tv.minhalista.me/live/gil148/gil148/62948.m3u
+#EXTINF:-1,Pegadinha [03]
+http://tv.minhalista.me/live/gil148/gil148/62949.m3u
+#EXTINF:-1,Pegadinha [04]
+http://tv.minhalista.me/live/gil148/gil148/62950.m3u
+#EXTINF:-1,Pegadinha [05]
+http://tv.minhalista.me/live/gil148/gil148/62951.m3u
+#EXTINF:-1,Pegadinha [06]
+http://tv.minhalista.me/live/gil148/gil148/62952.m3u
+#EXTINF:-1,Pegadinha [07]
+http://tv.minhalista.me/live/gil148/gil148/62953.m3u
+#EXTINF:-1,Pegadinha [08]
+http://tv.minhalista.me/live/gil148/gil148/62954.m3u
+#EXTINF:-1,Pegadinha [09]
+http://tv.minhalista.me/live/gil148/gil148/62955.m3u
+#EXTINF:-1,Pegadinha [10]
+http://tv.minhalista.me/live/gil148/gil148/62956.m3u
+#EXTINF:-1,Pegadinha [11]
+http://tv.minhalista.me/live/gil148/gil148/62957.m3u
+#EXTINF:-1,Pegadinha [12]
+http://tv.minhalista.me/live/gil148/gil148/62958.m3u
+#EXTINF:-1,Pegadinha [13]
+http://tv.minhalista.me/live/gil148/gil148/62959.m3u
+#EXTINF:-1,Pegadinha [14]
+http://tv.minhalista.me/live/gil148/gil148/62960.m3u
+#EXTINF:-1,Pegadinha [15]
+http://tv.minhalista.me/live/gil148/gil148/62961.m3u
+#EXTINF:-1,Pegadinha [16]
+http://tv.minhalista.me/live/gil148/gil148/62962.m3u
+#EXTINF:-1,Pegadinha [17]
+http://tv.minhalista.me/live/gil148/gil148/62963.m3u
+#EXTINF:-1,Pegadinha [18]
+http://tv.minhalista.me/live/gil148/gil148/62964.m3u
+#EXTINF:-1,Pegadinha [19]
+http://tv.minhalista.me/live/gil148/gil148/62965.m3u
+#EXTINF:-1,Pegadinha [20]
+http://tv.minhalista.me/live/gil148/gil148/62966.m3u
+#EXTINF:-1,PlayKids HD
+http://tv.minhalista.me/live/gil148/gil148/41359.m3u
+#EXTINF:-1,PlayTV
+http://tv.minhalista.me/live/gil148/gil148/63410.m3u
+#EXTINF:-1,PlayTV HD
+http://tv.minhalista.me/live/gil148/gil148/63411.m3u
+#EXTINF:-1,Polishop TV
+http://tv.minhalista.me/live/gil148/gil148/61690.m3u
+#EXTINF:-1,Polishop TV FHD
+http://tv.minhalista.me/live/gil148/gil148/67295.m3u
+#EXTINF:-1,Premiere 2
+http://tv.minhalista.me/live/gil148/gil148/37060.m3u
+#EXTINF:-1,Premiere 2 FHD
+http://tv.minhalista.me/live/gil148/gil148/38410.m3u
+#EXTINF:-1,Premiere 2 HD
+http://tv.minhalista.me/live/gil148/gil148/36952.m3u
+#EXTINF:-1,Premiere 3
+http://tv.minhalista.me/live/gil148/gil148/37059.m3u
+#EXTINF:-1,Premiere 3 FHD
+http://tv.minhalista.me/live/gil148/gil148/38409.m3u
+#EXTINF:-1,Premiere 3 HD
+http://tv.minhalista.me/live/gil148/gil148/36951.m3u
+#EXTINF:-1,Premiere 4
+http://tv.minhalista.me/live/gil148/gil148/37058.m3u
+#EXTINF:-1,Premiere 4 FHD
+http://tv.minhalista.me/live/gil148/gil148/38408.m3u
+#EXTINF:-1,Premiere 4 HD
+http://tv.minhalista.me/live/gil148/gil148/36950.m3u
+#EXTINF:-1,Premiere 5
+http://tv.minhalista.me/live/gil148/gil148/37057.m3u
+#EXTINF:-1,Premiere 5 FHD
+http://tv.minhalista.me/live/gil148/gil148/38407.m3u
+#EXTINF:-1,Premiere 5 HD
+http://tv.minhalista.me/live/gil148/gil148/36949.m3u
+#EXTINF:-1,Premiere 6
+http://tv.minhalista.me/live/gil148/gil148/37056.m3u
+#EXTINF:-1,Premiere 6 FHD
+http://tv.minhalista.me/live/gil148/gil148/38406.m3u
+#EXTINF:-1,Premiere 6 HD
+http://tv.minhalista.me/live/gil148/gil148/36906.m3u
+#EXTINF:-1,Premiere 7
+http://tv.minhalista.me/live/gil148/gil148/37017.m3u
+#EXTINF:-1,Premiere 7 FHD
+http://tv.minhalista.me/live/gil148/gil148/38405.m3u
+#EXTINF:-1,Premiere 7 HD
+http://tv.minhalista.me/live/gil148/gil148/36905.m3u
+#EXTINF:-1,Premiere 8
+http://tv.minhalista.me/live/gil148/gil148/54120.m3u
+#EXTINF:-1,Premiere 8 HD
+http://tv.minhalista.me/live/gil148/gil148/64657.m3u
+#EXTINF:-1,Premiere Clubes
+http://tv.minhalista.me/live/gil148/gil148/37016.m3u
+#EXTINF:-1,Premiere Clubes FHD
+http://tv.minhalista.me/live/gil148/gil148/38411.m3u
+#EXTINF:-1,Premiere Clubes HD
+http://tv.minhalista.me/live/gil148/gil148/36948.m3u
+#EXTINF:-1,Premiere Clubes [4K]
+http://tv.minhalista.me/live/gil148/gil148/40783.m3u
+#EXTINF:-1,Prime Box Brazil
+http://tv.minhalista.me/live/gil148/gil148/37053.m3u
+#EXTINF:-1,Prime Box Brazil FHD
+http://tv.minhalista.me/live/gil148/gil148/41501.m3u
+#EXTINF:-1,Prime Box Brazil HD
+http://tv.minhalista.me/live/gil148/gil148/68532.m3u
+#EXTINF:-1,Primer TV HD
+http://tv.minhalista.me/live/gil148/gil148/86536.m3u
+#EXTINF:-1,RBS TV Caxias
+http://tv.minhalista.me/live/gil148/gil148/52568.m3u
+#EXTINF:-1,RBS TV Caxias FHD
+http://tv.minhalista.me/live/gil148/gil148/52566.m3u
+#EXTINF:-1,RBS TV Caxias HD
+http://tv.minhalista.me/live/gil148/gil148/52567.m3u
+#EXTINF:-1,RBS TV Passo Fundo
+http://tv.minhalista.me/live/gil148/gil148/74965.m3u
+#EXTINF:-1,RBS TV Passo Fundo FHD
+http://tv.minhalista.me/live/gil148/gil148/74966.m3u
+#EXTINF:-1,RBS TV Passo Fundo HD
+http://tv.minhalista.me/live/gil148/gil148/75231.m3u
+#EXTINF:-1,RBS TV Pelotas
+http://tv.minhalista.me/live/gil148/gil148/52543.m3u
+#EXTINF:-1,RBS TV Pelotas FHD
+http://tv.minhalista.me/live/gil148/gil148/52541.m3u
+#EXTINF:-1,RBS TV Pelotas HD
+http://tv.minhalista.me/live/gil148/gil148/52542.m3u
+#EXTINF:-1,RBS TV Porto Alegre
+http://tv.minhalista.me/live/gil148/gil148/42959.m3u
+#EXTINF:-1,RBS TV Porto Alegre FHD
+http://tv.minhalista.me/live/gil148/gil148/51215.m3u
+#EXTINF:-1,RBS TV Porto Alegre HD
+http://tv.minhalista.me/live/gil148/gil148/40252.m3u
+#EXTINF:-1,RBS TV Santa Maria
+http://tv.minhalista.me/live/gil148/gil148/73102.m3u
+#EXTINF:-1,RBS TV Santa Maria FHD
+http://tv.minhalista.me/live/gil148/gil148/73099.m3u
+#EXTINF:-1,RBS TV Santa Maria HD
+http://tv.minhalista.me/live/gil148/gil148/73101.m3u
+#EXTINF:-1,RECORD HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51006.m3u
+#EXTINF:-1,RECORD MARANHAO
+http://tv.minhalista.me/live/gil148/gil148/86994.m3u
+#EXTINF:-1,RECORD NEWS H265
+http://tv.minhalista.me/live/gil148/gil148/62812.m3u
+#EXTINF:-1,RECORD NEWS [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51009.m3u
+#EXTINF:-1,RECORD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51012.m3u
+#EXTINF:-1,RECORDTV H265
+http://tv.minhalista.me/live/gil148/gil148/62839.m3u
+#EXTINF:-1,REDE TV H265
+http://tv.minhalista.me/live/gil148/gil148/62811.m3u
+#EXTINF:-1,REDE TV HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51014.m3u
+#EXTINF:-1,REDE TV [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51024.m3u
+#EXTINF:-1,REDE VIDA H265
+http://tv.minhalista.me/live/gil148/gil148/62904.m3u
+#EXTINF:-1,REDE VIDA [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51032.m3u
+#EXTINF:-1,RIT
+http://tv.minhalista.me/live/gil148/gil148/59354.m3u
+#EXTINF:-1,RIT TV FHD
+http://tv.minhalista.me/live/gil148/gil148/63659.m3u
+#EXTINF:-1,RIT TV HD
+http://tv.minhalista.me/live/gil148/gil148/81019.m3u
+#EXTINF:-1,RPC Cascavel
+http://tv.minhalista.me/live/gil148/gil148/74967.m3u
+#EXTINF:-1,RPC Cascavel FHD
+http://tv.minhalista.me/live/gil148/gil148/74968.m3u
+#EXTINF:-1,RPC Cascavel HD
+http://tv.minhalista.me/live/gil148/gil148/75482.m3u
+#EXTINF:-1,RPC Curitiba
+http://tv.minhalista.me/live/gil148/gil148/37366.m3u
+#EXTINF:-1,RPC Curitiba FHD
+http://tv.minhalista.me/live/gil148/gil148/38381.m3u
+#EXTINF:-1,RPC Curitiba HD
+http://tv.minhalista.me/live/gil148/gil148/42961.m3u
+#EXTINF:-1,RPC Foz do Iguaçu
+http://tv.minhalista.me/live/gil148/gil148/42972.m3u
+#EXTINF:-1,RPC Foz do Iguaçu FHD
+http://tv.minhalista.me/live/gil148/gil148/42973.m3u
+#EXTINF:-1,RPC Foz do Iguaçu HD
+http://tv.minhalista.me/live/gil148/gil148/42974.m3u
+#EXTINF:-1,RPC Maringá
+http://tv.minhalista.me/live/gil148/gil148/63273.m3u
+#EXTINF:-1,RPC Maringá FHD
+http://tv.minhalista.me/live/gil148/gil148/63275.m3u
+#EXTINF:-1,RPC Maringá HD
+http://tv.minhalista.me/live/gil148/gil148/63274.m3u
+#EXTINF:-1,RPC Ponta Grossa
+http://tv.minhalista.me/live/gil148/gil148/73092.m3u
+#EXTINF:-1,RPC Ponta Grossa FHD
+http://tv.minhalista.me/live/gil148/gil148/73090.m3u
+#EXTINF:-1,RPC Ponta Grossa HD
+http://tv.minhalista.me/live/gil148/gil148/73091.m3u
+#EXTINF:-1,RPC TV Paranavaí
+http://tv.minhalista.me/live/gil148/gil148/73095.m3u
+#EXTINF:-1,RPC TV Paranavaí FHD
+http://tv.minhalista.me/live/gil148/gil148/73093.m3u
+#EXTINF:-1,RPC TV Paranavaí HD
+http://tv.minhalista.me/live/gil148/gil148/73094.m3u
+#EXTINF:-1,Rai 01
+http://tv.minhalista.me/live/gil148/gil148/71888.m3u
+#EXTINF:-1,Rap
+http://tv.minhalista.me/live/gil148/gil148/54306.m3u
+#EXTINF:-1,Record News
+http://tv.minhalista.me/live/gil148/gil148/41529.m3u
+#EXTINF:-1,Record News FHD
+http://tv.minhalista.me/live/gil148/gil148/41502.m3u
+#EXTINF:-1,Record News HD
+http://tv.minhalista.me/live/gil148/gil148/37050.m3u
+#EXTINF:-1,RecordTV
+http://tv.minhalista.me/live/gil148/gil148/37051.m3u
+#EXTINF:-1,RecordTV Bahia
+http://tv.minhalista.me/live/gil148/gil148/63722.m3u
+#EXTINF:-1,RecordTV Bahia FHD
+http://tv.minhalista.me/live/gil148/gil148/42905.m3u
+#EXTINF:-1,RecordTV Bahia HD
+http://tv.minhalista.me/live/gil148/gil148/42624.m3u
+#EXTINF:-1,RecordTV Belém
+http://tv.minhalista.me/live/gil148/gil148/63716.m3u
+#EXTINF:-1,RecordTV Belém HD
+http://tv.minhalista.me/live/gil148/gil148/57811.m3u
+#EXTINF:-1,RecordTV Campinas HD
+http://tv.minhalista.me/live/gil148/gil148/62998.m3u
+#EXTINF:-1,RecordTV Correio FHD
+http://tv.minhalista.me/live/gil148/gil148/80916.m3u
+#EXTINF:-1,RecordTV FHD
+http://tv.minhalista.me/live/gil148/gil148/38421.m3u
+#EXTINF:-1,RecordTV Goias
+http://tv.minhalista.me/live/gil148/gil148/63717.m3u
+#EXTINF:-1,RecordTV Goias HD
+http://tv.minhalista.me/live/gil148/gil148/63718.m3u
+#EXTINF:-1,RecordTV HD
+http://tv.minhalista.me/live/gil148/gil148/36947.m3u
+#EXTINF:-1,RecordTV Litoral Santos HD
+http://tv.minhalista.me/live/gil148/gil148/57806.m3u
+#EXTINF:-1,RecordTV Manaus HD
+http://tv.minhalista.me/live/gil148/gil148/66612.m3u
+#EXTINF:-1,RecordTV Minas
+http://tv.minhalista.me/live/gil148/gil148/41362.m3u
+#EXTINF:-1,RecordTV Minas FHD
+http://tv.minhalista.me/live/gil148/gil148/42904.m3u
+#EXTINF:-1,RecordTV Minas HD
+http://tv.minhalista.me/live/gil148/gil148/62089.m3u
+#EXTINF:-1,RecordTV Paraná FHD
+http://tv.minhalista.me/live/gil148/gil148/80216.m3u
+#EXTINF:-1,RecordTV Paraná HD
+http://tv.minhalista.me/live/gil148/gil148/63383.m3u
+#EXTINF:-1,RecordTV Pará HD
+http://tv.minhalista.me/live/gil148/gil148/64656.m3u
+#EXTINF:-1,RecordTV Paulista FHD
+http://tv.minhalista.me/live/gil148/gil148/41516.m3u
+#EXTINF:-1,RecordTV RS
+http://tv.minhalista.me/live/gil148/gil148/62090.m3u
+#EXTINF:-1,RecordTV RS FHD
+http://tv.minhalista.me/live/gil148/gil148/42907.m3u
+#EXTINF:-1,RecordTV RS HD
+http://tv.minhalista.me/live/gil148/gil148/62987.m3u
+#EXTINF:-1,RecordTV Rio
+http://tv.minhalista.me/live/gil148/gil148/42637.m3u
+#EXTINF:-1,RecordTV Rio FHD
+http://tv.minhalista.me/live/gil148/gil148/41521.m3u
+#EXTINF:-1,RecordTV Rio HD
+http://tv.minhalista.me/live/gil148/gil148/63721.m3u
+#EXTINF:-1,RecordTV Rio Preto HD
+http://tv.minhalista.me/live/gil148/gil148/57812.m3u
+#EXTINF:-1,RecordTV Santa Catarina HD
+http://tv.minhalista.me/live/gil148/gil148/65271.m3u
+#EXTINF:-1,RecordTV Sergipe HD
+http://tv.minhalista.me/live/gil148/gil148/56898.m3u
+#EXTINF:-1,RecordTV Thathi Campinas FHD
+http://tv.minhalista.me/live/gil148/gil148/77768.m3u
+#EXTINF:-1,RecordTV Thathi Campinas HD
+http://tv.minhalista.me/live/gil148/gil148/77767.m3u
+#EXTINF:-1,RecordTV [4K]
+http://tv.minhalista.me/live/gil148/gil148/61836.m3u
+#EXTINF:-1,Red Bull TV
+http://tv.minhalista.me/live/gil148/gil148/64672.m3u
+#EXTINF:-1,Red Bull TV FHD
+http://tv.minhalista.me/live/gil148/gil148/63775.m3u
+#EXTINF:-1,Rede 21
+http://tv.minhalista.me/live/gil148/gil148/81020.m3u
+#EXTINF:-1,Rede Amazônica Boa Vista
+http://tv.minhalista.me/live/gil148/gil148/73235.m3u
+#EXTINF:-1,Rede Amazônica Boa Vista FHD
+http://tv.minhalista.me/live/gil148/gil148/73236.m3u
+#EXTINF:-1,Rede Amazônica Boa Vista HD
+http://tv.minhalista.me/live/gil148/gil148/64650.m3u
+#EXTINF:-1,Rede Amazônica Manaus
+http://tv.minhalista.me/live/gil148/gil148/42960.m3u
+#EXTINF:-1,Rede Amazônica Manaus FHD
+http://tv.minhalista.me/live/gil148/gil148/72910.m3u
+#EXTINF:-1,Rede Amazônica Manaus HD
+http://tv.minhalista.me/live/gil148/gil148/72911.m3u
+#EXTINF:-1,Rede Amazônica Porto Velho
+http://tv.minhalista.me/live/gil148/gil148/73233.m3u
+#EXTINF:-1,Rede Amazônica Porto Velho FHD
+http://tv.minhalista.me/live/gil148/gil148/73234.m3u
+#EXTINF:-1,Rede Amazônica Porto Velho HD
+http://tv.minhalista.me/live/gil148/gil148/63213.m3u
+#EXTINF:-1,Rede Amazônica Rio Branco
+http://tv.minhalista.me/live/gil148/gil148/73452.m3u
+#EXTINF:-1,Rede Amazônica Rio Branco HD
+http://tv.minhalista.me/live/gil148/gil148/63212.m3u
+#EXTINF:-1,Rede Brasil
+http://tv.minhalista.me/live/gil148/gil148/37013.m3u
+#EXTINF:-1,Rede Brasil FHD
+http://tv.minhalista.me/live/gil148/gil148/63660.m3u
+#EXTINF:-1,Rede Gospel
+http://tv.minhalista.me/live/gil148/gil148/61962.m3u
+#EXTINF:-1,Rede Gospel FHD
+http://tv.minhalista.me/live/gil148/gil148/63781.m3u
+#EXTINF:-1,Rede Gênesis FHD
+http://tv.minhalista.me/live/gil148/gil148/64596.m3u
+#EXTINF:-1,Rede Minas
+http://tv.minhalista.me/live/gil148/gil148/68407.m3u
+#EXTINF:-1,Rede Super
+http://tv.minhalista.me/live/gil148/gil148/62091.m3u
+#EXTINF:-1,Rede Super FHD
+http://tv.minhalista.me/live/gil148/gil148/64595.m3u
+#EXTINF:-1,Rede TV Arapuan PB FHD
+http://tv.minhalista.me/live/gil148/gil148/80913.m3u
+#EXTINF:-1,Rede Vida
+http://tv.minhalista.me/live/gil148/gil148/68533.m3u
+#EXTINF:-1,Rede Vida FHD
+http://tv.minhalista.me/live/gil148/gil148/41519.m3u
+#EXTINF:-1,Rede Vida HD
+http://tv.minhalista.me/live/gil148/gil148/37011.m3u
+#EXTINF:-1,RedeTV!
+http://tv.minhalista.me/live/gil148/gil148/37012.m3u
+#EXTINF:-1,RedeTV! FHD
+http://tv.minhalista.me/live/gil148/gil148/41518.m3u
+#EXTINF:-1,RedeTV! HD
+http://tv.minhalista.me/live/gil148/gil148/36946.m3u
+#EXTINF:-1,RedeTV! [4K]
+http://tv.minhalista.me/live/gil148/gil148/61837.m3u
+#EXTINF:-1,Reggae
+http://tv.minhalista.me/live/gil148/gil148/54307.m3u
+#EXTINF:-1,Rock 1
+http://tv.minhalista.me/live/gil148/gil148/54308.m3u
+#EXTINF:-1,Rock 2
+http://tv.minhalista.me/live/gil148/gil148/54309.m3u
+#EXTINF:-1,Românticas 1
+http://tv.minhalista.me/live/gil148/gil148/54310.m3u
+#EXTINF:-1,Românticas 2
+http://tv.minhalista.me/live/gil148/gil148/54311.m3u
+#EXTINF:-1,Rádio Roberto Carlos
+http://tv.minhalista.me/live/gil148/gil148/54305.m3u
+#EXTINF:-1,SBT
+http://tv.minhalista.me/live/gil148/gil148/37048.m3u
+#EXTINF:-1,SBT Brasília HD
+http://tv.minhalista.me/live/gil148/gil148/62999.m3u
+#EXTINF:-1,SBT FHD
+http://tv.minhalista.me/live/gil148/gil148/38420.m3u
+#EXTINF:-1,SBT H265
+http://tv.minhalista.me/live/gil148/gil148/62838.m3u
+#EXTINF:-1,SBT HD
+http://tv.minhalista.me/live/gil148/gil148/36945.m3u
+#EXTINF:-1,SBT HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51039.m3u
+#EXTINF:-1,SBT MARANHAO HD
+http://tv.minhalista.me/live/gil148/gil148/86992.m3u
+#EXTINF:-1,SBT MINAS HD
+http://tv.minhalista.me/live/gil148/gil148/61890.m3u
+#EXTINF:-1,SBT PIAUI HD
+http://tv.minhalista.me/live/gil148/gil148/86993.m3u
+#EXTINF:-1,SBT Paraná FHD
+http://tv.minhalista.me/live/gil148/gil148/80218.m3u
+#EXTINF:-1,SBT Paraná HD
+http://tv.minhalista.me/live/gil148/gil148/80217.m3u
+#EXTINF:-1,SBT Pará
+http://tv.minhalista.me/live/gil148/gil148/63729.m3u
+#EXTINF:-1,SBT Pará HD
+http://tv.minhalista.me/live/gil148/gil148/61891.m3u
+#EXTINF:-1,SBT RS HD
+http://tv.minhalista.me/live/gil148/gil148/61889.m3u
+#EXTINF:-1,SBT SP
+http://tv.minhalista.me/live/gil148/gil148/61970.m3u
+#EXTINF:-1,SBT SP FHD
+http://tv.minhalista.me/live/gil148/gil148/63772.m3u
+#EXTINF:-1,SBT Serra Dourada HD
+http://tv.minhalista.me/live/gil148/gil148/65268.m3u
+#EXTINF:-1,SBT TV Alterosa FHD
+http://tv.minhalista.me/live/gil148/gil148/63675.m3u
+#EXTINF:-1,SBT TV Alterosa HD
+http://tv.minhalista.me/live/gil148/gil148/57773.m3u
+#EXTINF:-1,SBT TV Aratu FHD
+http://tv.minhalista.me/live/gil148/gil148/63396.m3u
+#EXTINF:-1,SBT Tambau FHD
+http://tv.minhalista.me/live/gil148/gil148/80921.m3u
+#EXTINF:-1,SBT VTV CAMPINAS FHD
+http://tv.minhalista.me/live/gil148/gil148/77847.m3u
+#EXTINF:-1,SBT VTV CAMPINAS HD
+http://tv.minhalista.me/live/gil148/gil148/77846.m3u
+#EXTINF:-1,SBT [4K]
+http://tv.minhalista.me/live/gil148/gil148/61840.m3u
+#EXTINF:-1,SBT [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51044.m3u
+#EXTINF:-1,SONY FULL HD H265
+http://tv.minhalista.me/live/gil148/gil148/50533.m3u
+#EXTINF:-1,SPACE  | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63220.m3u
+#EXTINF:-1,SPACE - H265
+http://tv.minhalista.me/live/gil148/gil148/51267.m3u
+#EXTINF:-1,SPACE H265
+http://tv.minhalista.me/live/gil148/gil148/62910.m3u
+#EXTINF:-1,SPACE HD  [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51047.m3u
+#EXTINF:-1,SPACE [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51048.m3u
+#EXTINF:-1,SPORTV - H265
+http://tv.minhalista.me/live/gil148/gil148/51270.m3u
+#EXTINF:-1,SPORTV 2 - H265
+http://tv.minhalista.me/live/gil148/gil148/51268.m3u
+#EXTINF:-1,SPORTV 2 H265
+http://tv.minhalista.me/live/gil148/gil148/62914.m3u
+#EXTINF:-1,SPORTV 2 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51051.m3u
+#EXTINF:-1,SPORTV 2 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51052.m3u
+#EXTINF:-1,SPORTV 3 H265
+http://tv.minhalista.me/live/gil148/gil148/62916.m3u
+#EXTINF:-1,SPORTV 3 HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51053.m3u
+#EXTINF:-1,SPORTV 3 [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51054.m3u
+#EXTINF:-1,SPORTV H265
+http://tv.minhalista.me/live/gil148/gil148/62918.m3u
+#EXTINF:-1,SPORTV HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51055.m3u
+#EXTINF:-1,STAR CHANNEL FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81801.m3u
+#EXTINF:-1,STAR CHANNEL HD
+http://tv.minhalista.me/live/gil148/gil148/81802.m3u
+#EXTINF:-1,STUDIO UNIVERSAL  | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63228.m3u
+#EXTINF:-1,STUDIO UNIVERSAL H265
+http://tv.minhalista.me/live/gil148/gil148/62917.m3u
+#EXTINF:-1,STUDIO UNIVERSAL [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51081.m3u
+#EXTINF:-1,SYFY H265
+http://tv.minhalista.me/live/gil148/gil148/62915.m3u
+#EXTINF:-1,SYFY HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81814.m3u
+#EXTINF:-1,Sabor & Arte FHD
+http://tv.minhalista.me/live/gil148/gil148/86533.m3u
+#EXTINF:-1,Sabor & Arte HD
+http://tv.minhalista.me/live/gil148/gil148/86534.m3u
+#EXTINF:-1,Sertanejo 1
+http://tv.minhalista.me/live/gil148/gil148/54312.m3u
+#EXTINF:-1,Sertanejo 2
+http://tv.minhalista.me/live/gil148/gil148/54313.m3u
+#EXTINF:-1,Shoptime
+http://tv.minhalista.me/live/gil148/gil148/80367.m3u
+#EXTINF:-1,Shoptime FHD
+http://tv.minhalista.me/live/gil148/gil148/80366.m3u
+#EXTINF:-1,Shoptime HD
+http://tv.minhalista.me/live/gil148/gil148/63783.m3u
+#EXTINF:-1,Sic TV
+http://tv.minhalista.me/live/gil148/gil148/63784.m3u
+#EXTINF:-1,Smithsonian Channel
+http://tv.minhalista.me/live/gil148/gil148/57388.m3u
+#EXTINF:-1,Smithsonian Channel FHD
+http://tv.minhalista.me/live/gil148/gil148/57389.m3u
+#EXTINF:-1,Smithsonian Channel HD
+http://tv.minhalista.me/live/gil148/gil148/57387.m3u
+#EXTINF:-1,Sony Channel
+http://tv.minhalista.me/live/gil148/gil148/37007.m3u
+#EXTINF:-1,Sony Channel FHD
+http://tv.minhalista.me/live/gil148/gil148/41470.m3u
+#EXTINF:-1,Sony Channel HD
+http://tv.minhalista.me/live/gil148/gil148/36987.m3u
+#EXTINF:-1,Space
+http://tv.minhalista.me/live/gil148/gil148/37046.m3u
+#EXTINF:-1,Space FHD
+http://tv.minhalista.me/live/gil148/gil148/41503.m3u
+#EXTINF:-1,Space HD
+http://tv.minhalista.me/live/gil148/gil148/36944.m3u
+#EXTINF:-1,Space [4K]
+http://tv.minhalista.me/live/gil148/gil148/62392.m3u
+#EXTINF:-1,SporTV
+http://tv.minhalista.me/live/gil148/gil148/37256.m3u
+#EXTINF:-1,SporTV 2
+http://tv.minhalista.me/live/gil148/gil148/37044.m3u
+#EXTINF:-1,SporTV 2 FHD
+http://tv.minhalista.me/live/gil148/gil148/38395.m3u
+#EXTINF:-1,SporTV 2 HD
+http://tv.minhalista.me/live/gil148/gil148/36943.m3u
+#EXTINF:-1,SporTV 3
+http://tv.minhalista.me/live/gil148/gil148/37006.m3u
+#EXTINF:-1,SporTV 3 FHD
+http://tv.minhalista.me/live/gil148/gil148/38394.m3u
+#EXTINF:-1,SporTV 3 HD
+http://tv.minhalista.me/live/gil148/gil148/36942.m3u
+#EXTINF:-1,SporTV FHD
+http://tv.minhalista.me/live/gil148/gil148/38419.m3u
+#EXTINF:-1,SporTV HD
+http://tv.minhalista.me/live/gil148/gil148/37255.m3u
+#EXTINF:-1,SporTV [4K]
+http://tv.minhalista.me/live/gil148/gil148/40785.m3u
+#EXTINF:-1,Stand Up [01]
+http://tv.minhalista.me/live/gil148/gil148/62967.m3u
+#EXTINF:-1,Stand Up [02]
+http://tv.minhalista.me/live/gil148/gil148/62968.m3u
+#EXTINF:-1,Stand Up [03]
+http://tv.minhalista.me/live/gil148/gil148/62969.m3u
+#EXTINF:-1,Stand Up [04]
+http://tv.minhalista.me/live/gil148/gil148/62970.m3u
+#EXTINF:-1,Stand Up [05]
+http://tv.minhalista.me/live/gil148/gil148/62971.m3u
+#EXTINF:-1,Stand Up [06]
+http://tv.minhalista.me/live/gil148/gil148/62972.m3u
+#EXTINF:-1,Stand Up [07]
+http://tv.minhalista.me/live/gil148/gil148/62973.m3u
+#EXTINF:-1,Stand Up [08]
+http://tv.minhalista.me/live/gil148/gil148/62974.m3u
+#EXTINF:-1,Stand Up [09]
+http://tv.minhalista.me/live/gil148/gil148/62976.m3u
+#EXTINF:-1,Stand Up [10]
+http://tv.minhalista.me/live/gil148/gil148/62977.m3u
+#EXTINF:-1,Stand Up [11]
+http://tv.minhalista.me/live/gil148/gil148/62978.m3u
+#EXTINF:-1,Stand Up [12]
+http://tv.minhalista.me/live/gil148/gil148/62979.m3u
+#EXTINF:-1,Stand Up [13]
+http://tv.minhalista.me/live/gil148/gil148/62980.m3u
+#EXTINF:-1,Stand Up [14]
+http://tv.minhalista.me/live/gil148/gil148/62981.m3u
+#EXTINF:-1,Stand Up [15]
+http://tv.minhalista.me/live/gil148/gil148/62982.m3u
+#EXTINF:-1,Stand Up [16]
+http://tv.minhalista.me/live/gil148/gil148/62983.m3u
+#EXTINF:-1,Stand Up [17]
+http://tv.minhalista.me/live/gil148/gil148/62984.m3u
+#EXTINF:-1,Stand Up [18]
+http://tv.minhalista.me/live/gil148/gil148/62985.m3u
+#EXTINF:-1,Stand Up [19]
+http://tv.minhalista.me/live/gil148/gil148/62986.m3u
+#EXTINF:-1,Stand Up [25]
+http://tv.minhalista.me/live/gil148/gil148/69580.m3u
+#EXTINF:-1,Stand Up [26]
+http://tv.minhalista.me/live/gil148/gil148/69581.m3u
+#EXTINF:-1,Stand Up [27]
+http://tv.minhalista.me/live/gil148/gil148/69591.m3u
+#EXTINF:-1,Stand Up [28]
+http://tv.minhalista.me/live/gil148/gil148/69592.m3u
+#EXTINF:-1,Stand Up [29]
+http://tv.minhalista.me/live/gil148/gil148/69593.m3u
+#EXTINF:-1,Stand Up [30]
+http://tv.minhalista.me/live/gil148/gil148/69594.m3u
+#EXTINF:-1,Star Channel
+http://tv.minhalista.me/live/gil148/gil148/37101.m3u
+#EXTINF:-1,Star Channel - H265
+http://tv.minhalista.me/live/gil148/gil148/50544.m3u
+#EXTINF:-1,Star Channel FHD
+http://tv.minhalista.me/live/gil148/gil148/38427.m3u
+#EXTINF:-1,Star Channel H265
+http://tv.minhalista.me/live/gil148/gil148/62825.m3u
+#EXTINF:-1,Star Channel HD
+http://tv.minhalista.me/live/gil148/gil148/36972.m3u
+#EXTINF:-1,Star Channel HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50747.m3u
+#EXTINF:-1,Star Channel [4K]
+http://tv.minhalista.me/live/gil148/gil148/67689.m3u
+#EXTINF:-1,Star Channel [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50752.m3u
+#EXTINF:-1,Star Life
+http://tv.minhalista.me/live/gil148/gil148/37100.m3u
+#EXTINF:-1,Star Life  | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63223.m3u
+#EXTINF:-1,Star Life FHD
+http://tv.minhalista.me/live/gil148/gil148/41479.m3u
+#EXTINF:-1,Star Life H265
+http://tv.minhalista.me/live/gil148/gil148/62829.m3u
+#EXTINF:-1,Star Life HD
+http://tv.minhalista.me/live/gil148/gil148/36918.m3u
+#EXTINF:-1,Star Life HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50748.m3u
+#EXTINF:-1,Star Life [ALT]
+http://tv.minhalista.me/live/gil148/gil148/50749.m3u
+#EXTINF:-1,Star+ HD (J)
+http://tv.minhalista.me/live/gil148/gil148/82512.m3u
+#EXTINF:-1,Star+ HD (P)
+http://tv.minhalista.me/live/gil148/gil148/82246.m3u
+#EXTINF:-1,Star+ HD (S)
+http://tv.minhalista.me/live/gil148/gil148/82245.m3u
+#EXTINF:-1,Star+ HD 2 (J)
+http://tv.minhalista.me/live/gil148/gil148/85329.m3u
+#EXTINF:-1,Star+ HD 2 (S)
+http://tv.minhalista.me/live/gil148/gil148/82510.m3u
+#EXTINF:-1,Star+ HD 3 (J)
+http://tv.minhalista.me/live/gil148/gil148/85330.m3u
+#EXTINF:-1,Studio Universal
+http://tv.minhalista.me/live/gil148/gil148/37043.m3u
+#EXTINF:-1,Studio Universal FHD
+http://tv.minhalista.me/live/gil148/gil148/41511.m3u
+#EXTINF:-1,Studio Universal HD
+http://tv.minhalista.me/live/gil148/gil148/36904.m3u
+#EXTINF:-1,Syfy
+http://tv.minhalista.me/live/gil148/gil148/37042.m3u
+#EXTINF:-1,Syfy FHD
+http://tv.minhalista.me/live/gil148/gil148/41504.m3u
+#EXTINF:-1,Syfy FHD H265
+http://tv.minhalista.me/live/gil148/gil148/50532.m3u
+#EXTINF:-1,Syfy HD
+http://tv.minhalista.me/live/gil148/gil148/36903.m3u
+#EXTINF:-1,TBS
+http://tv.minhalista.me/live/gil148/gil148/37041.m3u
+#EXTINF:-1,TBS FHD
+http://tv.minhalista.me/live/gil148/gil148/41505.m3u
+#EXTINF:-1,TBS H265
+http://tv.minhalista.me/live/gil148/gil148/62913.m3u
+#EXTINF:-1,TBS HD
+http://tv.minhalista.me/live/gil148/gil148/36940.m3u
+#EXTINF:-1,TBS | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63251.m3u
+#EXTINF:-1,TC CULT H265
+http://tv.minhalista.me/live/gil148/gil148/62911.m3u
+#EXTINF:-1,TC FUN H265
+http://tv.minhalista.me/live/gil148/gil148/62909.m3u
+#EXTINF:-1,TC PIPOCA H265
+http://tv.minhalista.me/live/gil148/gil148/62908.m3u
+#EXTINF:-1,TC PREMIUM H265
+http://tv.minhalista.me/live/gil148/gil148/62907.m3u
+#EXTINF:-1,TC TOUCH H265
+http://tv.minhalista.me/live/gil148/gil148/62906.m3u
+#EXTINF:-1,TCM
+http://tv.minhalista.me/live/gil148/gil148/37037.m3u
+#EXTINF:-1,TCM FHD
+http://tv.minhalista.me/live/gil148/gil148/63645.m3u
+#EXTINF:-1,TCM HD
+http://tv.minhalista.me/live/gil148/gil148/63644.m3u
+#EXTINF:-1,TELECINE ACTION FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81781.m3u
+#EXTINF:-1,TELECINE ACTION H265
+http://tv.minhalista.me/live/gil148/gil148/51286.m3u
+#EXTINF:-1,TELECINE ACTION HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81782.m3u
+#EXTINF:-1,TELECINE CULT FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81787.m3u
+#EXTINF:-1,TELECINE CULT H265
+http://tv.minhalista.me/live/gil148/gil148/51287.m3u
+#EXTINF:-1,TELECINE CULT HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81788.m3u
+#EXTINF:-1,TELECINE CULT HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51085.m3u
+#EXTINF:-1,TELECINE CULT | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63265.m3u
+#EXTINF:-1,TELECINE FUN FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81785.m3u
+#EXTINF:-1,TELECINE FUN H265
+http://tv.minhalista.me/live/gil148/gil148/51301.m3u
+#EXTINF:-1,TELECINE FUN HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81786.m3u
+#EXTINF:-1,TELECINE FUN HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51087.m3u
+#EXTINF:-1,TELECINE FUN [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51088.m3u
+#EXTINF:-1,TELECINE PIPOCA FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81777.m3u
+#EXTINF:-1,TELECINE PIPOCA H265
+http://tv.minhalista.me/live/gil148/gil148/51302.m3u
+#EXTINF:-1,TELECINE PIPOCA HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81778.m3u
+#EXTINF:-1,TELECINE PIPOCA HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51089.m3u
+#EXTINF:-1,TELECINE PIPOCA [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51090.m3u
+#EXTINF:-1,TELECINE PREMIUM FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81779.m3u
+#EXTINF:-1,TELECINE PREMIUM H265
+http://tv.minhalista.me/live/gil148/gil148/51303.m3u
+#EXTINF:-1,TELECINE PREMIUM HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81780.m3u
+#EXTINF:-1,TELECINE PREMIUM HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51104.m3u
+#EXTINF:-1,TELECINE PREMIUM [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51109.m3u
+#EXTINF:-1,TELECINE TOUCH FHD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81783.m3u
+#EXTINF:-1,TELECINE TOUCH HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81784.m3u
+#EXTINF:-1,TELECINE TOUCH HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51113.m3u
+#EXTINF:-1,TELECINE TOUCH [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51115.m3u
+#EXTINF:-1,TLC
+http://tv.minhalista.me/live/gil148/gil148/37036.m3u
+#EXTINF:-1,TLC FHD
+http://tv.minhalista.me/live/gil148/gil148/61964.m3u
+#EXTINF:-1,TLC H265
+http://tv.minhalista.me/live/gil148/gil148/62809.m3u
+#EXTINF:-1,TLC HD
+http://tv.minhalista.me/live/gil148/gil148/36902.m3u
+#EXTINF:-1,TLC | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63259.m3u
+#EXTINF:-1,TNT
+http://tv.minhalista.me/live/gil148/gil148/37035.m3u
+#EXTINF:-1,TNT - H265
+http://tv.minhalista.me/live/gil148/gil148/51305.m3u
+#EXTINF:-1,TNT FHD
+http://tv.minhalista.me/live/gil148/gil148/41507.m3u
+#EXTINF:-1,TNT H265
+http://tv.minhalista.me/live/gil148/gil148/62905.m3u
+#EXTINF:-1,TNT HD
+http://tv.minhalista.me/live/gil148/gil148/36934.m3u
+#EXTINF:-1,TNT HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51119.m3u
+#EXTINF:-1,TNT SERIES - H265
+http://tv.minhalista.me/live/gil148/gil148/51306.m3u
+#EXTINF:-1,TNT SERIES HD [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51121.m3u
+#EXTINF:-1,TNT SERIES [ALT]
+http://tv.minhalista.me/live/gil148/gil148/51122.m3u
+#EXTINF:-1,TNT SERIES | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63253.m3u
+#EXTINF:-1,TNT Séries
+http://tv.minhalista.me/live/gil148/gil148/37034.m3u
+#EXTINF:-1,TNT Séries FHD
+http://tv.minhalista.me/live/gil148/gil148/41508.m3u
+#EXTINF:-1,TNT Séries HD
+http://tv.minhalista.me/live/gil148/gil148/36933.m3u
+#EXTINF:-1,TNT Séries [4K]
+http://tv.minhalista.me/live/gil148/gil148/61845.m3u
+#EXTINF:-1,TNT [4K]
+http://tv.minhalista.me/live/gil148/gil148/61839.m3u
+#EXTINF:-1,TNT | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63260.m3u
+#EXTINF:-1,TOP MIX TV
+http://tv.minhalista.me/live/gil148/gil148/76173.m3u
+#EXTINF:-1,TRUTV H265
+http://tv.minhalista.me/live/gil148/gil148/62807.m3u
+#EXTINF:-1,TV APARECIDA H265
+http://tv.minhalista.me/live/gil148/gil148/62806.m3u
+#EXTINF:-1,TV Aparecida
+http://tv.minhalista.me/live/gil148/gil148/37003.m3u
+#EXTINF:-1,TV Aparecida FHD
+http://tv.minhalista.me/live/gil148/gil148/75175.m3u
+#EXTINF:-1,TV Aparecida HD
+http://tv.minhalista.me/live/gil148/gil148/41341.m3u
+#EXTINF:-1,TV Bahia
+http://tv.minhalista.me/live/gil148/gil148/61974.m3u
+#EXTINF:-1,TV Bahia FHD
+http://tv.minhalista.me/live/gil148/gil148/42987.m3u
+#EXTINF:-1,TV Bahia HD
+http://tv.minhalista.me/live/gil148/gil148/37096.m3u
+#EXTINF:-1,TV Brasil
+http://tv.minhalista.me/live/gil148/gil148/62133.m3u
+#EXTINF:-1,TV Brasil FHD
+http://tv.minhalista.me/live/gil148/gil148/75171.m3u
+#EXTINF:-1,TV Brasil HD
+http://tv.minhalista.me/live/gil148/gil148/63632.m3u
+#EXTINF:-1,TV Brusque
+http://tv.minhalista.me/live/gil148/gil148/75658.m3u
+#EXTINF:-1,TV CABRALIA RECORD BAHIA HD
+http://tv.minhalista.me/live/gil148/gil148/57809.m3u
+#EXTINF:-1,TV Coxa HD (Coritiba FC)
+http://tv.minhalista.me/live/gil148/gil148/80215.m3u
+#EXTINF:-1,TV Cultura Miramar FHD
+http://tv.minhalista.me/live/gil148/gil148/80919.m3u
+#EXTINF:-1,TV Cultura PA HD
+http://tv.minhalista.me/live/gil148/gil148/64660.m3u
+#EXTINF:-1,TV Diário Fortaleza
+http://tv.minhalista.me/live/gil148/gil148/58090.m3u
+#EXTINF:-1,TV Diário Fortaleza FHD
+http://tv.minhalista.me/live/gil148/gil148/63723.m3u
+#EXTINF:-1,TV Diário Fortaleza HD
+http://tv.minhalista.me/live/gil148/gil148/58091.m3u
+#EXTINF:-1,TV Diário HD
+http://tv.minhalista.me/live/gil148/gil148/64613.m3u
+#EXTINF:-1,TV Educação FHD
+http://tv.minhalista.me/live/gil148/gil148/66417.m3u
+#EXTINF:-1,TV Escola
+http://tv.minhalista.me/live/gil148/gil148/36999.m3u
+#EXTINF:-1,TV Estacao FHD
+http://tv.minhalista.me/live/gil148/gil148/63657.m3u
+#EXTINF:-1,TV Evangelizar
+http://tv.minhalista.me/live/gil148/gil148/40072.m3u
+#EXTINF:-1,TV Fronteira Paulista
+http://tv.minhalista.me/live/gil148/gil148/75165.m3u
+#EXTINF:-1,TV Fronteira Paulista FHD
+http://tv.minhalista.me/live/gil148/gil148/75166.m3u
+#EXTINF:-1,TV GAZETA H265
+http://tv.minhalista.me/live/gil148/gil148/62803.m3u
+#EXTINF:-1,TV Gazeta FHD
+http://tv.minhalista.me/live/gil148/gil148/75177.m3u
+#EXTINF:-1,TV Horizonte FHD
+http://tv.minhalista.me/live/gil148/gil148/81601.m3u
+#EXTINF:-1,TV Jangadeiro HD
+http://tv.minhalista.me/live/gil148/gil148/80931.m3u
+#EXTINF:-1,TV Jornal [SBT PE]
+http://tv.minhalista.me/live/gil148/gil148/41371.m3u
+#EXTINF:-1,TV Justiça
+http://tv.minhalista.me/live/gil148/gil148/56402.m3u
+#EXTINF:-1,TV Mirante Cocais
+http://tv.minhalista.me/live/gil148/gil148/74963.m3u
+#EXTINF:-1,TV Mirante Cocais FHD
+http://tv.minhalista.me/live/gil148/gil148/74964.m3u
+#EXTINF:-1,TV NOVO TEMPO H265
+http://tv.minhalista.me/live/gil148/gil148/62831.m3u
+#EXTINF:-1,TV NSPORTS 1 (S)
+http://tv.minhalista.me/live/gil148/gil148/81004.m3u
+#EXTINF:-1,TV NSPORTS 2 (S)
+http://tv.minhalista.me/live/gil148/gil148/81005.m3u
+#EXTINF:-1,TV NSPORTS 3 (S)
+http://tv.minhalista.me/live/gil148/gil148/81006.m3u
+#EXTINF:-1,TV Novo Tempo
+http://tv.minhalista.me/live/gil148/gil148/39793.m3u
+#EXTINF:-1,TV Novo Tempo HD
+http://tv.minhalista.me/live/gil148/gil148/68524.m3u
+#EXTINF:-1,TV Pai Eterno
+http://tv.minhalista.me/live/gil148/gil148/68523.m3u
+#EXTINF:-1,TV Pai Eterno FHD
+http://tv.minhalista.me/live/gil148/gil148/67299.m3u
+#EXTINF:-1,TV Pai Eterno HD
+http://tv.minhalista.me/live/gil148/gil148/64548.m3u
+#EXTINF:-1,TV Pampa (Rede TV RS)
+http://tv.minhalista.me/live/gil148/gil148/76262.m3u
+#EXTINF:-1,TV Paraíba HD
+http://tv.minhalista.me/live/gil148/gil148/64602.m3u
+#EXTINF:-1,TV RA TIM BUM H265
+http://tv.minhalista.me/live/gil148/gil148/62898.m3u
+#EXTINF:-1,TV REDE AMAZONICA MACAPA
+http://tv.minhalista.me/live/gil148/gil148/75480.m3u
+#EXTINF:-1,TV Ra Tim Bum
+http://tv.minhalista.me/live/gil148/gil148/37015.m3u
+#EXTINF:-1,TV Ra Tim Bum FHD
+http://tv.minhalista.me/live/gil148/gil148/41510.m3u
+#EXTINF:-1,TV Ra Tim Bum HD
+http://tv.minhalista.me/live/gil148/gil148/63786.m3u
+#EXTINF:-1,TV Senado
+http://tv.minhalista.me/live/gil148/gil148/57266.m3u
+#EXTINF:-1,TV Senado HD
+http://tv.minhalista.me/live/gil148/gil148/63665.m3u
+#EXTINF:-1,TV Sudoeste
+http://tv.minhalista.me/live/gil148/gil148/74957.m3u
+#EXTINF:-1,TV Sudoeste FHD
+http://tv.minhalista.me/live/gil148/gil148/74958.m3u
+#EXTINF:-1,TV TEM Bauru
+http://tv.minhalista.me/live/gil148/gil148/37030.m3u
+#EXTINF:-1,TV TEM Bauru FHD
+http://tv.minhalista.me/live/gil148/gil148/74972.m3u
+#EXTINF:-1,TV TEM Bauru HD
+http://tv.minhalista.me/live/gil148/gil148/81021.m3u
+#EXTINF:-1,TV TEM Itapetinga
+http://tv.minhalista.me/live/gil148/gil148/75167.m3u
+#EXTINF:-1,TV TEM Itapetinga FHD
+http://tv.minhalista.me/live/gil148/gil148/75168.m3u
+#EXTINF:-1,TV TEM SJRP FHD
+http://tv.minhalista.me/live/gil148/gil148/42993.m3u
+#EXTINF:-1,TV TEM Sorocaba
+http://tv.minhalista.me/live/gil148/gil148/37029.m3u
+#EXTINF:-1,TV Taroba HD
+http://tv.minhalista.me/live/gil148/gil148/63696.m3u
+#EXTINF:-1,TV Terceiro Anjo
+http://tv.minhalista.me/live/gil148/gil148/81609.m3u
+#EXTINF:-1,TV Tribuna ES FHD
+http://tv.minhalista.me/live/gil148/gil148/63692.m3u
+#EXTINF:-1,TV Tribuna ES HD
+http://tv.minhalista.me/live/gil148/gil148/63691.m3u
+#EXTINF:-1,TV UFPB TV Brasil FHD
+http://tv.minhalista.me/live/gil148/gil148/80922.m3u
+#EXTINF:-1,TV Universitária FHD
+http://tv.minhalista.me/live/gil148/gil148/63658.m3u
+#EXTINF:-1,TV Verdes Mares Cariri
+http://tv.minhalista.me/live/gil148/gil148/74971.m3u
+#EXTINF:-1,TV Verdes Mares Cariri FHD
+http://tv.minhalista.me/live/gil148/gil148/63389.m3u
+#EXTINF:-1,TVídeoNews
+http://tv.minhalista.me/live/gil148/gil148/57777.m3u
+#EXTINF:-1,Telecine Action
+http://tv.minhalista.me/live/gil148/gil148/37040.m3u
+#EXTINF:-1,Telecine Action FHD
+http://tv.minhalista.me/live/gil148/gil148/38418.m3u
+#EXTINF:-1,Telecine Action HD
+http://tv.minhalista.me/live/gil148/gil148/36939.m3u
+#EXTINF:-1,Telecine Action [4K]
+http://tv.minhalista.me/live/gil148/gil148/74797.m3u
+#EXTINF:-1,Telecine Cult
+http://tv.minhalista.me/live/gil148/gil148/37039.m3u
+#EXTINF:-1,Telecine Cult FHD
+http://tv.minhalista.me/live/gil148/gil148/41506.m3u
+#EXTINF:-1,Telecine Cult HD
+http://tv.minhalista.me/live/gil148/gil148/36901.m3u
+#EXTINF:-1,Telecine Fun
+http://tv.minhalista.me/live/gil148/gil148/37005.m3u
+#EXTINF:-1,Telecine Fun FHD
+http://tv.minhalista.me/live/gil148/gil148/38417.m3u
+#EXTINF:-1,Telecine Fun HD
+http://tv.minhalista.me/live/gil148/gil148/36938.m3u
+#EXTINF:-1,Telecine Pipoca
+http://tv.minhalista.me/live/gil148/gil148/37038.m3u
+#EXTINF:-1,Telecine Pipoca FHD
+http://tv.minhalista.me/live/gil148/gil148/38416.m3u
+#EXTINF:-1,Telecine Pipoca HD
+http://tv.minhalista.me/live/gil148/gil148/36937.m3u
+#EXTINF:-1,Telecine Pipoca [4K]
+http://tv.minhalista.me/live/gil148/gil148/67687.m3u
+#EXTINF:-1,Telecine Pipoca | Dual Audio
+http://tv.minhalista.me/live/gil148/gil148/63311.m3u
+#EXTINF:-1,Telecine Premium
+http://tv.minhalista.me/live/gil148/gil148/36994.m3u
+#EXTINF:-1,Telecine Premium FHD
+http://tv.minhalista.me/live/gil148/gil148/38415.m3u
+#EXTINF:-1,Telecine Premium HD
+http://tv.minhalista.me/live/gil148/gil148/36936.m3u
+#EXTINF:-1,Telecine Premium [4K]
+http://tv.minhalista.me/live/gil148/gil148/64378.m3u
+#EXTINF:-1,Telecine Touch
+http://tv.minhalista.me/live/gil148/gil148/36995.m3u
+#EXTINF:-1,Telecine Touch FHD
+http://tv.minhalista.me/live/gil148/gil148/38414.m3u
+#EXTINF:-1,Telecine Touch HD
+http://tv.minhalista.me/live/gil148/gil148/36935.m3u
+#EXTINF:-1,Telecine Touch | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63252.m3u
+#EXTINF:-1,Tempo Fm
+http://tv.minhalista.me/live/gil148/gil148/56362.m3u
+#EXTINF:-1,Terra Viva
+http://tv.minhalista.me/live/gil148/gil148/37004.m3u
+#EXTINF:-1,Terra Viva FHD
+http://tv.minhalista.me/live/gil148/gil148/63394.m3u
+#EXTINF:-1,Terra Viva HD
+http://tv.minhalista.me/live/gil148/gil148/81607.m3u
+#EXTINF:-1,Todo Mundo Odeia o Chris
+http://tv.minhalista.me/live/gil148/gil148/56467.m3u
+#EXTINF:-1,Tooncast
+http://tv.minhalista.me/live/gil148/gil148/37033.m3u
+#EXTINF:-1,Tooncast FHD
+http://tv.minhalista.me/live/gil148/gil148/63648.m3u
+#EXTINF:-1,Tooncast HD
+http://tv.minhalista.me/live/gil148/gil148/63647.m3u
+#EXTINF:-1,Trace Brazuca FHD
+http://tv.minhalista.me/live/gil148/gil148/73329.m3u
+#EXTINF:-1,Travel Box Brazil
+http://tv.minhalista.me/live/gil148/gil148/68526.m3u
+#EXTINF:-1,Travel Box Brazil FHD
+http://tv.minhalista.me/live/gil148/gil148/63785.m3u
+#EXTINF:-1,Travel Box Brazil HD
+http://tv.minhalista.me/live/gil148/gil148/68525.m3u
+#EXTINF:-1,TruTV
+http://tv.minhalista.me/live/gil148/gil148/37032.m3u
+#EXTINF:-1,TruTV FHD
+http://tv.minhalista.me/live/gil148/gil148/41509.m3u
+#EXTINF:-1,TruTV HD
+http://tv.minhalista.me/live/gil148/gil148/63649.m3u
+#EXTINF:-1,True TV FHD
+http://tv.minhalista.me/live/gil148/gil148/63650.m3u
+#EXTINF:-1,UNIVERSAL CHANNEL HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81811.m3u
+#EXTINF:-1,UNIVERSAL H265
+http://tv.minhalista.me/live/gil148/gil148/62896.m3u
+#EXTINF:-1,Um Maluco no Pedaço [1 Temp.]
+http://tv.minhalista.me/live/gil148/gil148/63001.m3u
+#EXTINF:-1,Um Maluco no Pedaço [2 Temp.]
+http://tv.minhalista.me/live/gil148/gil148/63002.m3u
+#EXTINF:-1,Um Maluco no Pedaço [3 Temp.]
+http://tv.minhalista.me/live/gil148/gil148/63003.m3u
+#EXTINF:-1,Universal TV
+http://tv.minhalista.me/live/gil148/gil148/37027.m3u
+#EXTINF:-1,Universal TV FHD
+http://tv.minhalista.me/live/gil148/gil148/71655.m3u
+#EXTINF:-1,Universal TV HD
+http://tv.minhalista.me/live/gil148/gil148/36932.m3u
+#EXTINF:-1,Urban Documentation HD
+http://tv.minhalista.me/live/gil148/gil148/86529.m3u
+#EXTINF:-1,Urban Kids HD
+http://tv.minhalista.me/live/gil148/gil148/86528.m3u
+#EXTINF:-1,Urban Movies HD
+http://tv.minhalista.me/live/gil148/gil148/86531.m3u
+#EXTINF:-1,Urban Series HD
+http://tv.minhalista.me/live/gil148/gil148/86530.m3u
+#EXTINF:-1,Urban TV HD
+http://tv.minhalista.me/live/gil148/gil148/86532.m3u
+#EXTINF:-1,VH1 FHD
+http://tv.minhalista.me/live/gil148/gil148/40271.m3u
+#EXTINF:-1,VH1 H265
+http://tv.minhalista.me/live/gil148/gil148/62894.m3u
+#EXTINF:-1,VH1 HD
+http://tv.minhalista.me/live/gil148/gil148/36900.m3u
+#EXTINF:-1,VH1 Mega Hits
+http://tv.minhalista.me/live/gil148/gil148/68120.m3u
+#EXTINF:-1,VH1 Mega Hits FHD
+http://tv.minhalista.me/live/gil148/gil148/68121.m3u
+#EXTINF:-1,VH1 MegaHits HD
+http://tv.minhalista.me/live/gil148/gil148/68119.m3u
+#EXTINF:-1,VIVA H265
+http://tv.minhalista.me/live/gil148/gil148/62893.m3u
+#EXTINF:-1,Viva
+http://tv.minhalista.me/live/gil148/gil148/36997.m3u
+#EXTINF:-1,Viva FHD
+http://tv.minhalista.me/live/gil148/gil148/38393.m3u
+#EXTINF:-1,Viva HD
+http://tv.minhalista.me/live/gil148/gil148/36931.m3u
+#EXTINF:-1,Viva [4K]
+http://tv.minhalista.me/live/gil148/gil148/74792.m3u
+#EXTINF:-1,WARNER CHANNEL H265
+http://tv.minhalista.me/live/gil148/gil148/51308.m3u
+#EXTINF:-1,WARNER CHANNEL HD (LEG)
+http://tv.minhalista.me/live/gil148/gil148/81813.m3u
+#EXTINF:-1,WARNER H265
+http://tv.minhalista.me/live/gil148/gil148/62891.m3u
+#EXTINF:-1,WOHOO | Dual Áudio
+http://tv.minhalista.me/live/gil148/gil148/63261.m3u
+#EXTINF:-1,WOOHOO H265
+http://tv.minhalista.me/live/gil148/gil148/62827.m3u
+#EXTINF:-1,Warner Channel
+http://tv.minhalista.me/live/gil148/gil148/36996.m3u
+#EXTINF:-1,Warner Channel FHD
+http://tv.minhalista.me/live/gil148/gil148/38384.m3u
+#EXTINF:-1,Warner Channel HD
+http://tv.minhalista.me/live/gil148/gil148/36930.m3u
+#EXTINF:-1,Web TV Água Boa
+http://tv.minhalista.me/live/gil148/gil148/62130.m3u
+#EXTINF:-1,Woohoo
+http://tv.minhalista.me/live/gil148/gil148/37025.m3u
+#EXTINF:-1,Woohoo FHD
+http://tv.minhalista.me/live/gil148/gil148/63777.m3u
+#EXTINF:-1,Woohoo HD
+http://tv.minhalista.me/live/gil148/gil148/36899.m3u
+#EXTINF:-1,X-Man
+http://tv.minhalista.me/live/gil148/gil148/56470.m3u
+#EXTINF:-1,Zoomoo
+http://tv.minhalista.me/live/gil148/gil148/59355.m3u
+#EXTINF:-1,Zoomoo FHD
+http://tv.minhalista.me/live/gil148/gil148/63778.m3u
+#EXTINF:-1,Zoomoo HD
+http://tv.minhalista.me/live/gil148/gil148/63779.m3u
+#EXTINF:-1,[RD] Churrasco Sertanejo
+http://tv.minhalista.me/live/gil148/gil148/65066.m3u
+#EXTINF:-1,[RD] Radio Aparecida FM
+http://tv.minhalista.me/live/gil148/gil148/49923.m3u
+#EXTINF:-1,[RD] Radio Axe
+http://tv.minhalista.me/live/gil148/gil148/49908.m3u
+#EXTINF:-1,[RD] Radio Forró
+http://tv.minhalista.me/live/gil148/gil148/49942.m3u
+#EXTINF:-1,[RD] Radio Funk
+http://tv.minhalista.me/live/gil148/gil148/49909.m3u
+#EXTINF:-1,[RD] Radio Funk Pesado
+http://tv.minhalista.me/live/gil148/gil148/49943.m3u
+#EXTINF:-1,[RD] Radio Hunter
+http://tv.minhalista.me/live/gil148/gil148/49895.m3u
+#EXTINF:-1,[RD] Radio Jovem Pan FM
+http://tv.minhalista.me/live/gil148/gil148/49894.m3u
+#EXTINF:-1,[RD] Radio Kpop
+http://tv.minhalista.me/live/gil148/gil148/49977.m3u
+#EXTINF:-1,[RD] Radio Light
+http://tv.minhalista.me/live/gil148/gil148/49912.m3u
+#EXTINF:-1,[RD] Radio Metalica
+http://tv.minhalista.me/live/gil148/gil148/49913.m3u
+#EXTINF:-1,[RD] Radio Metropolitana
+http://tv.minhalista.me/live/gil148/gil148/49944.m3u
+#EXTINF:-1,[RD] Radio POP
+http://tv.minhalista.me/live/gil148/gil148/49911.m3u
+#EXTINF:-1,[RD] Radio Pagode
+http://tv.minhalista.me/live/gil148/gil148/49879.m3u
+#EXTINF:-1,[RD] Radio Reggae
+http://tv.minhalista.me/live/gil148/gil148/49975.m3u
+#EXTINF:-1,[RD] Radio Sertanejo
+http://tv.minhalista.me/live/gil148/gil148/49910.m3u
+#EXTINF:-1,[RD] Rádio Mania FM
+http://tv.minhalista.me/live/gil148/gil148/65653.m3u
+#EXTINF:-1,[RD] Uber FM Eclética
+http://tv.minhalista.me/live/gil148/gil148/65068.m3u
+#EXTINF:-1,[RD] Web Premium Flashbacks
+http://tv.minhalista.me/live/gil148/gil148/65067.m3u
+#EXTINF:-1,[SHOW ] FESTIVAL SERTANEJO - 2 Horas das Melhores do Sertanejo
+http://tv.minhalista.me/live/gil148/gil148/64448.m3u
+#EXTINF:-1,[SHOW ]Festival Sertanejo  - Só As Mais Tocadas
+http://tv.minhalista.me/live/gil148/gil148/64447.m3u
+#EXTINF:-1,[SHOW] 3 HORAS DAS MAIS TOCADAS SERTANEJO
+http://tv.minhalista.me/live/gil148/gil148/64446.m3u
+#EXTINF:-1,[SHOW] 3 horas de Alok
+http://tv.minhalista.me/live/gil148/gil148/64444.m3u
+#EXTINF:-1,[SHOW] 4 Horas de Gospel
+http://tv.minhalista.me/live/gil148/gil148/68408.m3u
+#EXTINF:-1,[SHOW] Aerosmith
+http://tv.minhalista.me/live/gil148/gil148/42571.m3u
+#EXTINF:-1,[SHOW] Alok
+http://tv.minhalista.me/live/gil148/gil148/67436.m3u
+#EXTINF:-1,[SHOW] Banda Calypso
+http://tv.minhalista.me/live/gil148/gil148/39787.m3u
+#EXTINF:-1,[SHOW] Banda Forrozão das Antigas
+http://tv.minhalista.me/live/gil148/gil148/39786.m3u
+#EXTINF:-1,[SHOW] Barões da Pisadinha
+http://tv.minhalista.me/live/gil148/gil148/70576.m3u
+#EXTINF:-1,[SHOW] Bonde do Forró
+http://tv.minhalista.me/live/gil148/gil148/70575.m3u
+#EXTINF:-1,[SHOW] Cabaré - Eduardo Costa e Leonardo
+http://tv.minhalista.me/live/gil148/gil148/39768.m3u
+#EXTINF:-1,[SHOW] David Guetta
+http://tv.minhalista.me/live/gil148/gil148/39785.m3u
+#EXTINF:-1,[SHOW] Festival Sertanejo
+http://tv.minhalista.me/live/gil148/gil148/39772.m3u
+#EXTINF:-1,[SHOW] Festival Sertanejo 2021
+http://tv.minhalista.me/live/gil148/gil148/39771.m3u
+#EXTINF:-1,[SHOW] Frank Aguiar
+http://tv.minhalista.me/live/gil148/gil148/39788.m3u
+#EXTINF:-1,[SHOW] Gabriela Rocha
+http://tv.minhalista.me/live/gil148/gil148/64461.m3u
+#EXTINF:-1,[SHOW] Gustavo Lima
+http://tv.minhalista.me/live/gil148/gil148/70574.m3u
+#EXTINF:-1,[SHOW] Hugo e Guilherme
+http://tv.minhalista.me/live/gil148/gil148/69597.m3u
+#EXTINF:-1,[SHOW] Jorge e Mateus
+http://tv.minhalista.me/live/gil148/gil148/69596.m3u
+#EXTINF:-1,[SHOW] João Neto e Frederico
+http://tv.minhalista.me/live/gil148/gil148/39790.m3u
+#EXTINF:-1,[SHOW] Leonardo Gonçalves
+http://tv.minhalista.me/live/gil148/gil148/64458.m3u
+#EXTINF:-1,[SHOW] Linkin Park
+http://tv.minhalista.me/live/gil148/gil148/63004.m3u
+#EXTINF:-1,[SHOW] Luan Santana
+http://tv.minhalista.me/live/gil148/gil148/70573.m3u
+#EXTINF:-1,[SHOW] Maná
+http://tv.minhalista.me/live/gil148/gil148/67437.m3u
+#EXTINF:-1,[SHOW] Marina Valadão
+http://tv.minhalista.me/live/gil148/gil148/64457.m3u
+#EXTINF:-1,[SHOW] Mayck e Lyan - Modão e Viola
+http://tv.minhalista.me/live/gil148/gil148/70572.m3u
+#EXTINF:-1,[SHOW] Metálica
+http://tv.minhalista.me/live/gil148/gil148/42577.m3u
+#EXTINF:-1,[SHOW] Michael Jackson
+http://tv.minhalista.me/live/gil148/gil148/67435.m3u
+#EXTINF:-1,[SHOW] Midian Lima
+http://tv.minhalista.me/live/gil148/gil148/64454.m3u
+#EXTINF:-1,[SHOW] Milionario e Jose Rico
+http://tv.minhalista.me/live/gil148/gil148/39789.m3u
+#EXTINF:-1,[SHOW] O Melhor do Pagode
+http://tv.minhalista.me/live/gil148/gil148/39773.m3u
+#EXTINF:-1,[SHOW] O Melhor do Samba
+http://tv.minhalista.me/live/gil148/gil148/71580.m3u
+#EXTINF:-1,[SHOW] Pearl Jam
+http://tv.minhalista.me/live/gil148/gil148/42444.m3u
+#EXTINF:-1,[SHOW] Pink Floyd
+http://tv.minhalista.me/live/gil148/gil148/42445.m3u
+#EXTINF:-1,[SHOW] Pitty
+http://tv.minhalista.me/live/gil148/gil148/69598.m3u
+#EXTINF:-1,[SHOW] Queen - Greatest Flix
+http://tv.minhalista.me/live/gil148/gil148/42572.m3u
+#EXTINF:-1,[SHOW] Racionais Mc's
+http://tv.minhalista.me/live/gil148/gil148/39784.m3u
+#EXTINF:-1,[SHOW] Red Hot Chili Peppers
+http://tv.minhalista.me/live/gil148/gil148/67439.m3u
+#EXTINF:-1,[SHOW] Rose Nascimento
+http://tv.minhalista.me/live/gil148/gil148/64462.m3u
+#EXTINF:-1,[SHOW] Show da Viola
+http://tv.minhalista.me/live/gil148/gil148/39770.m3u
+#EXTINF:-1,[SHOW] Simone e Simaria
+http://tv.minhalista.me/live/gil148/gil148/39792.m3u
+#EXTINF:-1,[SHOW] Teodoro & Sampaio
+http://tv.minhalista.me/live/gil148/gil148/39791.m3u
+#EXTINF:-1,[SHOW] Thalles Roberto
+http://tv.minhalista.me/live/gil148/gil148/64460.m3u
+#EXTINF:-1,[SHOW] The Rolling Stones - Live at the Max
+http://tv.minhalista.me/live/gil148/gil148/63039.m3u
+#EXTINF:-1,[SHOW] Wesley Safadão
+http://tv.minhalista.me/live/gil148/gil148/69595.m3u
+#EXTINF:-1,[SHOW] Xand Avião
+http://tv.minhalista.me/live/gil148/gil148/70571.m3u
+#EXTINF:-1,[XX] ADULTO 1
+http://tv.minhalista.me/live/gil148/gil148/52276.m3u
+#EXTINF:-1,[XX] ADULTO 10
+http://tv.minhalista.me/live/gil148/gil148/52285.m3u
+#EXTINF:-1,[XX] ADULTO 11
+http://tv.minhalista.me/live/gil148/gil148/57091.m3u
+#EXTINF:-1,[XX] ADULTO 12
+http://tv.minhalista.me/live/gil148/gil148/57092.m3u
+#EXTINF:-1,[XX] ADULTO 13
+http://tv.minhalista.me/live/gil148/gil148/57095.m3u
+#EXTINF:-1,[XX] ADULTO 14
+http://tv.minhalista.me/live/gil148/gil148/57097.m3u
+#EXTINF:-1,[XX] ADULTO 15
+http://tv.minhalista.me/live/gil148/gil148/57098.m3u
+#EXTINF:-1,[XX] ADULTO 16
+http://tv.minhalista.me/live/gil148/gil148/57099.m3u
+#EXTINF:-1,[XX] ADULTO 17
+http://tv.minhalista.me/live/gil148/gil148/57100.m3u
+#EXTINF:-1,[XX] ADULTO 18
+http://tv.minhalista.me/live/gil148/gil148/57101.m3u
+#EXTINF:-1,[XX] ADULTO 19
+http://tv.minhalista.me/live/gil148/gil148/57102.m3u
+#EXTINF:-1,[XX] ADULTO 2
+http://tv.minhalista.me/live/gil148/gil148/52278.m3u
+#EXTINF:-1,[XX] ADULTO 3
+http://tv.minhalista.me/live/gil148/gil148/52279.m3u
+#EXTINF:-1,[XX] ADULTO 4
+http://tv.minhalista.me/live/gil148/gil148/52280.m3u
+#EXTINF:-1,[XX] ADULTO 5
+http://tv.minhalista.me/live/gil148/gil148/52281.m3u
+#EXTINF:-1,[XX] ADULTO 7
+http://tv.minhalista.me/live/gil148/gil148/52282.m3u
+#EXTINF:-1,[XX] ADULTO 8
+http://tv.minhalista.me/live/gil148/gil148/52283.m3u
+#EXTINF:-1,[XX] ADULTO 9
+http://tv.minhalista.me/live/gil148/gil148/52284.m3u
+#EXTINF:-1,[XX] Adulto 01 [4K]
+http://tv.minhalista.me/live/gil148/gil148/62617.m3u
+#EXTINF:-1,[XX] Adulto 02 [4K]
+http://tv.minhalista.me/live/gil148/gil148/62618.m3u
+#EXTINF:-1,[XX] Adulto 03 [4K]
+http://tv.minhalista.me/live/gil148/gil148/62619.m3u
+#EXTINF:-1,[XX] Adulto 04 [4K]
+http://tv.minhalista.me/live/gil148/gil148/62622.m3u
+#EXTINF:-1,[XX] Adulto 05 [4K]
+http://tv.minhalista.me/live/gil148/gil148/62623.m3u
+#EXTINF:-1,[XX] Adulto 06 [4K]
+http://tv.minhalista.me/live/gil148/gil148/62624.m3u
+#EXTINF:-1,[XX] Adulto 07 [4K]
+http://tv.minhalista.me/live/gil148/gil148/62625.m3u
+#EXTINF:-1,[XX] Adulto 08 [4K]
+http://tv.minhalista.me/live/gil148/gil148/62626.m3u
+#EXTINF:-1,[XX] Adulto 09 [4K]
+http://tv.minhalista.me/live/gil148/gil148/63076.m3u
+#EXTINF:-1,[XX] Adulto 10 [4K]
+http://tv.minhalista.me/live/gil148/gil148/63078.m3u
+#EXTINF:-1,[XX] Adulto 11 [4K]
+http://tv.minhalista.me/live/gil148/gil148/63079.m3u
+#EXTINF:-1,[XX] Adulto 12 [4K]
+http://tv.minhalista.me/live/gil148/gil148/63080.m3u
+#EXTINF:-1,[XX] Adulto 13 [4K]
+http://tv.minhalista.me/live/gil148/gil148/63081.m3u
+#EXTINF:-1,[XX] Adulto 14 [4K]
+http://tv.minhalista.me/live/gil148/gil148/63082.m3u
+#EXTINF:-1,[XX] Adulto 15 [4k]
+http://tv.minhalista.me/live/gil148/gil148/63083.m3u
+#EXTINF:-1,[XX] Adulto 16  [4K]
+http://tv.minhalista.me/live/gil148/gil148/63084.m3u
+#EXTINF:-1,[XX] Adulto 17 [4K]
+http://tv.minhalista.me/live/gil148/gil148/69330.m3u
+#EXTINF:-1,[XX] Adulto 18 [4K]
+http://tv.minhalista.me/live/gil148/gil148/69331.m3u
+#EXTINF:-1,[XX] Adulto 19 [4K]
+http://tv.minhalista.me/live/gil148/gil148/69332.m3u
+#EXTINF:-1,[XX] Adulto 20
+http://tv.minhalista.me/live/gil148/gil148/57113.m3u
+#EXTINF:-1,[XX] Adulto 20 [4K]
+http://tv.minhalista.me/live/gil148/gil148/69333.m3u
+#EXTINF:-1,[XX] Adulto 21
+http://tv.minhalista.me/live/gil148/gil148/69517.m3u
+#EXTINF:-1,[XX] Adulto 22
+http://tv.minhalista.me/live/gil148/gil148/69518.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 01
+http://tv.minhalista.me/live/gil148/gil148/63355.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 02
+http://tv.minhalista.me/live/gil148/gil148/63356.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 03
+http://tv.minhalista.me/live/gil148/gil148/63357.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 04
+http://tv.minhalista.me/live/gil148/gil148/63358.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 05
+http://tv.minhalista.me/live/gil148/gil148/63359.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 06
+http://tv.minhalista.me/live/gil148/gil148/63360.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 07
+http://tv.minhalista.me/live/gil148/gil148/63361.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 08
+http://tv.minhalista.me/live/gil148/gil148/63362.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 09
+http://tv.minhalista.me/live/gil148/gil148/63363.m3u
+#EXTINF:-1,[XX] BRASILEIRINHAS 10
+http://tv.minhalista.me/live/gil148/gil148/63364.m3u
+#EXTINF:-1,[XX] Brazzers Europe
+http://tv.minhalista.me/live/gil148/gil148/63714.m3u
+#EXTINF:-1,[XX] CENTOXCENTO
+http://tv.minhalista.me/live/gil148/gil148/63712.m3u
+#EXTINF:-1,[XX] Candy
+http://tv.minhalista.me/live/gil148/gil148/63713.m3u
+#EXTINF:-1,[XX] Dorcel TV
+http://tv.minhalista.me/live/gil148/gil148/63711.m3u
+#EXTINF:-1,[XX] Filme 01
+http://tv.minhalista.me/live/gil148/gil148/63119.m3u
+#EXTINF:-1,[XX] Filme 02
+http://tv.minhalista.me/live/gil148/gil148/63120.m3u
+#EXTINF:-1,[XX] Filme 03
+http://tv.minhalista.me/live/gil148/gil148/63121.m3u
+#EXTINF:-1,[XX] Filme 04
+http://tv.minhalista.me/live/gil148/gil148/63122.m3u
+#EXTINF:-1,[XX] Filme 05
+http://tv.minhalista.me/live/gil148/gil148/63123.m3u
+#EXTINF:-1,[XX] Filme 06
+http://tv.minhalista.me/live/gil148/gil148/63124.m3u
+#EXTINF:-1,[XX] Filme 07
+http://tv.minhalista.me/live/gil148/gil148/63125.m3u
+#EXTINF:-1,[XX] Filme 08
+http://tv.minhalista.me/live/gil148/gil148/63126.m3u
+#EXTINF:-1,[XX] Filme 09
+http://tv.minhalista.me/live/gil148/gil148/63127.m3u
+#EXTINF:-1,[XX] Filme 10
+http://tv.minhalista.me/live/gil148/gil148/63128.m3u
+#EXTINF:-1,[XX] Filme 11
+http://tv.minhalista.me/live/gil148/gil148/63129.m3u
+#EXTINF:-1,[XX] Filme 12
+http://tv.minhalista.me/live/gil148/gil148/63130.m3u
+#EXTINF:-1,[XX] Filme 13
+http://tv.minhalista.me/live/gil148/gil148/63131.m3u
+#EXTINF:-1,[XX] Filme 14
+http://tv.minhalista.me/live/gil148/gil148/63132.m3u
+#EXTINF:-1,[XX] Filme 15
+http://tv.minhalista.me/live/gil148/gil148/63133.m3u
+#EXTINF:-1,[XX] Filme 16
+http://tv.minhalista.me/live/gil148/gil148/63134.m3u
+#EXTINF:-1,[XX] Filme 17
+http://tv.minhalista.me/live/gil148/gil148/63135.m3u
+#EXTINF:-1,[XX] Filme 18
+http://tv.minhalista.me/live/gil148/gil148/63136.m3u
+#EXTINF:-1,[XX] Filme 19
+http://tv.minhalista.me/live/gil148/gil148/63137.m3u
+#EXTINF:-1,[XX] Filme 20
+http://tv.minhalista.me/live/gil148/gil148/63138.m3u
+#EXTINF:-1,[XX] Filme 21
+http://tv.minhalista.me/live/gil148/gil148/63139.m3u
+#EXTINF:-1,[XX] Filme 22
+http://tv.minhalista.me/live/gil148/gil148/63140.m3u
+#EXTINF:-1,[XX] Filme 23
+http://tv.minhalista.me/live/gil148/gil148/63141.m3u
+#EXTINF:-1,[XX] Filme 24
+http://tv.minhalista.me/live/gil148/gil148/63142.m3u
+#EXTINF:-1,[XX] Filme 25
+http://tv.minhalista.me/live/gil148/gil148/63143.m3u
+#EXTINF:-1,[XX] Filme 26
+http://tv.minhalista.me/live/gil148/gil148/63144.m3u
+#EXTINF:-1,[XX] Filme 27
+http://tv.minhalista.me/live/gil148/gil148/63145.m3u
+#EXTINF:-1,[XX] Filme 28
+http://tv.minhalista.me/live/gil148/gil148/63146.m3u
+#EXTINF:-1,[XX] Filme 29
+http://tv.minhalista.me/live/gil148/gil148/63147.m3u
+#EXTINF:-1,[XX] Filme 30
+http://tv.minhalista.me/live/gil148/gil148/63148.m3u
+#EXTINF:-1,[XX] Filme 31
+http://tv.minhalista.me/live/gil148/gil148/63149.m3u
+#EXTINF:-1,[XX] Filme 32
+http://tv.minhalista.me/live/gil148/gil148/63150.m3u
+#EXTINF:-1,[XX] Filme 33
+http://tv.minhalista.me/live/gil148/gil148/63151.m3u
+#EXTINF:-1,[XX] Filme 34
+http://tv.minhalista.me/live/gil148/gil148/63152.m3u
+#EXTINF:-1,[XX] Filme 35
+http://tv.minhalista.me/live/gil148/gil148/63153.m3u
+#EXTINF:-1,[XX] Filme 36
+http://tv.minhalista.me/live/gil148/gil148/72861.m3u
+#EXTINF:-1,[XX] Filme 37
+http://tv.minhalista.me/live/gil148/gil148/72862.m3u
+#EXTINF:-1,[XX] Filme 38
+http://tv.minhalista.me/live/gil148/gil148/72864.m3u
+#EXTINF:-1,[XX] Filme 39
+http://tv.minhalista.me/live/gil148/gil148/72865.m3u
+#EXTINF:-1,[XX] Filme 40
+http://tv.minhalista.me/live/gil148/gil148/72866.m3u
+#EXTINF:-1,[XX] Filme 41
+http://tv.minhalista.me/live/gil148/gil148/72867.m3u
+#EXTINF:-1,[XX] Filme 42
+http://tv.minhalista.me/live/gil148/gil148/72868.m3u
+#EXTINF:-1,[XX] Filme 43
+http://tv.minhalista.me/live/gil148/gil148/72869.m3u
+#EXTINF:-1,[XX] Filme 44
+http://tv.minhalista.me/live/gil148/gil148/72870.m3u
+#EXTINF:-1,[XX] Filme 45
+http://tv.minhalista.me/live/gil148/gil148/72871.m3u
+#EXTINF:-1,[XX] Jasmin HD
+http://tv.minhalista.me/live/gil148/gil148/56409.m3u
+#EXTINF:-1,[XX] Jasmin TV
+http://tv.minhalista.me/live/gil148/gil148/40305.m3u
+#EXTINF:-1,[XX] PLAYBOY - H265
+http://tv.minhalista.me/live/gil148/gil148/62901.m3u
+#EXTINF:-1,[XX] Passion
+http://tv.minhalista.me/live/gil148/gil148/63709.m3u
+#EXTINF:-1,[XX] PentHouse Black
+http://tv.minhalista.me/live/gil148/gil148/63708.m3u
+#EXTINF:-1,[XX] PentHouse Quickies
+http://tv.minhalista.me/live/gil148/gil148/63707.m3u
+#EXTINF:-1,[XX] Pink-O
+http://tv.minhalista.me/live/gil148/gil148/63706.m3u
+#EXTINF:-1,[XX] Playboy TV
+http://tv.minhalista.me/live/gil148/gil148/37061.m3u
+#EXTINF:-1,[XX] Playboy TV  FHD
+http://tv.minhalista.me/live/gil148/gil148/41513.m3u
+#EXTINF:-1,[XX] Playboy TV HD
+http://tv.minhalista.me/live/gil148/gil148/40749.m3u
+#EXTINF:-1,[XX] Private
+http://tv.minhalista.me/live/gil148/gil148/63705.m3u
+#EXTINF:-1,[XX] REDLIGHT
+http://tv.minhalista.me/live/gil148/gil148/63704.m3u
+#EXTINF:-1,[XX] RUSNOCH
+http://tv.minhalista.me/live/gil148/gil148/63703.m3u
+#EXTINF:-1,[XX] SCT
+http://tv.minhalista.me/live/gil148/gil148/63702.m3u
+#EXTINF:-1,[XX] SEX HOT H265
+http://tv.minhalista.me/live/gil148/gil148/62837.m3u
+#EXTINF:-1,[XX] SEXT6SENSO
+http://tv.minhalista.me/live/gil148/gil148/63701.m3u
+#EXTINF:-1,[XX] SEXTREME H265
+http://tv.minhalista.me/live/gil148/gil148/62835.m3u
+#EXTINF:-1,[XX] Sex Prive FHD
+http://tv.minhalista.me/live/gil148/gil148/63643.m3u
+#EXTINF:-1,[XX] Sex Prive HD
+http://tv.minhalista.me/live/gil148/gil148/63642.m3u
+#EXTINF:-1,[XX] Sextream HD
+http://tv.minhalista.me/live/gil148/gil148/63782.m3u
+#EXTINF:-1,[XX] Sextreme
+http://tv.minhalista.me/live/gil148/gil148/37047.m3u
+#EXTINF:-1,[XX] Sexy Hot
+http://tv.minhalista.me/live/gil148/gil148/37009.m3u
+#EXTINF:-1,[XX] Sexy Hot FHD
+http://tv.minhalista.me/live/gil148/gil148/61969.m3u
+#EXTINF:-1,[XX] Sexy Hot HD
+http://tv.minhalista.me/live/gil148/gil148/61968.m3u
+#EXTINF:-1,[XX] VENUS H265
+http://tv.minhalista.me/live/gil148/gil148/62828.m3u
+#EXTINF:-1,[XX] VIVID Red
+http://tv.minhalista.me/live/gil148/gil148/63699.m3u
+#EXTINF:-1,[XX] Venus
+http://tv.minhalista.me/live/gil148/gil148/37026.m3u
+#EXTINF:-1,[XX] Venus FHD
+http://tv.minhalista.me/live/gil148/gil148/61967.m3u
+#EXTINF:-1,[XX] Venus HD
+http://tv.minhalista.me/live/gil148/gil148/61966.m3u
+#EXTINF:-1,mycujoo 01
+http://tv.minhalista.me/live/gil148/gil148/71452.m3u
+#EXTINF:-1,mycujoo 02
+http://tv.minhalista.me/live/gil148/gil148/71728.m3u
+#EXTINF:-1,mycujoo 03
+http://tv.minhalista.me/live/gil148/gil148/71729.m3u
+#EXTINF:-1,Câmeras Ao Vivo | Aspen Mountain
+http://tv.minhalista.me/live/gil148/gil148/62270.m3u
+#EXTINF:-1,Câmeras Ao Vivo | Barra da Tijuca
+http://tv.minhalista.me/live/gil148/gil148/64758.m3u
+#EXTINF:-1,Câmeras Ao Vivo | Elefantes - San Diego Zoo
+http://tv.minhalista.me/live/gil148/gil148/62234.m3u
+#EXTINF:-1,Câmeras Ao Vivo | Pinguins - San Diego Zoo
+http://tv.minhalista.me/live/gil148/gil148/62235.m3u
+#EXTINF:-1,Câmeras Ao Vivo | Tigres - San Diego Zoo
+http://tv.minhalista.me/live/gil148/gil148/62233.m3u
+#EXTINF:-1,Formiga Atómica 24hs
+http://tv.minhalista.me/live/gil148/gil148/57681.m3u
+#EXTINF:-1,3 Palavrinhas 24h
+http://tv.minhalista.me/live/gil148/gil148/62537.m3u
+#EXTINF:-1,A Gata Comeu 24h
+http://tv.minhalista.me/live/gil148/gil148/81840.m3u
+#EXTINF:-1,A Maldicao da Residencia 24h
+http://tv.minhalista.me/live/gil148/gil148/62697.m3u
+#EXTINF:-1,A Pantera Cor de Rosa [24h]
+http://tv.minhalista.me/live/gil148/gil148/39576.m3u
+#EXTINF:-1,A historia de Deus com Morgan Freeman 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62695.m3u
+#EXTINF:-1,ALADIN 24h
+http://tv.minhalista.me/live/gil148/gil148/59753.m3u
+#EXTINF:-1,American Horror 3 24h
+http://tv.minhalista.me/live/gil148/gil148/62698.m3u
+#EXTINF:-1,American Horror 4 24h
+http://tv.minhalista.me/live/gil148/gil148/62699.m3u
+#EXTINF:-1,American Horror 5 24h
+http://tv.minhalista.me/live/gil148/gil148/62700.m3u
+#EXTINF:-1,American Horror 6 24h
+http://tv.minhalista.me/live/gil148/gil148/62701.m3u
+#EXTINF:-1,American Horror 7 24h
+http://tv.minhalista.me/live/gil148/gil148/62702.m3u
+#EXTINF:-1,Apenas Um Show 24h
+http://tv.minhalista.me/live/gil148/gil148/62538.m3u
+#EXTINF:-1,As Tartarugas Ninja 24h
+http://tv.minhalista.me/live/gil148/gil148/61883.m3u
+#EXTINF:-1,As Telefonistas 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62703.m3u
+#EXTINF:-1,As Telefonistas 3 24h
+http://tv.minhalista.me/live/gil148/gil148/62705.m3u
+#EXTINF:-1,Assedio 24h
+http://tv.minhalista.me/live/gil148/gil148/62706.m3u
+#EXTINF:-1,Bates Motel 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62707.m3u
+#EXTINF:-1,Bates Motel 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62708.m3u
+#EXTINF:-1,Bates Motel 3 24h
+http://tv.minhalista.me/live/gil148/gil148/62709.m3u
+#EXTINF:-1,Bates Motel 4 24h
+http://tv.minhalista.me/live/gil148/gil148/62710.m3u
+#EXTINF:-1,Bates Motel 5 24h
+http://tv.minhalista.me/live/gil148/gil148/62711.m3u
+#EXTINF:-1,Black Lightning 24h
+http://tv.minhalista.me/live/gil148/gil148/62277.m3u
+#EXTINF:-1,Bob Zoom [24h]
+http://tv.minhalista.me/live/gil148/gil148/40745.m3u
+#EXTINF:-1,Breaking Bad 24hs
+http://tv.minhalista.me/live/gil148/gil148/59749.m3u
+#EXTINF:-1,Carcereiros 24h
+http://tv.minhalista.me/live/gil148/gil148/62279.m3u
+#EXTINF:-1,Cascão Maratona 24h
+http://tv.minhalista.me/live/gil148/gil148/61884.m3u
+#EXTINF:-1,Chapolin Colorado 24hs
+http://tv.minhalista.me/live/gil148/gil148/59743.m3u
+#EXTINF:-1,Charlie e Lola [24h]
+http://tv.minhalista.me/live/gil148/gil148/39579.m3u
+#EXTINF:-1,Chaves [24h]
+http://tv.minhalista.me/live/gil148/gil148/39762.m3u
+#EXTINF:-1,Chicago Med 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62715.m3u
+#EXTINF:-1,Chicago Med 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62716.m3u
+#EXTINF:-1,Chicago Med 3 24h
+http://tv.minhalista.me/live/gil148/gil148/62717.m3u
+#EXTINF:-1,Cocoricó [24h]
+http://tv.minhalista.me/live/gil148/gil148/39582.m3u
+#EXTINF:-1,Damnation 24h
+http://tv.minhalista.me/live/gil148/gil148/62280.m3u
+#EXTINF:-1,Dark Matter 24h
+http://tv.minhalista.me/live/gil148/gil148/62718.m3u
+#EXTINF:-1,Deceptions 24h
+http://tv.minhalista.me/live/gil148/gil148/62719.m3u
+#EXTINF:-1,Demolidor 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62720.m3u
+#EXTINF:-1,Demolidor 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62721.m3u
+#EXTINF:-1,Demolidor 3 24h
+http://tv.minhalista.me/live/gil148/gil148/62722.m3u
+#EXTINF:-1,Desenhos Biblicos [24h]
+http://tv.minhalista.me/live/gil148/gil148/39780.m3u
+#EXTINF:-1,Desenhos Mickey Mouse,  Pato Donald, Tico E Teco 24h
+http://tv.minhalista.me/live/gil148/gil148/61886.m3u
+#EXTINF:-1,Diario de Um Vampiro 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62281.m3u
+#EXTINF:-1,Diarios de Horrores 24h
+http://tv.minhalista.me/live/gil148/gil148/62723.m3u
+#EXTINF:-1,Diarios de Um Vampiro 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62724.m3u
+#EXTINF:-1,Digimon 24h
+http://tv.minhalista.me/live/gil148/gil148/59101.m3u
+#EXTINF:-1,Doctor Who 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62725.m3u
+#EXTINF:-1,Doctor Who 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62726.m3u
+#EXTINF:-1,Doctor Who 3 24h
+http://tv.minhalista.me/live/gil148/gil148/62727.m3u
+#EXTINF:-1,Doctor Who 4 24h
+http://tv.minhalista.me/live/gil148/gil148/62728.m3u
+#EXTINF:-1,Doctor Who 5 24h
+http://tv.minhalista.me/live/gil148/gil148/62729.m3u
+#EXTINF:-1,Doctor Who 6 24h
+http://tv.minhalista.me/live/gil148/gil148/62730.m3u
+#EXTINF:-1,Doctor Who 7 24h
+http://tv.minhalista.me/live/gil148/gil148/62731.m3u
+#EXTINF:-1,Doctor Who 8 24h
+http://tv.minhalista.me/live/gil148/gil148/62732.m3u
+#EXTINF:-1,Dupla Identidade 24h
+http://tv.minhalista.me/live/gil148/gil148/62733.m3u
+#EXTINF:-1,El Chapo 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62282.m3u
+#EXTINF:-1,Emergências Médicas 24h
+http://tv.minhalista.me/live/gil148/gil148/76270.m3u
+#EXTINF:-1,Espiões do Asfalto 24h
+http://tv.minhalista.me/live/gil148/gil148/81844.m3u
+#EXTINF:-1,Frequency 24h
+http://tv.minhalista.me/live/gil148/gil148/62283.m3u
+#EXTINF:-1,Future Man 24h
+http://tv.minhalista.me/live/gil148/gil148/62284.m3u
+#EXTINF:-1,Galinha Pintadinha [24h]
+http://tv.minhalista.me/live/gil148/gil148/39570.m3u
+#EXTINF:-1,Garfield [24h]
+http://tv.minhalista.me/live/gil148/gil148/39573.m3u
+#EXTINF:-1,Genesis 24h
+http://tv.minhalista.me/live/gil148/gil148/81838.m3u
+#EXTINF:-1,Gothan 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62286.m3u
+#EXTINF:-1,Greys Anatomy 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62287.m3u
+#EXTINF:-1,Guardiões da Galaxia 24hs
+http://tv.minhalista.me/live/gil148/gil148/57342.m3u
+#EXTINF:-1,Hannibal 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62288.m3u
+#EXTINF:-1,He Man [24h]
+http://tv.minhalista.me/live/gil148/gil148/39776.m3u
+#EXTINF:-1,He-Man 24hs
+http://tv.minhalista.me/live/gil148/gil148/53051.m3u
+#EXTINF:-1,Historias Disney 24hs
+http://tv.minhalista.me/live/gil148/gil148/56468.m3u
+#EXTINF:-1,Homem de Ferro 24hs
+http://tv.minhalista.me/live/gil148/gil148/57340.m3u
+#EXTINF:-1,Jack-Chan 24hs
+http://tv.minhalista.me/live/gil148/gil148/63197.m3u
+#EXTINF:-1,Jesus 24h
+http://tv.minhalista.me/live/gil148/gil148/81837.m3u
+#EXTINF:-1,José do Egito 24h
+http://tv.minhalista.me/live/gil148/gil148/81846.m3u
+#EXTINF:-1,Jurassic World 24h
+http://tv.minhalista.me/live/gil148/gil148/81848.m3u
+#EXTINF:-1,Justiceiro 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62289.m3u
+#EXTINF:-1,Kenan e Kel 24hs
+http://tv.minhalista.me/live/gil148/gil148/63199.m3u
+#EXTINF:-1,La Casa Papel 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62290.m3u
+#EXTINF:-1,La Casa Papel 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62291.m3u
+#EXTINF:-1,La Casa Papel 3 24h
+http://tv.minhalista.me/live/gil148/gil148/63893.m3u
+#EXTINF:-1,La Casa de Papel 4 24h
+http://tv.minhalista.me/live/gil148/gil148/81847.m3u
+#EXTINF:-1,Ligeirinho [24h]
+http://tv.minhalista.me/live/gil148/gil148/41893.m3u
+#EXTINF:-1,Looney Tones [24h]
+http://tv.minhalista.me/live/gil148/gil148/39575.m3u
+#EXTINF:-1,Lucas Neto 24h
+http://tv.minhalista.me/live/gil148/gil148/81843.m3u
+#EXTINF:-1,MENINAS SUPER PODEROSAS 24h
+http://tv.minhalista.me/live/gil148/gil148/59750.m3u
+#EXTINF:-1,Macgyver 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62292.m3u
+#EXTINF:-1,Manda Chuva [24h]
+http://tv.minhalista.me/live/gil148/gil148/41894.m3u
+#EXTINF:-1,Maquina Mortifera 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62293.m3u
+#EXTINF:-1,Masha e o Urso 24h
+http://tv.minhalista.me/live/gil148/gil148/61887.m3u
+#EXTINF:-1,Mecanismo 24h
+http://tv.minhalista.me/live/gil148/gil148/62294.m3u
+#EXTINF:-1,Medabots 24hs
+http://tv.minhalista.me/live/gil148/gil148/63201.m3u
+#EXTINF:-1,MegaMan 24hs
+http://tv.minhalista.me/live/gil148/gil148/63202.m3u
+#EXTINF:-1,Mortal Kombat 24hs
+http://tv.minhalista.me/live/gil148/gil148/63203.m3u
+#EXTINF:-1,Mônica Chefe 24h
+http://tv.minhalista.me/live/gil148/gil148/81842.m3u
+#EXTINF:-1,Narcos 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62295.m3u
+#EXTINF:-1,Narcos 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62296.m3u
+#EXTINF:-1,O Incrivel Mundo de Gumball [24h]
+http://tv.minhalista.me/live/gil148/gil148/39774.m3u
+#EXTINF:-1,O Rico e Lázaro 24h
+http://tv.minhalista.me/live/gil148/gil148/81839.m3u
+#EXTINF:-1,Os Cavaleiros do Zodiaco 24hs
+http://tv.minhalista.me/live/gil148/gil148/57344.m3u
+#EXTINF:-1,Os Padrinhos Magicos [24h]
+http://tv.minhalista.me/live/gil148/gil148/39574.m3u
+#EXTINF:-1,Outsiders 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62297.m3u
+#EXTINF:-1,Outsiders 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62298.m3u
+#EXTINF:-1,PATATI PATATA [24h]
+http://tv.minhalista.me/live/gil148/gil148/39781.m3u
+#EXTINF:-1,PJ Masks [24h]
+http://tv.minhalista.me/live/gil148/gil148/39775.m3u
+#EXTINF:-1,POCOYO 24h
+http://tv.minhalista.me/live/gil148/gil148/61888.m3u
+#EXTINF:-1,Padrinhos Magicos e Pica Pau 24h
+http://tv.minhalista.me/live/gil148/gil148/62275.m3u
+#EXTINF:-1,Pepe Legal [24h]
+http://tv.minhalista.me/live/gil148/gil148/41897.m3u
+#EXTINF:-1,Peppa Pig [24h]
+http://tv.minhalista.me/live/gil148/gil148/39572.m3u
+#EXTINF:-1,Pequenos Espiões 24h
+http://tv.minhalista.me/live/gil148/gil148/81845.m3u
+#EXTINF:-1,Pica Pau Tom e Jerry 24h
+http://tv.minhalista.me/live/gil148/gil148/62276.m3u
+#EXTINF:-1,Pica Pau [24h]
+http://tv.minhalista.me/live/gil148/gil148/53025.m3u
+#EXTINF:-1,Planeta Terra  24h
+http://tv.minhalista.me/live/gil148/gil148/62299.m3u
+#EXTINF:-1,Popeye [24h]
+http://tv.minhalista.me/live/gil148/gil148/39777.m3u
+#EXTINF:-1,Prison Break 3 24h
+http://tv.minhalista.me/live/gil148/gil148/62302.m3u
+#EXTINF:-1,Prison Break 4 24h
+http://tv.minhalista.me/live/gil148/gil148/62303.m3u
+#EXTINF:-1,Prison Break 5 24h
+http://tv.minhalista.me/live/gil148/gil148/62304.m3u
+#EXTINF:-1,Rei do Gado 24h
+http://tv.minhalista.me/live/gil148/gil148/81841.m3u
+#EXTINF:-1,Sete Segundos 24h
+http://tv.minhalista.me/live/gil148/gil148/62305.m3u
+#EXTINF:-1,Sobrenatural 24hs
+http://tv.minhalista.me/live/gil148/gil148/58093.m3u
+#EXTINF:-1,Star Trek 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62306.m3u
+#EXTINF:-1,Star Trek 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62307.m3u
+#EXTINF:-1,Stranger Things 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62308.m3u
+#EXTINF:-1,Supernatural 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62309.m3u
+#EXTINF:-1,Teletubbies [24h]
+http://tv.minhalista.me/live/gil148/gil148/39583.m3u
+#EXTINF:-1,The Big Bang Theory 1 24h
+http://tv.minhalista.me/live/gil148/gil148/62310.m3u
+#EXTINF:-1,The Big Bang Theory 2 24h
+http://tv.minhalista.me/live/gil148/gil148/62311.m3u
+#EXTINF:-1,The Big Bang Theory 3 24h
+http://tv.minhalista.me/live/gil148/gil148/62312.m3u
+#EXTINF:-1,Turma da Monica [24h]
+http://tv.minhalista.me/live/gil148/gil148/39571.m3u
+#EXTINF:-1,Velozes e Furiosos 24h
+http://tv.minhalista.me/live/gil148/gil148/81836.m3u
+#EXTINF:-1,O Fantástico Mundo de Bobby 24HS
+http://tv.minhalista.me/live/gil148/gil148/63205.m3u
+#EXTINF:-1,101 Dalmatas 24HS
+http://tv.minhalista.me/live/gil148/gil148/70109.m3u
+#EXTINF:-1,A Feiticeira 24HS
+http://tv.minhalista.me/live/gil148/gil148/65265.m3u
+#EXTINF:-1,A Grande Familia 24HS
+http://tv.minhalista.me/live/gil148/gil148/65261.m3u
+#EXTINF:-1,A Lula Lele 24HS
+http://tv.minhalista.me/live/gil148/gil148/70300.m3u
+#EXTINF:-1,Aladdin 24HS
+http://tv.minhalista.me/live/gil148/gil148/70110.m3u
+#EXTINF:-1,Animais Selvagens 24HS
+http://tv.minhalista.me/live/gil148/gil148/69793.m3u
+#EXTINF:-1,As Aventuras de Tintim 24HS
+http://tv.minhalista.me/live/gil148/gil148/70111.m3u
+#EXTINF:-1,As tartarugas ninjas 24HS
+http://tv.minhalista.me/live/gil148/gil148/59745.m3u
+#EXTINF:-1,Ash vs Evil Dead 24HS
+http://tv.minhalista.me/live/gil148/gil148/69789.m3u
+#EXTINF:-1,Asterix e Obelix 24HS
+http://tv.minhalista.me/live/gil148/gil148/70389.m3u
+#EXTINF:-1,Ben 10 24HS
+http://tv.minhalista.me/live/gil148/gil148/59747.m3u
+#EXTINF:-1,Bibo Pai e Bob Filho 24HS
+http://tv.minhalista.me/live/gil148/gil148/70112.m3u
+#EXTINF:-1,Bicudo O Lobisomem 24HS
+http://tv.minhalista.me/live/gil148/gil148/70113.m3u
+#EXTINF:-1,Billy e Mandy 24HS
+http://tv.minhalista.me/live/gil148/gil148/70386.m3u
+#EXTINF:-1,Bita e os Animais 24HS
+http://tv.minhalista.me/live/gil148/gil148/63382.m3u
+#EXTINF:-1,Bob Esponja 24HS
+http://tv.minhalista.me/live/gil148/gil148/59746.m3u
+#EXTINF:-1,Brasil Selvagem 24HS
+http://tv.minhalista.me/live/gil148/gil148/71867.m3u
+#EXTINF:-1,CAO CORAGEM 24HS
+http://tv.minhalista.me/live/gil148/gil148/59744.m3u
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://tv.minhalista.me/live/gil148/gil148/59103.m3u
+#EXTINF:-1,Carmen Sandiego 24HS
+http://tv.minhalista.me/live/gil148/gil148/70107.m3u
+#EXTINF:-1,Cavalo de Fogo 24H
+http://tv.minhalista.me/live/gil148/gil148/62272.m3u
+#EXTINF:-1,Caverna do Dragão 24HS
+http://tv.minhalista.me/live/gil148/gil148/59748.m3u
+#EXTINF:-1,Caça-Fantasma 24HS
+http://tv.minhalista.me/live/gil148/gil148/70303.m3u
+#EXTINF:-1,Caçadores de Sombra 1 24H
+http://tv.minhalista.me/live/gil148/gil148/62712.m3u
+#EXTINF:-1,Caçadores de Sombra 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63730.m3u
+#EXTINF:-1,Caçadores de Sombra 3 24H
+http://tv.minhalista.me/live/gil148/gil148/62714.m3u
+#EXTINF:-1,Cãezinhos do Canil 24HS
+http://tv.minhalista.me/live/gil148/gil148/70399.m3u
+#EXTINF:-1,DC Super Hero Girls 24HS
+http://tv.minhalista.me/live/gil148/gil148/70387.m3u
+#EXTINF:-1,DRAGON BALL 24HS
+http://tv.minhalista.me/live/gil148/gil148/58094.m3u
+#EXTINF:-1,DRAGON BALL SUPER 24HS
+http://tv.minhalista.me/live/gil148/gil148/58092.m3u
+#EXTINF:-1,DRAGON BALL Z 24HS
+http://tv.minhalista.me/live/gil148/gil148/57682.m3u
+#EXTINF:-1,Denis, o pimentinha 24HS
+http://tv.minhalista.me/live/gil148/gil148/57343.m3u
+#EXTINF:-1,Desastres Aéreos 24H
+http://tv.minhalista.me/live/gil148/gil148/64035.m3u
+#EXTINF:-1,Desenhos Disney 24HS
+http://tv.minhalista.me/live/gil148/gil148/59102.m3u
+#EXTINF:-1,Dino Boy e o Vale Perdido 24HS
+http://tv.minhalista.me/live/gil148/gil148/70108.m3u
+#EXTINF:-1,Documentário Discovery 24HS
+http://tv.minhalista.me/live/gil148/gil148/69689.m3u
+#EXTINF:-1,Dois Homens e Meio 2 temp 24HS
+http://tv.minhalista.me/live/gil148/gil148/65250.m3u
+#EXTINF:-1,Dois Homens e Meio 24HS
+http://tv.minhalista.me/live/gil148/gil148/59100.m3u
+#EXTINF:-1,Don Quixote 24HS
+http://tv.minhalista.me/live/gil148/gil148/70390.m3u
+#EXTINF:-1,DuckTales 24HS
+http://tv.minhalista.me/live/gil148/gil148/70114.m3u
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS 1 TEMPORADA 24H
+http://tv.minhalista.me/live/gil148/gil148/62988.m3u
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS 2 TEMPORADA 24H
+http://tv.minhalista.me/live/gil148/gil148/62989.m3u
+#EXTINF:-1,Elite 24H
+http://tv.minhalista.me/live/gil148/gil148/63731.m3u
+#EXTINF:-1,Familia Soprano 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63732.m3u
+#EXTINF:-1,Familia Soprano 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63733.m3u
+#EXTINF:-1,Familia Soprano 3 24H
+http://tv.minhalista.me/live/gil148/gil148/63734.m3u
+#EXTINF:-1,Familia Soprano 4 24H
+http://tv.minhalista.me/live/gil148/gil148/63735.m3u
+#EXTINF:-1,Familia Urso 24HS
+http://tv.minhalista.me/live/gil148/gil148/70391.m3u
+#EXTINF:-1,Farine e Cocaine 24H
+http://tv.minhalista.me/live/gil148/gil148/63736.m3u
+#EXTINF:-1,Fear The Walking Dead 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63737.m3u
+#EXTINF:-1,Fear The Walking Dead 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63738.m3u
+#EXTINF:-1,Fear The Walking Dead 3 24H
+http://tv.minhalista.me/live/gil148/gil148/63739.m3u
+#EXTINF:-1,Frankenstein Junior 24HS
+http://tv.minhalista.me/live/gil148/gil148/70398.m3u
+#EXTINF:-1,Fugitivos 24H
+http://tv.minhalista.me/live/gil148/gil148/63740.m3u
+#EXTINF:-1,Game of Thrones 24HS
+http://tv.minhalista.me/live/gil148/gil148/69787.m3u
+#EXTINF:-1,Gamebros 24H
+http://tv.minhalista.me/live/gil148/gil148/63741.m3u
+#EXTINF:-1,Homens de Preto 24HS
+http://tv.minhalista.me/live/gil148/gil148/57186.m3u
+#EXTINF:-1,Hércules 24HS
+http://tv.minhalista.me/live/gil148/gil148/65252.m3u
+#EXTINF:-1,Impuros 24H
+http://tv.minhalista.me/live/gil148/gil148/63743.m3u
+#EXTINF:-1,Incrível Hulk 24HS
+http://tv.minhalista.me/live/gil148/gil148/56623.m3u
+#EXTINF:-1,Irmãos de Guerra 24H
+http://tv.minhalista.me/live/gil148/gil148/63744.m3u
+#EXTINF:-1,JIRAYA O Incrível Ninja 24HS
+http://tv.minhalista.me/live/gil148/gil148/63198.m3u
+#EXTINF:-1,Jackass 24H
+http://tv.minhalista.me/live/gil148/gil148/64785.m3u
+#EXTINF:-1,Jaspion & Jonny Quest 24HS
+http://tv.minhalista.me/live/gil148/gil148/62273.m3u
+#EXTINF:-1,Jogos Sagrados 24H
+http://tv.minhalista.me/live/gil148/gil148/63745.m3u
+#EXTINF:-1,Josie e as Gatinhas 24HS
+http://tv.minhalista.me/live/gil148/gil148/70115.m3u
+#EXTINF:-1,Koreia do Norte 24HS
+http://tv.minhalista.me/live/gil148/gil148/67440.m3u
+#EXTINF:-1,Lady Bug 24HS
+http://tv.minhalista.me/live/gil148/gil148/70577.m3u
+#EXTINF:-1,Largados e Pelados 24HS
+http://tv.minhalista.me/live/gil148/gil148/71694.m3u
+#EXTINF:-1,Legend of Tomorrow 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63747.m3u
+#EXTINF:-1,Legend of Tomorrow 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63748.m3u
+#EXTINF:-1,Liga da Justica 24HS
+http://tv.minhalista.me/live/gil148/gil148/63381.m3u
+#EXTINF:-1,Lucifer 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63751.m3u
+#EXTINF:-1,Lucifer 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63752.m3u
+#EXTINF:-1,Lucifer 3 24H
+http://tv.minhalista.me/live/gil148/gil148/63753.m3u
+#EXTINF:-1,Luke Cage 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63749.m3u
+#EXTINF:-1,Luke Cage 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63750.m3u
+#EXTINF:-1,Luluzinha 24HS
+http://tv.minhalista.me/live/gil148/gil148/63200.m3u
+#EXTINF:-1,Mickey e Donald 24HS
+http://tv.minhalista.me/live/gil148/gil148/70400.m3u
+#EXTINF:-1,Mindhunter 24H
+http://tv.minhalista.me/live/gil148/gil148/63754.m3u
+#EXTINF:-1,Mr Magoo 24HS
+http://tv.minhalista.me/live/gil148/gil148/70392.m3u
+#EXTINF:-1,Mr.Bean 24HS
+http://tv.minhalista.me/live/gil148/gil148/63204.m3u
+#EXTINF:-1,NARUTO 24HS
+http://tv.minhalista.me/live/gil148/gil148/56465.m3u
+#EXTINF:-1,O Homem Do Castelo Alto 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63755.m3u
+#EXTINF:-1,O Homem Do Castelo Alto 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63756.m3u
+#EXTINF:-1,O Homem Do Castelo Alto 3 24H
+http://tv.minhalista.me/live/gil148/gil148/63757.m3u
+#EXTINF:-1,O Inspetor 24HS
+http://tv.minhalista.me/live/gil148/gil148/63206.m3u
+#EXTINF:-1,O Negocio 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63758.m3u
+#EXTINF:-1,O Negocio 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63759.m3u
+#EXTINF:-1,O Negocio 3 24H
+http://tv.minhalista.me/live/gil148/gil148/63760.m3u
+#EXTINF:-1,O Negocio 4 24H
+http://tv.minhalista.me/live/gil148/gil148/63761.m3u
+#EXTINF:-1,O Show da Luna 24HS
+http://tv.minhalista.me/live/gil148/gil148/70388.m3u
+#EXTINF:-1,O Universo 24HS
+http://tv.minhalista.me/live/gil148/gil148/69794.m3u
+#EXTINF:-1,O Vira-Lata 24HS
+http://tv.minhalista.me/live/gil148/gil148/70302.m3u
+#EXTINF:-1,Os Anjinhos - Rugrats 24HS
+http://tv.minhalista.me/live/gil148/gil148/65253.m3u
+#EXTINF:-1,Os Herculoides 24HS
+http://tv.minhalista.me/live/gil148/gil148/70383.m3u
+#EXTINF:-1,Os Jetsons 24HS
+http://tv.minhalista.me/live/gil148/gil148/70397.m3u
+#EXTINF:-1,Os Trapalhões 24HS
+http://tv.minhalista.me/live/gil148/gil148/69790.m3u
+#EXTINF:-1,Os Vingadores 24H
+http://tv.minhalista.me/live/gil148/gil148/63207.m3u
+#EXTINF:-1,PERNALONGA 24H
+http://tv.minhalista.me/live/gil148/gil148/57341.m3u
+#EXTINF:-1,POLICIA 24H
+http://tv.minhalista.me/live/gil148/gil148/63276.m3u
+#EXTINF:-1,Pantanal 24H
+http://tv.minhalista.me/live/gil148/gil148/87357.m3u
+#EXTINF:-1,Papa-Léguas 24HS
+http://tv.minhalista.me/live/gil148/gil148/63208.m3u
+#EXTINF:-1,Patrulha Canina 24HS
+http://tv.minhalista.me/live/gil148/gil148/63074.m3u
+#EXTINF:-1,Pesadelo na Cozinha 24HS
+http://tv.minhalista.me/live/gil148/gil148/72916.m3u
+#EXTINF:-1,Phineas e Ferb 24HS
+http://tv.minhalista.me/live/gil148/gil148/63209.m3u
+#EXTINF:-1,Pink e Cerebro 24HS
+http://tv.minhalista.me/live/gil148/gil148/63210.m3u
+#EXTINF:-1,Pokemon 24HS
+http://tv.minhalista.me/live/gil148/gil148/63211.m3u
+#EXTINF:-1,Power Ranger 24HS
+http://tv.minhalista.me/live/gil148/gil148/69335.m3u
+#EXTINF:-1,Pronto Socorro 24HS
+http://tv.minhalista.me/live/gil148/gil148/71695.m3u
+#EXTINF:-1,QUILOS MORTAIS 24H
+http://tv.minhalista.me/live/gil148/gil148/84976.m3u
+#EXTINF:-1,Rambo 24HS
+http://tv.minhalista.me/live/gil148/gil148/65254.m3u
+#EXTINF:-1,Recruta Zero 24HS
+http://tv.minhalista.me/live/gil148/gil148/70396.m3u
+#EXTINF:-1,Roma 24HS
+http://tv.minhalista.me/live/gil148/gil148/69792.m3u
+#EXTINF:-1,Scooby-Doo 24HS
+http://tv.minhalista.me/live/gil148/gil148/65255.m3u
+#EXTINF:-1,Show Gospel 24HS
+http://tv.minhalista.me/live/gil148/gil148/65251.m3u
+#EXTINF:-1,Sitio do Pica Pau Amarelo 24HS
+http://tv.minhalista.me/live/gil148/gil148/70393.m3u
+#EXTINF:-1,Smallville 24HS
+http://tv.minhalista.me/live/gil148/gil148/65256.m3u
+#EXTINF:-1,South Park 24HS
+http://tv.minhalista.me/live/gil148/gil148/65257.m3u
+#EXTINF:-1,Space Ghost 24HS
+http://tv.minhalista.me/live/gil148/gil148/70395.m3u
+#EXTINF:-1,Steven Universe 24HS
+http://tv.minhalista.me/live/gil148/gil148/65258.m3u
+#EXTINF:-1,Super Amigos 24HS
+http://tv.minhalista.me/live/gil148/gil148/70301.m3u
+#EXTINF:-1,Super Choque 24HS
+http://tv.minhalista.me/live/gil148/gil148/65264.m3u
+#EXTINF:-1,Super Wings 24HS
+http://tv.minhalista.me/live/gil148/gil148/73039.m3u
+#EXTINF:-1,Superman 24HS
+http://tv.minhalista.me/live/gil148/gil148/65259.m3u
+#EXTINF:-1,Tokyo Ghoul 24H
+http://tv.minhalista.me/live/gil148/gil148/63742.m3u
+#EXTINF:-1,Trato Feito 24HS
+http://tv.minhalista.me/live/gil148/gil148/69791.m3u
+#EXTINF:-1,Tres Espias Demais 24HS
+http://tv.minhalista.me/live/gil148/gil148/65260.m3u
+#EXTINF:-1,Uma Família da Pesada 24HS
+http://tv.minhalista.me/live/gil148/gil148/65262.m3u
+#EXTINF:-1,Vai que Cola 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63678.m3u
+#EXTINF:-1,Vai que Cola 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63679.m3u
+#EXTINF:-1,Vikings 1 24H
+http://tv.minhalista.me/live/gil148/gil148/63762.m3u
+#EXTINF:-1,Vikings 2 24H
+http://tv.minhalista.me/live/gil148/gil148/63763.m3u
+#EXTINF:-1,Vikings 3 24H
+http://tv.minhalista.me/live/gil148/gil148/63764.m3u
+#EXTINF:-1,Vikings 4 24H
+http://tv.minhalista.me/live/gil148/gil148/63765.m3u
+#EXTINF:-1,Vikings 5 24H
+http://tv.minhalista.me/live/gil148/gil148/63766.m3u
+#EXTINF:-1,Xena 24HS
+http://tv.minhalista.me/live/gil148/gil148/65263.m3u
+#EXTINF:-1,Zig e Sharko 24HS
+http://tv.minhalista.me/live/gil148/gil148/70385.m3u
+#EXTINF:-1,Zé Buscapé 24HS
+http://tv.minhalista.me/live/gil148/gil148/70116.m3u
+#EXTINF:-1,[XX] Porno 24H
+http://tv.minhalista.me/live/gil148/gil148/64381.m3u
+#EXTINF:-1,Ameaça Profunda
+http://tv.minhalista.me/movie/gil148/gil148/81508.mp4
+#EXTINF:-1,Contos do Caçador de Sombras
+http://tv.minhalista.me/movie/gil148/gil148/75471.mp4
+#EXTINF:-1,Convidado Vitalicio
+http://tv.minhalista.me/movie/gil148/gil148/83108.mp4
+#EXTINF:-1,O Enviado Do Mal
+http://tv.minhalista.me/movie/gil148/gil148/83351.mp4
+#EXTINF:-1,Oliver!
+http://tv.minhalista.me/movie/gil148/gil148/54589.mp4
+#EXTINF:-1,Triplo X
+http://tv.minhalista.me/movie/gil148/gil148/48342.mp4
+#EXTINF:-1,XXX2 - Estado de Emergencia
+http://tv.minhalista.me/movie/gil148/gil148/54241.mp4
